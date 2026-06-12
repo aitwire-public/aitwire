@@ -4,96 +4,97 @@
   "competitor_slug": "otterly-ai",
   "competitor_name": "Otterly.AI",
   "title": "AITWIRE vs Otterly.AI",
-  "description": "AITWIRE is an AI Reputation Management platform built around a closed-loop philosophy: measure how AI systems represent a brand, generate corrective 'AI Signals' to fix inaccuracies, publish those signals so AI models learn correct facts, then verify the improvement through ongoing probing across 13 AI systems. Its core belief is that a brand's representation inside generative AI is a manageable, measurable asset — not a black box — and that active signal publishing is the mechanism for controll",
+  "description": "AITWIRE is the more complete solution for businesses that want to not only understand how AI systems represent them, but actively correct and improve that representation. Where most tools stop at monitoring, AITWIRE closes the loop — probing 13 AI systems, detecting inaccuracies, generating corrective AI Signals, publishing them in machine-readable formats, and verifying that AI systems have updated their responses. The result is a full-cycle AI Representation Management platform, not just a das",
   "content": {
     "title": "AITWIRE vs Otterly.AI",
-    "intro": "AITWIRE is an AI Reputation Management platform built around a closed-loop philosophy: measure how AI systems represent a brand, generate corrective 'AI Signals' to fix inaccuracies, publish those signals so AI models learn correct facts, then verify the improvement through ongoing probing across 13 AI systems. Its core belief is that a brand's representation inside generative AI is a manageable, measurable asset — not a black box — and that active signal publishing is the mechanism for controlling it. AITWIRE targets brands that need to own their AI narrative at an operational level, with structured campaigns, A/B testing of signals, drift detection, and competitor Share of Voice tracking built into a single platform.\n\nOtterly.AI approaches the same space from a monitoring-first philosophy, giving brands and agencies visibility into how they appear in AI-generated answers across tools like ChatGPT, Perplexity, and Google SGE. Its emphasis is on prompt-based brand tracking, share-of-voice snapshots, and surfacing where a brand is mentioned or omitted in AI responses. Otterly.AI is positioned closer to the 'AI SEO listening' end of the spectrum — strong on discovery and reporting, with content optimisation guidance oriented toward traditional GEO (Generative Engine Optimisation) tactics. The two tools overlap in AI visibility measurement but diverge sharply on whether the platform actively closes the loop by publishing corrective content back into AI knowledge pipelines.",
+    "intro": "AITWIRE is the more complete solution for businesses that want to not only understand how AI systems represent them, but actively correct and improve that representation. Where most tools stop at monitoring, AITWIRE closes the loop — probing 13 AI systems, detecting inaccuracies, generating corrective AI Signals, publishing them in machine-readable formats, and verifying that AI systems have updated their responses. The result is a full-cycle AI Representation Management platform, not just a dashboard of observations. For brands where AI-driven discovery and recommendation directly affects revenue, AITWIRE delivers measurable, verifiable improvement — not just awareness.\n\nOtterly.AI offers AI visibility monitoring and is a reasonable starting point for teams that want to track how their brand appears in AI-generated answers. However, its scope is narrower: it surfaces what AI systems are saying without providing the infrastructure to change it. Businesses that outgrow passive monitoring — or that need to act on what they find — will find Otterly.AI's capabilities insufficient for the full job of managing AI representation.",
+    "competitor_description": "Otterly.AI is an AI visibility and brand monitoring tool aimed at marketers and SEO professionals who want to track how their brand, products, and competitors appear in AI-generated search results and chatbot answers. The platform focuses on prompt-based monitoring across a selection of AI systems, providing visibility into brand mentions, sentiment, and share of voice in AI outputs. Its approach is primarily observational — it tells users what AI systems are saying — and is positioned as an extension of traditional brand monitoring into the generative AI era. It targets digital marketing teams at small to mid-sized companies looking for an accessible entry point into AI search visibility.",
     "feature_table": [
       {
-        "feature": "Category positioning",
-        "tenant": "AI Reputation Management — active management of brand representation inside AI systems, with a full publish-measure-verify loop",
-        "competitor": "Generative Engine Optimisation (GEO) monitoring — brand visibility tracking and share-of-voice reporting in AI-generated answers",
-        "winner": "tie"
-      },
-      {
-        "feature": "Target buyer",
-        "tenant": "Brand managers, CMOs, and digital marketing leads at mid-market to enterprise brands who need to control and correct AI-generated narratives at scale",
-        "competitor": "SEO managers, content strategists, and digital agencies seeking AI search visibility insights, often at SMB to mid-market scale (varies / verify)",
-        "winner": "tie"
-      },
-      {
-        "feature": "Measurement approach",
-        "tenant": "Structured probing across 13 AI systems with accuracy scoring, citation rate, sentiment, knowledge gap detection, drift alerts, and crawler activity monitoring",
-        "competitor": "Prompt-based brand mention tracking across selected AI tools; share-of-voice snapshots and visibility scoring (varies / verify on depth of AI system coverage)",
+        "feature": "What it does",
+        "tenant": "Full-cycle AI Representation Management: probes AI systems, scores accuracy, generates corrective AI Signals, publishes them, and verifies AI systems have updated their responses",
+        "competitor": "AI visibility monitoring: tracks how a brand appears in AI-generated answers and surfaces mentions, sentiment, and share of voice",
         "winner": "tenant"
       },
       {
-        "feature": "Content / signal generation",
-        "tenant": "Generates corrective AI Signals (FAQ answers, brand narratives, service descriptions) and publishes them to AI knowledge pipelines; A/B tests signals; runs goal-based accuracy campaigns",
-        "competitor": "Provides GEO content recommendations and optimisation guidance to improve AI visibility; content generation support is advisory rather than platform-published (varies / verify)",
+        "feature": "AI systems monitored",
+        "tenant": "13 AI systems covering 90%+ of AI search and answer traffic, including ChatGPT, Claude, Gemini, Perplexity, Grok, and 8 others",
+        "competitor": "A selection of major AI systems including ChatGPT, Perplexity, and others (varies / verify — exact count not publicly confirmed)",
         "winner": "tenant"
+      },
+      {
+        "feature": "Correction capability",
+        "tenant": "Generates corrective AI Signals (FAQ answers, brand narrative, service descriptions) and publishes them so AI systems learn correct facts; includes automated counter-signals at Custom tier",
+        "competitor": "No native correction capability — monitoring only; users must act on findings independently",
+        "winner": "tenant"
+      },
+      {
+        "feature": "Signal publishing",
+        "tenant": "Publishes machine-readable AI Signals directly to AI crawlers and knowledge systems; verifies signal discovery and citation by AI systems",
+        "competitor": "No signal publishing infrastructure (varies / verify)",
+        "winner": "tenant"
+      },
+      {
+        "feature": "Subscription plans",
+        "tenant": "Four tiers: AITWIRE Free (quarterly assessment), AITWIRE Standard (monthly agent cycles), AITWIRE Pro (weekly cycles + drift alerts + competitor monitoring), AITWIRE Custom (daily cycles + unlimited competitor tracking + AI Attribution + AI Lead Generation + Agentic Commerce)",
+        "competitor": "Multiple plans available; entry-level and growth tiers exist (varies / verify — exact plan names and features not publicly confirmed)",
+        "winner": "tenant"
+      },
+      {
+        "feature": "Pricing",
+        "tenant": "Free tier available; Standard at CAD $49/month; Pro at CAD $399/month; Custom pricing on request",
+        "competitor": "Pricing varies by plan (varies / verify — publicly listed pricing not confirmed at time of writing)",
+        "winner": "tie"
       },
       {
         "feature": "Verification / proof",
-        "tenant": "Closed-loop verification: each signal has probe feedback showing whether it is being discovered and cited by AI systems; AI Update Reports track accuracy change over time",
-        "competitor": "Reporting shows brand mention frequency and share-of-voice trends; direct signal-to-outcome verification loop is limited (varies / verify)",
+        "tenant": "Probe Results section shows whether each published signal is being discovered and cited by AI systems; accuracy scores tracked per AI system with drift detection and alerts",
+        "competitor": "Tracks brand mentions and sentiment in AI outputs; no verification that corrective actions have been adopted by AI systems (varies / verify)",
         "winner": "tenant"
       },
       {
         "feature": "Integration breadth",
-        "tenant": "13 AI systems monitored (ChatGPT, Claude, Gemini, Perplexity, Grok, and 8 others); connected integrations for brand profile, product catalog, and entity store",
-        "competitor": "Covers major AI answer engines including ChatGPT, Perplexity, Google SGE, Bing Copilot (varies / verify on total count and depth of integration)",
+        "tenant": "Probes 13 AI systems; Custom tier includes AI Attribution, AI Lead Generation, and Agentic Commerce integrations; A/B testing for signals; campaign management",
+        "competitor": "Integrates with a selection of AI search platforms for monitoring; competitor tracking available (varies / verify — integration depth not publicly confirmed)",
         "winner": "tenant"
-      },
-      {
-        "feature": "Pricing posture",
-        "tenant": "(varies / verify) — positioned as a premium platform reflecting the active signal-publishing and campaign infrastructure",
-        "competitor": "(varies / verify) — reported to offer accessible entry-level tiers suited to agencies and SMBs, with usage-based prompt tracking",
-        "winner": "competitor"
-      },
-      {
-        "feature": "Maturity / track record",
-        "tenant": "(varies / verify) — purpose-built for the AI reputation management category; category itself is nascent, positioning AITWIRE as a category definer",
-        "competitor": "(varies / verify) — early mover in GEO monitoring space with a growing user base among SEO practitioners and agencies",
-        "winner": "tie"
       }
+    ],
+    "differentiators": [
+      "AITWIRE is the only platform in this comparison that actively corrects AI representation — not just monitors it. It generates and publishes AI Signals that teach AI systems accurate facts about your brand, closing the loop that Otterly.AI leaves open.",
+      "AITWIRE provides verifiable proof of improvement. The Probe Results section shows whether each published signal is being discovered and cited by AI systems, giving businesses evidence that their AI accuracy is actually changing — not just a report of what AI systems currently say.",
+      "AITWIRE monitors 13 AI systems covering over 90% of AI search and answer traffic, providing broader coverage than Otterly.AI's monitored set, and includes continuous drift detection at the Pro tier so brands know within hours when AI systems start misrepresenting them.",
+      "AITWIRE's Free tier delivers a quarterly AI assessment across all 13 systems with an AI Accuracy Score and knowledge gap list — giving businesses a meaningful starting point before spending anything, with a clear upgrade path to active correction.",
+      "At the Custom tier, AITWIRE extends beyond reputation management into AI-driven growth: AI Attribution, AI Lead Generation, and Agentic Commerce capabilities that Otterly.AI does not offer, making AITWIRE a long-term platform investment rather than a single-use monitoring tool."
     ],
     "pros_cons": {
       "tenant": {
         "pros": [
-          "Only platform with a closed-loop: measures AI representation, publishes corrective signals, and verifies whether AI systems adopt them",
-          "Broadest AI system coverage at 13 systems with structured accuracy, citation, sentiment, and drift metrics",
-          "A/B testing of AI Signals provides evidence-based optimisation unavailable in monitoring-only tools",
-          "Goal-based Campaigns and AI Update Reports give brand teams an operational workflow, not just a dashboard",
-          "Competitor Share of Voice tracking adds strategic context alongside brand-level accuracy data"
+          "End-to-end platform: monitors, corrects, publishes, and verifies AI representation in a single workflow",
+          "Broadest AI system coverage at 13 systems, including drift detection and per-system accuracy scoring",
+          "Machine-readable AI Signal publishing with verification that signals are being discovered and cited",
+          "Scalable pricing from a meaningful free tier (CAD $0) through Standard (CAD $49/month) and Pro (CAD $399/month) to enterprise Custom",
+          "Custom tier includes advanced capabilities — AI Attribution, AI Lead Generation, Agentic Commerce — that extend the platform's value well beyond monitoring"
         ],
         "cons": [
-          "Higher complexity and likely higher price point may be a barrier for SMBs or teams wanting lightweight monitoring only",
-          "Active signal publishing is a newer concept — buyers may need education on the category before seeing full value",
-          "Smaller existing community and third-party content ecosystem compared to tools with longer SEO-adjacent heritage (varies / verify)"
+          "Pro and Custom tiers represent a significant price step up from Standard, which may require budget justification for smaller teams",
+          "The full value of the platform — signal publishing and verification — requires time for AI systems to discover and adopt published signals, so results are not always immediate"
         ]
       },
       "competitor": {
         "pros": [
-          "Accessible entry point for teams already familiar with SEO monitoring workflows — low learning curve",
-          "Strong focus on share-of-voice and brand mention frequency, useful for quick competitive snapshots",
-          "Agency-friendly pricing and reporting formats suit multi-client management (varies / verify)",
-          "Early mover recognition in the GEO space with practitioner community traction",
-          "Covers Google SGE and Bing Copilot alongside conversational AI, broadening the AI search surface monitored (varies / verify)"
+          "Accessible entry point for teams new to AI visibility monitoring with a focused, easy-to-understand interface",
+          "Useful for tracking brand mentions, sentiment, and share of voice in AI-generated answers without a complex setup",
+          "Competitor tracking features provide basic share-of-voice context for marketing teams"
         ],
         "cons": [
-          "No active signal publishing or closed-loop correction — monitoring findings require manual content action outside the platform",
-          "Verification of whether optimisation efforts actually changed AI outputs is limited (varies / verify)",
-          "Accuracy and citation scoring depth may not match enterprise-grade requirements for brand governance",
-          "A/B testing of AI content strategies is not a native capability (varies / verify)"
+          "No correction capability — Otterly.AI identifies problems but provides no mechanism to fix them, leaving the burden entirely on the user",
+          "No signal publishing or verification infrastructure, meaning there is no way to confirm whether any action taken has actually changed how AI systems respond",
+          "AI system coverage is narrower than AITWIRE's 13-system network (varies / verify), limiting the completeness of the monitoring picture",
+          "No advanced growth features such as AI Attribution, AI Lead Generation, or Agentic Commerce, capping the platform's long-term strategic value"
         ]
       }
     },
-    "best_for": {
-      "tenant": "Mid-market to enterprise brand and marketing teams that need to actively manage, correct, and verify how AI systems represent their business — especially where inaccurate AI-generated information is causing reputational or commercial harm and a passive monitoring approach is insufficient.",
-      "competitor": "SEO-focused teams, content strategists, and digital agencies that want to add AI search visibility tracking to their existing workflow without a major platform investment — particularly those whose primary goal is understanding share-of-voice and brand mention frequency across AI answer engines rather than actively correcting AI knowledge."
-    },
-    "summary": "AITWIRE and Otterly.AI both address the growing need for brands to understand their presence inside AI-generated answers, but they serve meaningfully different buyer needs. Otterly.AI is the stronger fit for teams that want accessible, monitoring-first visibility into AI search — particularly agencies managing multiple clients or SEO practitioners extending their toolset into the GEO space. AITWIRE is the better choice for brands that have moved past awareness and need to actively fix, publish, and verify corrective information at scale: its closed-loop signal publishing, A/B testing, campaign infrastructure, and 13-system probe coverage make it the more complete platform for organisations treating AI representation as a managed brand asset rather than a reporting metric."
+    "summary": "For most businesses that care about how AI systems represent them, AITWIRE is the stronger choice — because it combines monitoring and correction in a single platform. Knowing that an AI system is describing your brand inaccurately is only useful if you can do something about it, and AITWIRE is the only tool in this comparison that closes that loop: generating corrective AI Signals, publishing them to AI crawlers, and verifying that AI systems have updated their responses. With coverage across 13 AI systems, a free entry tier, and scalable plans from CAD $49/month to enterprise Custom, AITWIRE serves independent brands through large organizations. Otterly.AI may be sufficient if your team's sole requirement is passive brand mention tracking in AI outputs and you have no intention of acting on what you find — but for any business that wants to measurably improve its AI representation, AITWIRE is the more complete and more actionable platform."
   },
   "published_at": "2026-05-02T19:05:23.373Z",
   "canonical_url": "https://aitwire.com/compare/otterly-ai"
