@@ -4,96 +4,97 @@
   "competitor_slug": "scrunch-ai",
   "competitor_name": "Scrunch AI",
   "title": "AITWIRE vs Scrunch AI",
-  "description": "AITWIRE is purpose-built for AI Reputation Management — a discipline focused on how generative AI systems (ChatGPT, Claude, Gemini, Perplexity, Grok, and others) represent a specific brand. Its philosophy is closed-loop: measure what AI says about your business, identify gaps and inaccuracies, publish corrective AI Signals, then verify that those signals are being discovered and cited. The platform treats AI representation as an ongoing reputation asset requiring active management, not a one-tim",
+  "description": "AITWIRE is the more complete solution for businesses that need to both understand and actively fix how AI systems represent them. Where other tools stop at monitoring or analytics, AITWIRE closes the loop — probing 13 AI systems, detecting inaccuracies, generating corrective AI Signals, publishing them in machine-readable formats, and verifying that corrections actually take hold. The result is a full-cycle AI Representation Management platform, not just a dashboard of observations. For brands w",
   "content": {
     "title": "AITWIRE vs Scrunch AI",
-    "intro": "AITWIRE is purpose-built for AI Reputation Management — a discipline focused on how generative AI systems (ChatGPT, Claude, Gemini, Perplexity, Grok, and others) represent a specific brand. Its philosophy is closed-loop: measure what AI says about your business, identify gaps and inaccuracies, publish corrective AI Signals, then verify that those signals are being discovered and cited. The platform treats AI representation as an ongoing reputation asset requiring active management, not a one-time optimisation task. Scrunch AI approaches the same broad space from a content intelligence and generative-engine optimisation (GEO) angle — its philosophy centres on helping brands understand how their content performs within AI-generated answers, with an emphasis on content strategy, topic authority, and organic visibility in AI-powered search surfaces.\n\nBoth tools operate at the intersection of AI and brand visibility, and both respond to the same macro-shift: AI systems are becoming primary information intermediaries between brands and their audiences. Where they diverge is in emphasis and workflow. AITWIRE is signal-centric — it actively publishes structured facts to correct AI knowledge — while Scrunch AI is content-centric, helping teams audit and optimise existing web content so that AI systems surface it more favourably. Buyers choosing between them are really choosing between an active reputation-correction posture and a content-strategy-led GEO posture.",
+    "intro": "AITWIRE is the more complete solution for businesses that need to both understand and actively fix how AI systems represent them. Where other tools stop at monitoring or analytics, AITWIRE closes the loop — probing 13 AI systems, detecting inaccuracies, generating corrective AI Signals, publishing them in machine-readable formats, and verifying that corrections actually take hold. The result is a full-cycle AI Representation Management platform, not just a dashboard of observations. For brands where AI-generated answers drive discovery, consideration, and purchase decisions, AITWIRE delivers measurable accuracy improvement — not just awareness of the problem.\n\nScrunch AI approaches the space from a narrower angle, focusing primarily on influencer discovery and creator analytics powered by AI. It is a capable tool for marketing teams that need to identify and evaluate influencer partnerships, but it does not monitor how AI systems describe your brand, does not detect AI-generated inaccuracies, and has no mechanism to publish corrective signals to AI systems. Buyers evaluating tools for AI reputation, AI search visibility, or AI accuracy management will find Scrunch AI addresses a fundamentally different problem.",
+    "competitor_description": "Scrunch AI is an AI-powered influencer marketing and creator analytics platform targeting marketing teams, agencies, and brands that run influencer or creator-driven campaigns. Its core capabilities include influencer discovery, audience analysis, campaign tracking, and performance reporting. Scrunch AI uses machine learning to surface relevant creators and evaluate audience authenticity, making it a useful tool within the influencer marketing workflow. It does not operate in the AI representation or AI search accuracy space — it does not probe large language models, measure how AI systems describe a business, or publish signals to correct AI-generated misinformation.",
     "feature_table": [
       {
-        "feature": "Category positioning",
-        "tenant": "AI Reputation Management — monitors, measures, and actively corrects how 13 named AI systems represent a brand. Treats AI accuracy as a managed business metric.",
-        "competitor": "Generative Engine Optimisation (GEO) / AI content intelligence — focuses on content discoverability and citation likelihood within AI-powered search and answer engines.",
-        "winner": "tie"
-      },
-      {
-        "feature": "Target buyer",
-        "tenant": "Brand, comms, and marketing leaders at mid-market to enterprise companies who need to control factual accuracy of AI-generated brand narratives; also agencies managing AI reputation for clients.",
-        "competitor": "SEO managers, content strategists, and digital marketing teams at brands investing in organic AI-search visibility; agencies running GEO programmes. (varies / verify)",
-        "winner": "tie"
-      },
-      {
-        "feature": "Measurement approach",
-        "tenant": "Structured probe system: sends test queries to 13 AI systems, scores responses for accuracy, citation, sentiment, and coverage. Tracks drift over time with alerts. Produces per-signal and per-AI-system accuracy scores.",
-        "competitor": "Analyses how brand content appears in AI-generated answers; tracks mention share, topic coverage, and content gaps across AI search surfaces. (varies / verify)",
+        "feature": "What it does",
+        "tenant": "Measures, corrects, and improves how AI systems (ChatGPT, Claude, Gemini, Perplexity, Grok, and 8 others) describe and recommend your business. Full-cycle: probe → score → correct → verify.",
+        "competitor": "AI-powered influencer discovery, creator analytics, and campaign performance tracking for influencer marketing teams.",
         "winner": "tenant"
       },
       {
-        "feature": "Content / signal generation",
-        "tenant": "Generates structured AI Signals (FAQ answers, brand narratives, service descriptions) designed to be discovered and cited by AI crawlers. Includes A/B testing of signals and campaign-based accuracy improvement.",
-        "competitor": "Provides content recommendations and optimisation guidance to improve existing web content for AI discoverability; may generate content briefs or suggestions. (varies / verify)",
+        "feature": "AI systems monitored",
+        "tenant": "13 AI systems covering over 90% of AI search and answer traffic, including ChatGPT, Claude, Gemini, Perplexity, and Grok.",
+        "competitor": "Does not monitor AI language models or AI search systems for brand representation. Not applicable to this use case.",
+        "winner": "tenant"
+      },
+      {
+        "feature": "Correction capability",
+        "tenant": "Generates corrective AI Signals based on detected inaccuracies and publishes them so AI systems learn accurate facts about your brand.",
+        "competitor": "No correction capability for AI-generated brand descriptions. Corrections are not part of the product scope.",
+        "winner": "tenant"
+      },
+      {
+        "feature": "Signal publishing",
+        "tenant": "Publishes machine-readable AI Signals (FAQ answers, brand narrative, service descriptions) designed to be discovered and cited by AI crawlers and systems.",
+        "competitor": "No signal publishing to AI systems. Content distribution is limited to influencer campaign outputs. (varies / verify)",
+        "winner": "tenant"
+      },
+      {
+        "feature": "Subscription plans",
+        "tenant": "Four tiers: AITWIRE Free (quarterly assessment), AITWIRE Standard (CAD $49/month, monthly agent cycle), AITWIRE Pro (CAD $399/month, weekly cycles + competitor monitoring), AITWIRE Custom (daily cycles, unlimited competitors, agentic commerce).",
+        "competitor": "Subscription plans available; specific tiers and pricing not publicly listed at time of writing. (varies / verify)",
+        "winner": "tenant"
+      },
+      {
+        "feature": "Pricing",
+        "tenant": "Transparent published pricing starting at CAD $0 (Free), CAD $49/month (Standard), CAD $399/month (Pro), and Custom enterprise pricing.",
+        "competitor": "Pricing not publicly disclosed on website; requires direct contact or demo request. (varies / verify)",
         "winner": "tenant"
       },
       {
         "feature": "Verification / proof",
-        "tenant": "Closed-loop verification: after signals are published, probes re-run to confirm whether AI systems are discovering and citing the corrected facts. Accuracy delta is measurable.",
-        "competitor": "Tracks changes in AI mention share and citation frequency over time as a proxy for content effectiveness. Direct before/after signal verification less explicit. (varies / verify)",
+        "tenant": "Agent re-probes AI systems after signal publishing to verify corrections were adopted. Drift detection alerts when AI systems revert to inaccurate descriptions.",
+        "competitor": "No verification loop for AI system accuracy. Campaign performance reporting available for influencer ROI, but not AI representation outcomes.",
         "winner": "tenant"
       },
       {
         "feature": "Integration breadth",
-        "tenant": "Monitors 13 AI systems including ChatGPT, Claude, Gemini, Perplexity, Grok, and others. Signal publishing integrates with brand-owned web properties and canonical data sources.",
-        "competitor": "Covers major AI search surfaces including Perplexity, ChatGPT browsing, Google AI Overviews, and others; integrates with content management and analytics workflows. (varies / verify)",
-        "winner": "tie"
-      },
-      {
-        "feature": "Pricing posture",
-        "tenant": "Subscription SaaS; tiered by number of AI systems monitored, signals published, and probe volume. Enterprise plans available. (varies / verify)",
-        "competitor": "Subscription SaaS; tiered by content volume, number of tracked topics, and seats. (varies / verify)",
-        "winner": "tie"
-      },
-      {
-        "feature": "Maturity / track record",
-        "tenant": "Emerging specialist platform in a newly defined category (AI Reputation Management); early-mover advantage in structured AI accuracy measurement and signal correction. (varies / verify)",
-        "competitor": "Early entrant in GEO tooling with growing adoption among SEO-forward teams; benefits from adjacency to established SEO workflows and buyer familiarity. (varies / verify)",
-        "winner": "tie"
+        "tenant": "Probes 13 AI systems; Pro and Custom plans include competitor tracking, AI attribution, AI lead generation, and agentic commerce integrations.",
+        "competitor": "Integrates with social platforms and influencer networks for campaign management. AI system integrations for brand monitoring not present. (varies / verify)",
+        "winner": "tenant"
       }
+    ],
+    "differentiators": [
+      "AITWIRE is the only platform in this comparison that actively corrects AI-generated inaccuracies — not just reports them. Scrunch AI has no mechanism to change what ChatGPT, Gemini, or Perplexity say about your brand.",
+      "AITWIRE monitors 13 AI systems covering over 90% of AI answer traffic, giving brands a comprehensive, verified view of their AI representation across every major platform where buyers ask questions.",
+      "AITWIRE closes the loop with verification — after publishing corrective AI Signals, the platform re-probes AI systems to confirm corrections were adopted and alerts you to drift. Scrunch AI offers no equivalent feedback loop for AI accuracy.",
+      "AITWIRE offers transparent, published pricing starting at CAD $0 with a meaningful free tier, making it accessible for independent brands and small businesses to start measuring AI accuracy immediately — no sales call required.",
+      "AITWIRE Pro and Custom plans include competitor monitoring and Share of Voice tracking within AI systems, giving brands strategic intelligence on how AI positions them relative to competitors — a capability entirely outside Scrunch AI's scope."
     ],
     "pros_cons": {
       "tenant": {
         "pros": [
-          "Only platform with closed-loop AI accuracy measurement: probes → signals → re-probe verification creates a defensible, measurable improvement cycle.",
-          "Covers 13 named AI systems simultaneously, giving the broadest cross-platform view of brand representation.",
-          "Signal A/B testing and campaign tooling allow systematic, data-driven correction of AI knowledge gaps — not just monitoring.",
-          "Drift detection and alerts surface reputation changes before they compound, enabling proactive management.",
-          "Canonical data model means the brand's declared facts are the single source of truth, reducing hallucination risk across AI systems."
+          "Full-cycle platform: probes, scores, corrects, publishes signals, and verifies — no separate tools needed.",
+          "Covers 13 AI systems representing over 90% of AI search and answer traffic.",
+          "Transparent pricing with a free tier, making AI accuracy assessment accessible at any budget.",
+          "Drift detection and continuous alerts (Pro and above) ensure brands know within hours when AI systems revert to inaccurate descriptions.",
+          "Competitor tracking and Share of Voice metrics (Pro and Custom) provide strategic AI visibility beyond just your own brand."
         ],
         "cons": [
-          "Newer category means buyers may need education on why AI reputation management is distinct from GEO or traditional SEO.",
-          "Signal publishing effectiveness depends on AI crawler discovery cycles, which are outside the platform's direct control.",
-          "Content strategy and topic-authority guidance is less central than in GEO-focused tools — buyers wanting deep content briefs may need complementary tooling.",
-          "Ecosystem integrations (CMS, analytics, PR tools) may be less mature than established SEO-adjacent platforms. (varies / verify)"
+          "AITWIRE is purpose-built for AI representation management — it does not replace influencer marketing platforms for teams that need creator discovery and campaign analytics.",
+          "The full value of weekly and daily agent cycles (Pro and Custom plans) requires ongoing investment; the Standard plan's monthly cycle may feel slow for brands in fast-moving or high-stakes categories."
         ]
       },
       "competitor": {
         "pros": [
-          "Strong fit for teams already running SEO programmes — GEO sits naturally alongside existing content workflows.",
-          "Content gap and topic-authority analysis helps brands build long-term AI discoverability through owned content assets.",
-          "Familiarity of the content-optimisation mental model lowers adoption friction for marketing and SEO teams.",
-          "Coverage of Google AI Overviews is strategically important for brands with high organic search dependency. (varies / verify)"
+          "Established tool for influencer discovery and creator analytics with AI-powered audience evaluation.",
+          "Useful for marketing teams running creator or influencer campaigns who need performance reporting in one place.",
+          "May offer social platform integrations relevant to influencer workflow that AITWIRE does not target. (varies / verify)"
         ],
         "cons": [
-          "Does not actively publish corrective signals to AI systems — influence is indirect, mediated through content changes and crawler discovery.",
-          "Factual accuracy of AI-generated brand narratives is not the primary measurement focus; sentiment and accuracy scoring less granular. (varies / verify)",
-          "Less suited to brands whose primary concern is AI hallucination or factual misrepresentation rather than content discoverability.",
-          "Verification loop is weaker — content changes and their downstream AI citation impact are harder to attribute cleanly. (varies / verify)"
+          "Does not monitor, measure, or score how AI language models represent your brand — the core problem AITWIRE solves is entirely outside Scrunch AI's scope.",
+          "No corrective signal publishing means inaccuracies in AI-generated brand descriptions cannot be addressed through the platform.",
+          "Pricing is not publicly disclosed, making it difficult to evaluate cost without a sales engagement.",
+          "No verification or drift detection for AI system accuracy — there is no feedback loop to confirm whether brand information in AI systems is correct or has changed."
         ]
       }
     },
-    "best_for": {
-      "tenant": "Brand managers, communications leaders, and marketing executives at mid-market to enterprise companies who need to ensure AI systems represent their business accurately — especially where AI hallucination, outdated facts, or competitive misrepresentation is a live risk. Also ideal for agencies offering AI reputation services to clients across multiple brands.",
-      "competitor": "SEO and content strategy teams at digitally mature brands who want to extend their organic visibility programme into AI-powered search surfaces — particularly those with large content libraries and a primary goal of increasing AI citation share rather than correcting specific factual inaccuracies."
-    },
-    "summary": "AITWIRE and Scrunch AI address adjacent but meaningfully different problems. AITWIRE is the stronger choice when the core concern is factual accuracy and active control of brand representation across AI systems — its probe-signal-verify loop is purpose-built for that outcome and has no direct equivalent in Scrunch AI's offering. Scrunch AI is the stronger choice when the buyer's primary goal is content-led AI discoverability — increasing the likelihood that existing web content is cited in AI-generated answers — and when the team is already operating within an SEO-centric workflow. Brands dealing with AI hallucination, outdated product information, or reputational risk in AI outputs should prioritise AITWIRE; brands focused on organic AI-search share of voice and content strategy should evaluate Scrunch AI. The two tools are more complementary than directly substitutable for sophisticated buyers."
+    "summary": "AITWIRE is the stronger choice for any business that cares about how AI systems describe, recommend, or omit them in AI-generated answers. It is the only platform in this comparison that measures AI representation across 13 systems, generates corrective signals, publishes them to AI crawlers, and verifies that corrections stick — all in a single platform with transparent pricing starting at CAD $0. Scrunch AI is a capable influencer marketing tool, but it operates in a different category entirely: if your sole need is influencer discovery and creator campaign analytics, Scrunch AI may serve that specific workflow. For everything related to AI accuracy, AI search visibility, and AI reputation management, AITWIRE is the clear and complete solution."
   },
   "published_at": "2026-05-02T19:04:37.017Z",
   "canonical_url": "https://aitwire.com/compare/scrunch-ai"
