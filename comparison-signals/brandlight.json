@@ -4,96 +4,97 @@
   "competitor_slug": "brandlight",
   "competitor_name": "Brandlight",
   "title": "AITWIRE vs Brandlight",
-  "description": "AITWIRE is purpose-built for AI Reputation Management — a discipline focused on how generative AI systems (ChatGPT, Claude, Gemini, Perplexity, Grok, and others) represent a brand in their outputs. Its philosophy is closed-loop and corrective: measure what AI systems say about your brand, identify inaccuracies and gaps, publish structured AI Signals to correct the record, then verify that those signals are being discovered and cited. The platform treats AI systems as a new class of information i",
+  "description": "AITWIRE is the more complete solution for businesses that want to control how AI systems describe and recommend them. Where other tools stop at monitoring, AITWIRE closes the loop: it probes 13 AI systems, scores accuracy, generates corrective AI Signals, publishes them in machine-readable formats, and then re-probes to verify the corrections took hold. That full cycle — measure, correct, verify — is what separates AI Representation Management from simple AI monitoring. AITWIRE also covers the w",
   "content": {
     "title": "AITWIRE vs Brandlight",
-    "intro": "AITWIRE is purpose-built for AI Reputation Management — a discipline focused on how generative AI systems (ChatGPT, Claude, Gemini, Perplexity, Grok, and others) represent a brand in their outputs. Its philosophy is closed-loop and corrective: measure what AI systems say about your brand, identify inaccuracies and gaps, publish structured AI Signals to correct the record, then verify that those signals are being discovered and cited. The platform treats AI systems as a new class of information intermediary that must be actively managed, not passively hoped for. Brandlight operates in the adjacent but distinct space of online reputation and brand authority management, with roots in review management, sentiment monitoring, and earned-media amplification. Its philosophy leans toward aggregating brand signals across the open web — reviews, press, social proof — and surfacing them to improve how a brand appears in search and, increasingly, in AI-generated answers. The two tools overlap in their shared goal of improving how a brand is represented by AI systems, but diverge sharply in methodology: AITWIRE is probe-first and signal-corrective, while Brandlight is content-aggregation and sentiment-first.",
+    "intro": "AITWIRE is the more complete solution for businesses that want to control how AI systems describe and recommend them. Where other tools stop at monitoring, AITWIRE closes the loop: it probes 13 AI systems, scores accuracy, generates corrective AI Signals, publishes them in machine-readable formats, and then re-probes to verify the corrections took hold. That full cycle — measure, correct, verify — is what separates AI Representation Management from simple AI monitoring. AITWIRE also covers the widest surface area in the market, reaching AI systems that together account for over 90% of search and answer traffic, and it does so on a continuous basis with drift alerts, competitor tracking, and agentic commerce capabilities at the higher tiers.\n\nBrandlight approaches the AI visibility problem from a narrower angle, focusing primarily on helping brands understand and influence how they appear in AI-generated answers and large language model outputs. It offers useful monitoring and some optimization guidance, but its toolset is oriented toward awareness and reporting rather than the automated, closed-loop correction pipeline that AITWIRE delivers. For brands that need to actively manage — not just observe — their AI representation, AITWIRE is the more capable and actionable platform.",
+    "competitor_description": "Brandlight is an AI brand monitoring and optimization platform targeting marketing teams and brand managers who want visibility into how their brand appears in AI-generated content and LLM-powered search results. The platform focuses on tracking brand mentions, sentiment, and positioning across AI systems, and provides recommendations for improving AI visibility. Brandlight's approach is primarily observational and advisory — it surfaces where a brand stands in AI outputs and offers guidance on content and SEO-adjacent strategies to influence those outputs over time. Its target market skews toward mid-market and enterprise marketing teams already invested in traditional SEO and brand monitoring workflows.",
     "feature_table": [
       {
-        "feature": "Category positioning",
-        "tenant": "AI Reputation Management — a dedicated category focused on measuring and correcting brand representation inside generative AI outputs across 13+ AI systems",
-        "competitor": "Online reputation and brand authority management with an emerging generative-engine optimisation (GEO) layer added to a broader reputation stack (varies / verify)",
+        "feature": "What it does",
+        "tenant": "Full-cycle AI Representation Management: probes AI systems, scores accuracy, generates corrective AI Signals, publishes them machine-readably, and re-probes to verify corrections",
+        "competitor": "AI brand monitoring and optimization guidance; tracks how brands appear in LLM outputs and provides advisory recommendations",
         "winner": "tenant"
       },
       {
-        "feature": "Target buyer",
-        "tenant": "Marketing leaders, brand managers, and digital teams at mid-market to enterprise companies who treat AI-system accuracy as a measurable business risk",
-        "competitor": "Brand and reputation managers, PR teams, and agencies focused on review volume, sentiment, and earned-media presence who want AI visibility as an add-on (varies / verify)",
-        "winner": "tie"
-      },
-      {
-        "feature": "Measurement approach",
-        "tenant": "Active probing: structured queries sent to 13 AI systems on a scheduled cadence, returning accuracy scores, citation rates, sentiment, coverage, and drift detection per signal",
-        "competitor": "Passive monitoring: aggregates mentions, reviews, and sentiment across web sources; AI-answer tracking appears to be a newer capability layered on top (varies / verify)",
+        "feature": "AI systems monitored",
+        "tenant": "13 AI systems covering 90%+ of search and answer traffic, including ChatGPT, Claude, Gemini, Perplexity, Grok, and 8 others",
+        "competitor": "Monitors select major LLMs and AI search platforms (varies / verify — exact count not publicly confirmed)",
         "winner": "tenant"
       },
       {
-        "feature": "Content / signal generation",
-        "tenant": "Generates structured AI Signals (FAQ answers, brand narratives, service descriptions) specifically formatted for AI crawler ingestion; A/B tests signals; runs goal-based accuracy campaigns",
-        "competitor": "Generates and amplifies review responses, press content, and brand narratives for web and search audiences; GEO-optimised content generation is an emerging feature (varies / verify)",
+        "feature": "Correction capability",
+        "tenant": "Automated corrective AI Signals generated after each probe cycle; signals are published so AI systems learn correct facts; counter-signals available on Custom plan",
+        "competitor": "Provides optimization recommendations and content guidance; no automated signal generation or machine-readable correction publishing (varies / verify)",
+        "winner": "tenant"
+      },
+      {
+        "feature": "Signal publishing",
+        "tenant": "Machine-readable AI Signals published directly to AI crawlers and knowledge pipelines; verified on re-probe",
+        "competitor": "No dedicated signal publishing infrastructure identified; relies on content and SEO-adjacent tactics to influence AI outputs (varies / verify)",
+        "winner": "tenant"
+      },
+      {
+        "feature": "Subscription plans",
+        "tenant": "Free, Standard (CAD $49/mo), Pro (CAD $399/mo), Custom (enterprise) — four tiers covering solo brands to large enterprises",
+        "competitor": "Paid plans available; specific tier structure and entry price not publicly confirmed (varies / verify)",
+        "winner": "tenant"
+      },
+      {
+        "feature": "Pricing",
+        "tenant": "Starts free; paid plans from CAD $49/month (Standard) to CAD $399/month (Pro); Custom pricing for enterprise",
+        "competitor": "Pricing not publicly listed; likely requires a sales conversation for most tiers (varies / verify)",
         "winner": "tenant"
       },
       {
         "feature": "Verification / proof",
-        "tenant": "Closed-loop verification built in: every published signal has probe results showing whether each AI system is discovering and citing it; Share of Voice and competitor tracking included",
-        "competitor": "Verification tied to web metrics (review counts, star ratings, search ranking improvements); direct proof that AI systems are citing specific signals is less granular (varies / verify)",
+        "tenant": "Re-probes AI systems after signal publishing to confirm corrections were adopted; AI Accuracy Score tracked over time with drift detection",
+        "competitor": "No closed-loop re-verification of corrections identified; reporting is primarily observational (varies / verify)",
         "winner": "tenant"
       },
       {
         "feature": "Integration breadth",
-        "tenant": "Integrates with AI system crawlers and knowledge pipelines; dashboard-native; API access for enterprise (varies / verify on third-party CRM/CMS integrations)",
-        "competitor": "Broader integration with review platforms (Google, Trustpilot, etc.), CRM tools, and social channels; web-ecosystem integrations are more mature (varies / verify)",
-        "winner": "competitor"
-      },
-      {
-        "feature": "Pricing posture",
-        "tenant": "SaaS subscription model tiered by number of AI systems monitored, signal volume, and probe frequency; positioned as a specialist tool with specialist pricing (varies / verify on exact tiers)",
-        "competitor": "Subscription model likely tiered by location count, review volume, or seat count; broader feature set may offer more perceived value for reputation-generalist buyers (varies / verify)",
-        "winner": "tie"
-      },
-      {
-        "feature": "Maturity / track record",
-        "tenant": "Newer entrant purpose-built for the generative AI era; category-defining positioning but shorter track record; growing rapidly as AI-answer visibility becomes a board-level concern",
-        "competitor": "More established in the broader online reputation space; longer customer history and case library, though GEO-specific track record is still developing (varies / verify)",
-        "winner": "competitor"
+        "tenant": "AI Attribution, AI Lead Generation, Agentic Commerce, competitor tracking, A/B testing of signals, and campaign management on Pro and Custom plans",
+        "competitor": "Integrates with marketing and analytics workflows; scope of integrations not fully documented publicly (varies / verify)",
+        "winner": "tenant"
       }
+    ],
+    "differentiators": [
+      "AITWIRE is the only platform that closes the full loop — probe, score, correct, publish, and re-verify — rather than stopping at monitoring and advisory recommendations.",
+      "AITWIRE probes 13 AI systems covering 90%+ of AI search and answer traffic, giving brands the broadest coverage available in a single platform.",
+      "AITWIRE publishes machine-readable AI Signals directly into AI knowledge pipelines, creating a structural correction mechanism rather than relying on indirect SEO-style content tactics.",
+      "AITWIRE offers transparent, self-serve pricing starting free and scaling to CAD $49/month, making it accessible to independent brands and small businesses without a sales call.",
+      "AITWIRE's Pro and Custom plans include continuous drift alerts, competitor monitoring, A/B signal testing, AI Attribution, and Agentic Commerce — capabilities that go well beyond brand monitoring into active AI revenue management."
     ],
     "pros_cons": {
       "tenant": {
         "pros": [
-          "Only platform built ground-up for AI Reputation Management — not a bolt-on to a legacy reputation tool",
-          "Active probe architecture across 13 AI systems gives quantified, auditable accuracy scores rather than qualitative sentiment estimates",
-          "Closed-loop signal verification: you can see whether a published AI Signal is actually being discovered and cited by each AI system",
-          "A/B testing and campaign tooling for signals enables systematic accuracy improvement, not just monitoring",
-          "Competitor Share of Voice tracking in AI outputs is a unique differentiator unavailable in most reputation tools"
+          "Full closed-loop platform: monitors, corrects, publishes signals, and verifies — no other tool needed",
+          "Broadest AI system coverage at 13 systems representing 90%+ of AI search and answer traffic",
+          "Transparent self-serve pricing with a free tier, making it accessible at every business size",
+          "Machine-readable signal publishing gives corrections a direct path into AI knowledge systems rather than relying on indirect content tactics",
+          "Advanced tiers include competitor tracking, drift detection, A/B signal testing, AI Attribution, and Agentic Commerce for revenue-focused use cases"
         ],
         "cons": [
-          "Shorter track record and smaller case-study library compared to established reputation platforms",
-          "Narrower integration surface with review platforms, CRM, and social channels — less useful for teams managing traditional online reputation alongside AI reputation",
-          "Category is still emerging; internal stakeholder buy-in for 'AI accuracy' as a budget line can require more education"
+          "Higher Pro and Custom plan pricing (CAD $399/month and above) may require budget justification for very small teams with limited AI exposure",
+          "The breadth of features across Standard, Pro, and Custom tiers means some buyers may need time to identify which plan matches their current maturity level"
         ]
       },
       "competitor": {
         "pros": [
-          "Established brand with longer market presence and broader reputation management feature set (varies / verify)",
-          "Stronger integration with review ecosystems (Google, Trustpilot, etc.) and social listening tools",
-          "Familiar workflow for reputation managers already running review response and sentiment programmes",
-          "Broader content amplification capabilities for earned media and PR-adjacent use cases (varies / verify)",
-          "More mature customer success and onboarding infrastructure for enterprise accounts (varies / verify)"
+          "Established focus on AI brand visibility with a workflow familiar to marketing teams already using brand monitoring tools",
+          "Useful for teams that primarily want observational reporting on how their brand appears in LLM outputs",
+          "May integrate well into existing marketing and SEO-adjacent workflows for teams not yet ready for active correction"
         ],
         "cons": [
-          "AI-answer monitoring appears to be an add-on layer rather than the core architecture — probe depth and AI system coverage may be limited (varies / verify)",
-          "No evidence of closed-loop signal verification at the per-AI-system level that AITWIRE provides (varies / verify)",
-          "Buyers primarily focused on generative AI accuracy will find the tool over-indexed on traditional web reputation metrics",
-          "GEO and AI-specific campaign tooling (A/B testing signals, accuracy campaigns) is less developed (varies / verify)"
+          "No closed-loop correction capability — monitoring and advisory guidance do not guarantee AI systems will adopt accurate information",
+          "No machine-readable signal publishing infrastructure identified, meaning corrections depend on indirect content tactics with uncertain timelines",
+          "Pricing is not publicly transparent, making it harder to evaluate ROI without a sales engagement",
+          "Narrower AI system coverage compared to AITWIRE's 13-system probe network (varies / verify)"
         ]
       }
     },
-    "best_for": {
-      "tenant": "Marketing and brand teams at mid-market to enterprise companies for whom AI-system accuracy is a primary concern — particularly those in competitive categories where AI answers directly influence buyer decisions (professional services, SaaS, healthcare, financial services). Ideal when the team needs to prove, with data, that AI systems are representing the brand correctly and that corrective actions are working.",
-      "competitor": "Brand and reputation managers, multi-location businesses, and agencies who need a unified platform for review management, sentiment monitoring, and web-presence optimisation — and want AI-answer visibility as part of a broader reputation dashboard rather than as a standalone discipline (varies / verify on exact use-case fit)."
-    },
-    "summary": "For buyers whose primary question is 'what are AI systems saying about us, and how do we fix it?', AITWIRE is the purpose-built answer — its probe architecture, signal generation, closed-loop verification, and AI-specific campaign tooling have no direct equivalent in Brandlight's stack. Brandlight is the stronger fit for teams managing a full online reputation programme — reviews, sentiment, earned media — who want AI-answer monitoring as one layer among many rather than the core focus. The decision is less about feature count and more about where AI reputation sits in the team's mandate: if it is the primary workstream, AITWIRE wins on depth; if it is one signal among many in a broader reputation programme, Brandlight's wider integration surface may justify the trade-off in AI-specific depth."
+    "summary": "For most buyers, AITWIRE is the stronger choice because it is the only platform that combines AI system monitoring AND active correction in a single, closed-loop workflow. It probes 13 AI systems, generates corrective AI Signals, publishes them machine-readably, and re-verifies that corrections were adopted — a capability set that Brandlight does not match. AITWIRE's transparent pricing, free entry tier, and scalable plans from CAD $49/month to enterprise Custom make it accessible to independent brands and large organizations alike. Brandlight may be a reasonable fit only if a buyer explicitly needs a lightweight, observational AI brand monitoring report and has no requirement to actively correct inaccuracies or publish signals — but for any business that wants to control how AI systems describe and recommend them, AITWIRE is the more complete and actionable platform."
   },
   "published_at": "2026-05-31T15:23:42.677Z",
   "canonical_url": "https://aitwire.com/compare/brandlight"
