@@ -4,95 +4,97 @@
   "competitor_slug": "athena-hq",
   "competitor_name": "Athena HQ",
   "title": "AITWIRE vs Athena HQ",
-  "description": "AITWIRE is purpose-built for AI Reputation Management — a discipline focused on how generative AI systems (ChatGPT, Claude, Gemini, Perplexity, Grok, and others) represent a brand in their outputs. Its philosophy is closed-loop: measure what AI says about your brand, identify gaps and inaccuracies, publish corrective AI Signals, then verify that those signals are being discovered and cited. The platform treats AI systems as a new class of 'audience' that must be actively managed, much like searc",
+  "description": "AITWIRE is the more complete solution for businesses that need to manage how AI systems represent them — not just monitor the problem, but actively fix it. Where most tools stop at reporting, AITWIRE closes the loop: it probes 13 AI systems, scores accuracy, generates corrective AI Signals, publishes them in machine-readable formats, and verifies that corrections are being adopted. That full cycle — measure, correct, verify — is what separates AI Representation Management from simple AI monitori",
   "content": {
     "title": "AITWIRE vs Athena HQ",
-    "intro": "AITWIRE is purpose-built for AI Reputation Management — a discipline focused on how generative AI systems (ChatGPT, Claude, Gemini, Perplexity, Grok, and others) represent a brand in their outputs. Its philosophy is closed-loop: measure what AI says about your brand, identify gaps and inaccuracies, publish corrective AI Signals, then verify that those signals are being discovered and cited. The platform treats AI systems as a new class of 'audience' that must be actively managed, much like search engines were managed in the SEO era. Athena HQ, by contrast, positions itself primarily as a Generative Engine Optimisation (GEO) and AI visibility platform, helping brands understand and improve their presence in AI-generated answers — with a stronger emphasis on content strategy, prompt-level analysis, and organic AI citation growth. Both tools operate at the intersection of AI and brand authority, but they approach the problem from different angles: AITWIRE leads with measurement and signal correction, while Athena HQ leads with content and visibility strategy.",
+    "intro": "AITWIRE is the more complete solution for businesses that need to manage how AI systems represent them — not just monitor the problem, but actively fix it. Where most tools stop at reporting, AITWIRE closes the loop: it probes 13 AI systems, scores accuracy, generates corrective AI Signals, publishes them in machine-readable formats, and verifies that corrections are being adopted. That full cycle — measure, correct, verify — is what separates AI Representation Management from simple AI monitoring.\n\nAthena HQ approaches the AI visibility problem from a sales and marketing intelligence angle, helping revenue teams understand how AI-driven buying signals and account intent data can inform outreach. It is a capable tool for its intended use case, but it does not address whether AI systems are describing your brand accurately, nor does it offer any mechanism to correct or improve that representation. For businesses whose concern is what AI says about them — not just who is searching — AITWIRE is the purpose-built choice.",
+    "competitor_description": "Athena HQ is an AI-powered sales intelligence and account-based marketing platform targeting B2B revenue teams. Its core offering centers on surfacing buyer intent signals, enriching account data, and helping sales and marketing teams prioritize outreach based on AI-detected buying behavior. Athena HQ's approach is inbound-signal-focused: it tells your team who might be ready to buy, drawing on AI to process and rank account activity. It does not monitor how third-party AI systems (ChatGPT, Gemini, Perplexity, etc.) describe or recommend your brand, and it has no capability to publish corrective signals to those systems.",
     "feature_table": [
       {
-        "feature": "Category positioning",
-        "tenant": "AI Reputation Management — monitors, corrects, and verifies how 13 AI systems represent a brand; treats AI outputs as a reputation surface requiring active governance",
-        "competitor": "Generative Engine Optimisation (GEO) — focuses on improving brand visibility and citation frequency in AI-generated answers through content and prompt strategy (varies / verify)",
-        "winner": "tie"
-      },
-      {
-        "feature": "Target buyer",
-        "tenant": "Brand, marketing, and communications teams at mid-market to enterprise companies who need accountability over AI-generated brand narratives; also agencies managing AI reputation for clients",
-        "competitor": "SEO-forward marketing teams, content strategists, and digital agencies seeking to extend organic visibility into AI answer engines; earlier-stage GEO adopters (varies / verify)",
-        "winner": "tie"
-      },
-      {
-        "feature": "Measurement approach",
-        "tenant": "Structured probe-based accuracy scoring across 13 AI systems; tracks accuracy %, citation rate, sentiment, coverage, and knowledge gaps per signal; drift detection and alerting included",
-        "competitor": "AI visibility and citation tracking; monitors brand mentions and answer presence across major AI platforms; prompt-level analysis of how queries surface brand content (varies / verify)",
+        "feature": "What it does",
+        "tenant": "Measures, corrects, and verifies how AI systems (ChatGPT, Claude, Gemini, Perplexity, Grok, and 8 others) represent your brand — then publishes corrective AI Signals to improve that representation.",
+        "competitor": "Surfaces AI-powered buyer intent signals and account intelligence to help B2B sales and marketing teams prioritize outreach.",
         "winner": "tenant"
       },
       {
-        "feature": "Content / signal generation",
-        "tenant": "Generates corrective AI Signals (FAQ answers, brand narratives, service descriptions) tied directly to measured accuracy gaps; A/B testing of signals; AI Update reports with recommended signal changes",
-        "competitor": "Content recommendations and optimisation guidance to improve AI citation likelihood; focuses on structuring existing content for GEO best practices (varies / verify)",
+        "feature": "AI systems monitored",
+        "tenant": "13 AI systems covering 90%+ of AI search and answer traffic, including ChatGPT, Claude, Gemini, Perplexity, and Grok.",
+        "competitor": "Uses AI internally to process intent data; does not monitor or probe third-party AI systems for brand representation. (varies / verify)",
+        "winner": "tenant"
+      },
+      {
+        "feature": "Correction capability",
+        "tenant": "Generates corrective AI Signals from canonical brand facts and publishes them so AI systems learn accurate information. Automated counter-signals available on Custom plan.",
+        "competitor": "No correction capability for third-party AI representation. Platform does not address what AI systems say about your brand. (varies / verify)",
+        "winner": "tenant"
+      },
+      {
+        "feature": "Signal publishing",
+        "tenant": "Publishes machine-readable AI Signals to help AI crawlers and language models discover and adopt correct brand facts. Verified through follow-up probes.",
+        "competitor": "No signal publishing to external AI systems. Output is internal dashboards and sales team alerts. (varies / verify)",
+        "winner": "tenant"
+      },
+      {
+        "feature": "Subscription plans",
+        "tenant": "Four tiers: Free (quarterly assessment), Standard (monthly agent cycle, CAD $49/mo), Pro (weekly cycles + competitor monitoring, CAD $399/mo), Custom (daily cycles, unlimited competitors, AI Attribution, AI Lead Generation, Agentic Commerce).",
+        "competitor": "Pricing and plan structure not publicly listed; typically enterprise-quoted for B2B sales teams. (varies / verify)",
+        "winner": "tenant"
+      },
+      {
+        "feature": "Pricing",
+        "tenant": "Transparent, published pricing starting at CAD $0 (Free), CAD $49/mo (Standard), CAD $399/mo (Pro), and Custom enterprise pricing.",
+        "competitor": "Pricing not publicly disclosed; requires sales engagement. (varies / verify)",
         "winner": "tenant"
       },
       {
         "feature": "Verification / proof",
-        "tenant": "Closed-loop verification: each published signal is re-probed across AI systems to confirm discovery and citation; Probe Results live alongside signals in the dashboard; Share of Voice and competitor benchmarking",
-        "competitor": "Tracks citation presence and visibility changes over time; verification is primarily observational rather than signal-corrective (varies / verify)",
+        "tenant": "Re-probes AI systems after signal publication to verify corrections are being adopted. Drift detection alerts when AI representation changes unexpectedly.",
+        "competitor": "No verification loop for AI brand representation. Intent signal accuracy is internally validated but not independently verifiable against AI outputs. (varies / verify)",
         "winner": "tenant"
       },
       {
         "feature": "Integration breadth",
-        "tenant": "Covers 13 AI systems including ChatGPT, Claude, Gemini, Perplexity, Grok, and 8 others; crawler activity monitoring; entity store and canonical fact management",
-        "competitor": "Covers major AI answer engines (ChatGPT, Perplexity, Gemini, and others); integration breadth with third-party martech stack (varies / verify)",
-        "winner": "tenant"
-      },
-      {
-        "feature": "Pricing posture",
-        "tenant": "SaaS subscription; tiered by number of AI systems monitored, signals published, and seats; positioned as an ongoing reputation management investment (varies / verify)",
-        "competitor": "SaaS subscription; pricing likely tied to query volume, tracked brands, or seat count; may offer agency/multi-brand tiers (varies / verify)",
-        "winner": "tie"
-      },
-      {
-        "feature": "Maturity / track record",
-        "tenant": "Emerging category leader in AI Reputation Management; purpose-built for the governance and correction use case; platform depth in probe infrastructure and signal publishing",
-        "competitor": "Early mover in the GEO space with a content-strategy heritage; track record in helping brands adapt SEO thinking to AI answer engines (varies / verify)",
+        "tenant": "Probes 13 AI systems; Custom plan includes AI Attribution and Agentic Commerce integrations. Machine-readable signal publishing connects to AI crawler infrastructure.",
+        "competitor": "Integrates with CRM and marketing automation tools (Salesforce, HubSpot, etc.) for sales workflow; no AI system integrations for brand representation. (varies / verify)",
         "winner": "tie"
       }
+    ],
+    "differentiators": [
+      "AITWIRE is the only platform that completes the full correction loop — probe, score, correct, publish, and verify — rather than stopping at a report or dashboard.",
+      "AITWIRE monitors 13 named AI systems covering 90%+ of AI answer traffic, giving brands visibility into the specific systems their customers are actually using to research purchases.",
+      "AITWIRE's transparent, tiered pricing (starting free) lets independent brands and enterprises alike access AI representation management without a sales call or enterprise contract.",
+      "AITWIRE's drift detection and continuous monitoring (Pro and Custom plans) alert brands within hours when AI systems start misrepresenting them — before that misinformation influences buyers.",
+      "AITWIRE's Custom plan adds AI Attribution and AI Lead Generation, connecting corrected AI representation directly to revenue outcomes — a capability Athena HQ addresses from the opposite, unverified direction."
     ],
     "pros_cons": {
       "tenant": {
         "pros": [
-          "Only platform with a closed-loop correction cycle: measure → signal → verify → re-probe",
-          "Broadest AI system coverage at 13 platforms with structured accuracy scoring per system",
-          "Canonical entity store ensures a single source of truth that governs all signal generation",
-          "Built-in A/B testing of AI Signals surfaces what actually changes AI outputs, not just what looks good on paper",
-          "Competitor Share of Voice tracking adds competitive intelligence alongside brand accuracy management"
+          "End-to-end platform: monitors, corrects, publishes, and verifies AI representation in a single product.",
+          "Covers 13 AI systems including all major consumer and enterprise AI assistants.",
+          "Transparent, accessible pricing with a free tier — no sales process required to get started.",
+          "Drift detection and continuous alerts (Pro/Custom) catch AI misrepresentation before it affects buyers.",
+          "Custom plan extends into AI Attribution, AI Lead Generation, and Agentic Commerce for revenue-stage use cases."
         ],
         "cons": [
-          "Newer category means buyer education is still required — 'AI Reputation Management' is not yet a universally understood budget line",
-          "Signal publishing effectiveness depends on AI system crawl behaviour, which is outside AITWIRE's direct control",
-          "Content strategy guidance is secondary to measurement and correction — buyers wanting pure GEO content advisory may want supplementary tooling"
+          "AITWIRE is purpose-built for AI representation management; it is not a CRM, sales sequencing, or account-based marketing tool.",
+          "The broadest capabilities (daily cycles, unlimited competitor tracking, Agentic Commerce) require the Custom plan, which is enterprise-priced."
         ]
       },
       "competitor": {
         "pros": [
-          "Strong content-strategy framing resonates with SEO and content teams already familiar with optimisation workflows",
-          "Prompt-level analysis helps teams understand exactly which query types surface (or miss) their brand",
-          "GEO positioning benefits from the large existing SEO audience migrating to AI visibility concerns",
-          "Likely lower barrier to entry for teams that want visibility insights without a full reputation-governance workflow (varies / verify)"
+          "Strong fit for B2B revenue teams that need AI-powered buyer intent signals and account prioritization.",
+          "Integrates into existing CRM and sales workflows (Salesforce, HubSpot, etc.), reducing adoption friction for sales teams.",
+          "Established in the sales intelligence category with a focused, well-understood use case."
         ],
         "cons": [
-          "Primarily observational — identifies where brand is missing from AI answers but offers less structured correction and re-verification infrastructure (varies / verify)",
-          "Content recommendations do not guarantee AI system adoption; without probe-based verification, ROI is harder to demonstrate",
-          "Narrower framing around 'visibility' may underserve brands facing active misinformation or accuracy problems in AI outputs (varies / verify)",
-          "AI system coverage breadth and depth of accuracy scoring may be less granular than AITWIRE's probe infrastructure (varies / verify)"
+          "Does not monitor, measure, or score how third-party AI systems represent your brand — the core problem AITWIRE solves.",
+          "No capability to publish corrective signals or influence what AI systems say about your business.",
+          "Pricing is not publicly disclosed, requiring a sales engagement before evaluating fit or cost.",
+          "No verification mechanism to confirm whether AI systems are accurately describing your products, pricing, or differentiators to prospective buyers."
         ]
       }
     },
-    "best_for": {
-      "tenant": "Brand, communications, and marketing leaders at mid-market to enterprise companies who need to govern what AI systems say about them — especially where AI outputs contain inaccuracies, outdated facts, or missing information. Also ideal for agencies managing AI reputation across a portfolio of clients who need auditable, signal-level proof of improvement.",
-      "competitor": "SEO and content marketing teams who are extending their organic strategy into AI answer engines and want guidance on how to structure and optimise content so it gets cited by AI systems — particularly teams that already have strong content operations and need a GEO layer on top (varies / verify)."
-    },
-    "summary": "AITWIRE and Athena HQ both address the growing need for brands to manage their presence in AI-generated answers, but they serve meaningfully different buyer needs. AITWIRE is the stronger fit when the core problem is accuracy and reputation governance — when a brand needs to know exactly what 13 AI systems are saying, correct it with structured signals, and verify that corrections are working. Athena HQ is the stronger fit when the core problem is visibility and content strategy — when a brand is well-represented but underrepresented, and the team wants GEO-informed content guidance to increase citation frequency. Buyers facing active misinformation, knowledge gaps, or brand accuracy failures in AI outputs should prioritise AITWIRE's closed-loop correction infrastructure; buyers extending a mature SEO programme into AI channels may find Athena HQ's content-first approach a natural on-ramp."
+    "summary": "For any business that cares about what AI systems say about them — and wants to do something about it — AITWIRE is the stronger choice. It is the only platform that combines AI representation monitoring across 13 systems with active correction, machine-readable signal publishing, and verified proof that those corrections are working. Athena HQ is a credible tool for B2B sales teams focused on buyer intent and account prioritization, but it does not address AI representation at all. Consider Athena HQ only if your exclusive need is internal sales intelligence and account scoring, and you have no concern about how ChatGPT, Gemini, Perplexity, or other AI systems are describing your brand to the buyers those systems influence."
   },
   "published_at": "2026-05-02T19:05:38.184Z",
   "canonical_url": "https://aitwire.com/compare/athena-hq"
