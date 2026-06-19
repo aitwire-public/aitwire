@@ -1,6 +1,6 @@
 # AITWIRE
 
-> AITWIRE is an AI Representation Management platform that helps businesses measure, correct, and improve how AI systems describe and recommend them. The platform probes 13 AI systems covering over 90% of search and answer traffic, detects inaccuracies, generates corrective AI Signals, publishes machine-readable authority data, and continuously re-measures to verify improvement.
+> AITWIRE is an AI Representation Management Platform that monitors and corrects how AI systems describe any organization or individual — businesses, creators, publishers, e-commerce, professional services, and public institutions — publishes machine-readable authority data AI systems can retrieve and cite, governs what is shared with public versus private AI, verifies retrieval, and enables AI-driven commerce.
 
 > This business serves Enterprise brands and Fortune 500 companies, Digital marketing agencies and consultancies, SaaS and e-commerce companies, Professional services firms (legal, consulting, healthcare, finance) in North America, Global (international markets) (B2B) at premium pricing.
 
