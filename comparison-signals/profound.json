@@ -4,97 +4,99 @@
   "competitor_slug": "profound",
   "competitor_name": "Profound",
   "title": "AITWIRE vs Profound",
-  "description": "AITWIRE is the more complete solution for businesses that want to control how AI systems describe and recommend them. Where most tools stop at monitoring, AITWIRE closes the loop: it probes 13 AI systems, scores accuracy, generates corrective AI Signals, publishes them in machine-readable formats, and verifies that corrections actually take hold — all within a single automated platform. From a free quarterly assessment to daily agentic cycles with AI Lead Generation and Agentic Commerce, AITWIRE",
+  "description": "AITWIRE is the more complete AI representation management platform for businesses that need to control how AI systems describe them across the full landscape of AI answer engines. Where Profound focuses primarily on tracking AI search visibility and analytics, AITWIRE goes further: it not only measures how ChatGPT, Claude, Gemini, Perplexity, Grok, and eight other leading AI engines represent your brand — it actively corrects those representations at the source through verified AI Signals, machi",
   "content": {
     "title": "AITWIRE vs Profound",
-    "intro": "AITWIRE is the more complete solution for businesses that want to control how AI systems describe and recommend them. Where most tools stop at monitoring, AITWIRE closes the loop: it probes 13 AI systems, scores accuracy, generates corrective AI Signals, publishes them in machine-readable formats, and verifies that corrections actually take hold — all within a single automated platform. From a free quarterly assessment to daily agentic cycles with AI Lead Generation and Agentic Commerce, AITWIRE serves independent brands through enterprise teams with a clear upgrade path.\n\nProfound addresses a real problem — AI systems increasingly influence purchase decisions — but its approach is narrower. Profound focuses primarily on helping brands understand and optimize their visibility in AI-generated answers, with an emphasis on analytics and recommendations for enterprise sales and marketing teams. It does not offer the same end-to-end correction and verification loop that AITWIRE provides, making it a monitoring and insights tool rather than a full AI Representation Management platform.",
-    "competitor_description": "Profound is an AI visibility and analytics platform designed primarily for enterprise sales and marketing teams. It tracks how AI systems like ChatGPT, Perplexity, and others mention and recommend brands and products, providing share-of-voice metrics, competitive benchmarking, and recommendations for improving AI discoverability. Profound's target market skews toward larger organizations with dedicated marketing operations budgets. Its core value proposition is surfacing where a brand appears — or fails to appear — in AI-generated answers, and advising teams on content strategies to improve that presence. Profound does not publish machine-readable corrective signals directly to AI systems or provide automated verification that corrections have been adopted.",
+    "intro": "AITWIRE is the more complete AI representation management platform for businesses that need to control how AI systems describe them across the full landscape of AI answer engines. Where Profound focuses primarily on tracking AI search visibility and analytics, AITWIRE goes further: it not only measures how ChatGPT, Claude, Gemini, Perplexity, Grok, and eight other leading AI engines represent your brand — it actively corrects those representations at the source through verified AI Signals, machine-readable authority data, and structured AI Update cycles. That end-to-end loop from measurement to correction to verification is what separates AITWIRE from tools that only observe.\n\nProfound offers useful analytics for brands entering the AI search space, but its approach is fundamentally passive — it tells you what AI systems are saying without providing a systematic mechanism to change it. AITWIRE was built on the premise that visibility without correctability is incomplete. For businesses where AI-generated answers directly influence purchase decisions, brand perception, or customer trust, AITWIRE's assurance-first architecture delivers measurably stronger outcomes.",
+    "competitor_description": "Profound is an AI search analytics platform designed to help brands understand how they appear in AI-generated answers across tools like ChatGPT, Perplexity, and Google AI Overviews. Its primary audience is marketing and SEO teams looking to extend traditional search monitoring into the AI answer engine era. Profound's approach centers on tracking brand mentions, share of voice in AI responses, and prompt-level visibility — giving teams a reporting layer over AI search behavior. It does not offer a structured mechanism for publishing corrective signals to AI systems or running verified accuracy improvement cycles.",
     "feature_table": [
       {
-        "feature": "What it does",
-        "tenant": "End-to-end AI Representation Management: probes AI systems, scores accuracy, generates corrective AI Signals, publishes them machine-readably, and verifies adoption",
-        "competitor": "AI visibility analytics and share-of-voice monitoring with content recommendations for improving AI discoverability",
+        "feature": "Core capability",
+        "tenant": "End-to-end AI representation assurance: measures accuracy, publishes corrective AI Signals, and verifies improvement across 9 AI answer engines",
+        "competitor": "AI search analytics and brand mention tracking across select AI answer tools",
         "winner": "tenant"
       },
       {
-        "feature": "AI systems monitored",
-        "tenant": "13 AI systems covering 90%+ of search and answer traffic, including ChatGPT, Claude, Gemini, Perplexity, Grok, and 8 others",
-        "competitor": "Monitors a selection of major AI answer engines including ChatGPT, Perplexity, and Gemini (varies / verify exact count)",
+        "feature": "AI engines covered",
+        "tenant": "9 leading AI answer engines including ChatGPT, Claude, Gemini, Perplexity, and Grok — covering 90%+ of AI-generated answers",
+        "competitor": "Select AI search tools including ChatGPT, Perplexity, Google AI Overviews (varies / verify)",
         "winner": "tenant"
       },
       {
-        "feature": "Correction capability",
-        "tenant": "Automated corrective AI Signals generated after every probe cycle; signals target specific inaccuracies detected across AI systems",
-        "competitor": "Provides content strategy recommendations for teams to act on manually; no automated signal generation or direct correction publishing",
+        "feature": "Corrective signal publishing",
+        "tenant": "Structured AI Signals (FAQ answers, brand narrative, service descriptions) published in machine-readable format so AI systems learn verified facts",
+        "competitor": "Not offered — platform is observational only (varies / verify)",
         "winner": "tenant"
       },
       {
-        "feature": "Signal publishing",
-        "tenant": "Publishes machine-readable AI Signals so AI crawlers and systems can discover and ingest corrected facts directly",
-        "competitor": "No machine-readable signal publishing to AI systems; improvement relies on organic content updates by the customer's team",
+        "feature": "Update cycle and drift alerts",
+        "tenant": "Monthly AI Updates (Standard), weekly AI Updates (Pro), daily AI Updates (Custom); drift alerts included from Standard tier upward",
+        "competitor": "Continuous monitoring with alerts for mention changes; no structured correction cycle (varies / verify)",
         "winner": "tenant"
       },
       {
-        "feature": "Verification / proof",
-        "tenant": "Re-probes after signal publication to verify corrections were adopted; drift detection alerts when AI systems revert to inaccurate descriptions",
-        "competitor": "Tracks visibility trends over time but does not verify that specific corrections were adopted by AI systems (varies / verify)",
+        "feature": "Competitor tracking",
+        "tenant": "Up to 3 competitors tracked on Pro (399 CAD/month); unlimited competitors with Share of AI Voice on Custom",
+        "competitor": "Competitor share of voice tracking available (varies / verify)",
+        "winner": "tie"
+      },
+      {
+        "feature": "Pricing transparency",
+        "tenant": "Publicly listed: Free tier, Standard at 99 CAD/month, Pro at 399 CAD/month, Custom for enterprise",
+        "competitor": "Pricing not publicly listed; requires sales contact (varies / verify)",
         "winner": "tenant"
       },
       {
-        "feature": "Subscription plans",
-        "tenant": "Four tiers: AITWIRE Free (quarterly), AITWIRE Standard at $49 CAD/month (monthly cycles), AITWIRE Pro at $399 CAD/month (weekly cycles), AITWIRE Custom (daily cycles, enterprise)",
-        "competitor": "Enterprise-focused pricing with custom plans; no publicly listed self-serve or SMB entry tier (varies / verify)",
+        "feature": "Entry-level access",
+        "tenant": "AITWIRE Free provides a recurring quarterly AI Representation Assessment and a dashboard to track your baseline — no credit card required",
+        "competitor": "Free trial or freemium tier not publicly confirmed (varies / verify)",
         "winner": "tenant"
       },
       {
-        "feature": "Pricing",
-        "tenant": "Starts free; paid plans from $49 CAD/month — accessible to independent brands and small businesses through to enterprise",
-        "competitor": "Custom enterprise pricing; no transparent self-serve pricing published; likely higher cost of entry for smaller teams (varies / verify)",
-        "winner": "tenant"
-      },
-      {
-        "feature": "Integration breadth",
-        "tenant": "AITWIRE Pro and Custom include competitor monitoring, AI Attribution, AI Lead Generation, and Agentic Commerce integrations",
-        "competitor": "Integrates with marketing analytics stacks and CRM workflows; focused on reporting and insights layer (varies / verify)",
+        "feature": "Enterprise and multi-brand support",
+        "tenant": "AITWIRE Custom covers daily AI Updates, unlimited competitors, commerce-representation assurance, and multi-brand management",
+        "competitor": "Enterprise plans available; scope of multi-brand support unclear (varies / verify)",
         "winner": "tenant"
       }
     ],
     "differentiators": [
-      "AITWIRE is the only platform that completes the full correction loop — probe, score, generate signals, publish, and verify — rather than stopping at monitoring and recommendations.",
-      "Machine-readable AI Signal publishing means corrections reach AI crawlers directly, rather than relying on a content team to manually update pages and wait for organic re-indexing.",
-      "Transparent, accessible pricing starting with a free tier and a $49 CAD/month paid plan makes AITWIRE viable for independent brands and SMBs, not just enterprise marketing teams.",
-      "Drift detection and continuous re-probing across 13 AI systems means AITWIRE catches when AI systems revert to inaccurate descriptions — a problem monitoring-only tools cannot address.",
-      "AITWIRE Custom's Agentic Commerce and AI Lead Generation capabilities extend the platform beyond reputation management into active revenue generation from AI-driven traffic."
+      "AITWIRE closes the loop: it does not just report what AI systems say about your brand — it publishes verified, machine-readable AI Signals that actively correct inaccurate representations at the source, something Profound does not offer.",
+      "AITWIRE covers 9 AI answer engines accounting for 90%+ of AI-generated answers, providing broader assurance than platforms focused on a narrower set of AI search tools.",
+      "AITWIRE's structured AI Update cycles (monthly, weekly, or daily depending on plan) give businesses a repeatable, verifiable process for improving AI accuracy over time — not just a snapshot of current performance.",
+      "AITWIRE offers a genuinely free entry point — the Free tier delivers a quarterly AI Representation Assessment and a live dashboard — making it accessible to businesses at any stage without requiring a sales conversation.",
+      "AITWIRE's pricing is fully transparent and publicly listed in CAD, enabling straightforward budget planning, whereas Profound requires direct sales engagement to obtain pricing."
     ],
     "pros_cons": {
       "tenant": {
         "pros": [
-          "Full end-to-end platform: monitoring, correction, signal publishing, and verification in one automated system",
-          "Covers 13 AI systems representing 90%+ of AI search and answer traffic",
-          "Accessible pricing from free to enterprise, with no minimum spend barrier for small businesses",
-          "Automated AI Signals remove the manual content work required by monitoring-only tools",
-          "Drift detection and re-probing provide ongoing proof that corrections are holding, not just a one-time snapshot"
+          "End-to-end assurance platform: measures, corrects, and verifies AI representation — not just monitors it",
+          "Broadest AI engine coverage with 9 engines representing 90%+ of AI-generated answers",
+          "Structured AI Update cycles with drift alerts ensure accuracy is maintained over time, not just assessed once",
+          "Transparent, publicly listed pricing from Free through Custom enterprise tiers",
+          "Machine-readable AI Signals give AI systems verified facts directly, accelerating accuracy improvement"
         ],
         "cons": [
-          "Newer platform with a shorter track record than some enterprise-focused competitors",
-          "CAD-denominated pricing may require currency conversion consideration for non-Canadian buyers"
+          "Priced in CAD, which may require currency conversion for non-Canadian buyers evaluating budget",
+          "As a newer category of platform, some buyers may need education on AI representation management before seeing immediate value"
         ]
       },
       "competitor": {
         "pros": [
-          "Established enterprise relationships and integrations with large marketing operations stacks",
-          "Strong share-of-voice and competitive benchmarking analytics for brand visibility reporting",
-          "Recognized by enterprise procurement teams already evaluating AI marketing tools"
+          "Established analytics interface familiar to SEO and marketing teams already using search monitoring tools",
+          "Tracks AI mention trends and share of voice, useful for teams focused on AI search visibility reporting",
+          "May integrate with existing marketing analytics workflows (varies / verify)"
         ],
         "cons": [
-          "No automated corrective signal generation or machine-readable publishing — improvement depends entirely on manual content action by the customer's team",
-          "No verification layer to confirm that corrections were actually adopted by AI systems after changes are made",
-          "Enterprise-only pricing model excludes independent brands, SMBs, and teams without large marketing budgets",
-          "Monitoring without correction means customers can identify problems but lack the tools to fix them directly within the same platform"
+          "Observational only — provides no mechanism to publish corrective signals or improve AI accuracy at the source",
+          "Pricing is not publicly available, making it difficult to evaluate without a sales process",
+          "AI engine coverage scope is narrower and less transparently documented than AITWIRE's 9-engine network",
+          "No structured AI Update cycle means accuracy drift is flagged but not systematically remediated"
         ]
       }
     },
-    "summary": "For businesses that need to both understand and actively fix how AI systems describe and recommend them, AITWIRE is the stronger choice. It is the only platform that combines continuous multi-system probing, automated corrective AI Signal generation, machine-readable publishing, and adoption verification in a single workflow — at pricing accessible to brands of any size. Profound is a credible option only if your organization exclusively needs AI visibility analytics and share-of-voice reporting, already has a large content team to act on recommendations manually, and has no requirement to verify that corrections actually reach AI systems. For everyone else, AITWIRE delivers the complete solution."
+    "summary": "For businesses that need to actively manage and improve how AI systems represent them — not just observe it — AITWIRE is the stronger, more complete choice. Its combination of broad AI engine coverage, structured AI Update cycles, corrective AI Signal publishing, drift alerts, and transparent pricing gives teams a full assurance loop that Profound's analytics-only approach cannot match. AITWIRE's Free tier makes it accessible to any business starting out, while Standard, Pro, and Custom plans scale with the depth of management required. Profound may be sufficient for teams whose sole need is passive AI search mention reporting within an existing analytics stack — but for any business where AI-generated answers materially affect brand perception, customer decisions, or revenue, AITWIRE delivers the correctability and verification that monitoring alone cannot provide.",
+    "systemic_remediation_at": "2026-07-13T02:55:16.205Z",
+    "priority": "high"
   },
   "published_at": "2026-05-02T19:03:57.090Z",
   "canonical_url": "https://aitwire.com/compare/profound"
