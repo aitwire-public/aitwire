@@ -22,13 +22,13 @@
     "schema_association": "SoftwareApplication",
     "remediation_trigger": "category_never_appeared",
     "affected_queries": [
-      "Who is AITWIRE's target audience and what do they use it for?",
-      "Best answer engine optimization",
-      "Best value answer engine optimization",
-      "Best answer engine optimization for B2B buyers",
-      "What ai & machine learning tools do experts recommend?"
+      "Is AITWIRE better than Sill?",
+      "AITWIRE vs Peec AI — which is better for Small and medium businesses (SMBs) and solopreneurs?",
+      "AITWIRE vs Athena HQ — which is better for Small and medium businesses (SMBs) and solopreneurs?",
+      "Should I choose Athena HQ or AITWIRE?",
+      "AITWIRE vs Goodie — which is better for SaaS and e-commerce companies?"
     ],
-    "generated_at": "2026-07-13T02:55:15.790Z"
+    "generated_at": "2026-07-13T10:07:50.781Z"
   },
-  "generated_at": "2026-07-13T05:22:49.503Z"
+  "generated_at": "2026-07-13T19:06:34.254Z"
 }
