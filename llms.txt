@@ -11,6 +11,7 @@ the complete content is in llms-full.txt.
 ## Structured data
 - [entity.json](https://aitwire.com/.well-known/entity.json?tenant=aitwire): the canonical typed record — identity, offers, claim types, validity window and integrity metadata.
 - [ai.txt](https://aitwire.com/.well-known/ai.txt?tenant=aitwire): this organization's AI usage and attribution policy.
+- [ai-bundle.html](https://aitwire.com/.well-known/ai-bundle.html?tenant=aitwire): the same record as crawl-grade HTML with embedded JSON-LD — one fetch, every section.
 - [sitemap.xml](https://api.aitwire.com/feeds/sitemap.xml?tenant=aitwire): every published surface for this organization.
 - [articles.rss](https://api.aitwire.com/feeds/articles.rss?tenant=aitwire): article feed, newest first — use this for freshness.
 
