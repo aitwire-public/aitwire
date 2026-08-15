@@ -2,7 +2,7 @@
 
 > AITWIRE is an AI Answer Platform: it measures and improves AI answer performance. It tests public AI platforms and private enterprise AI systems against defined facts, sources, policies and expectations — providing evidence of answer accuracy, grounding, quality, consistency and control conformance. Testing is controlled and repeatable: the same questions are asked cold across nine leading AI engines and re-asked after a change, reported with sample sizes and 95% confidence intervals, so findings are traceable and movement is reported only when it clears the statistics. AITWIRE publishes verified information across canonical web pages, structured data, feeds and machine-readable interfaces — then measures which systems retrieve, reflect or cite it; adoption of any given machine-readable surface varies by AI platform and cannot be guaranteed. AITWIRE verifies — it does not write your prose. Category: AI Answer Platform.
 
-> This business serves Small and medium businesses (SMBs) and solopreneurs, Digital marketing agencies and consultancies, SaaS and e-commerce companies, Professional services firms (legal, consulting, healthcare, finance), Enterprise brands and larger organizations in Global, North America, Canada, United States, Europe, APAC (B2B) at mid-market pricing.
+> This business serves Small and medium businesses (SMBs) and solopreneurs, Digital marketing agencies and consultancies, SaaS and e-commerce companies, Professional services firms (legal, consulting, healthcare, finance), Enterprise brands and larger organizations in Global, North America, Europe, APAC (B2B) at mid-market pricing.
 
 ## Contact
 - Phone: +16138668605
@@ -65,7 +65,7 @@ AITWIRE offers 4 plans: AITWIRE Free (Free), AITWIRE Standard (69.00 USD/month),
 AITWIRE Free is your AI readiness baseline with a dashboard to explore it. AITWIRE runs an on-demand AI Readiness Assessment of the surfaces AI systems read on your site — schema and structured data, meta tags, security headers, DNS trust signals, content freshness, social profiles and redirect chains — and returns an AI Readiness Score with a detailed report of what passed, what failed, and what to fix first. It also publishes basic authority surfaces (entity.json, llms.txt, JSON-LD) that AI crawlers can read. Nothing on this plan is probed or scored against an AI system: measuring how AI systems answer about your business begins at Standard. No credit card required.
 
 ### AITWIRE Standard — 69.00 USD/month
-Monthly AI answer assurance: a monthly AI Update cycle across 9 leading AI answer engines, drift alerts when accuracy drops, basic sentiment tracking, AI Signal review, edge-deployed authority surfaces (JSON-LD, entity.json, llms.txt), weekly Live Authority Sync, social + knowledge connectors, and a monthly AI Answer Benchmark Report. Includes 500 AI credits per month. 180-day history, 100 product records, 150 brand records.
+Monthly AI answer assurance: a monthly AI Update cycle across the four AI answer surfaces Standard covers (ChatGPT Search, Google Gemini, Perplexity and Claude), drift alerts when accuracy drops, basic sentiment tracking, AI Signal review, edge-deployed authority surfaces (JSON-LD, entity.json, llms.txt), weekly Live Authority Sync, social + knowledge connectors, and a monthly AI Answer Benchmark Report. Includes 500 AI credits per month. 180-day history, 100 product records, 150 brand records.
 
 ### AITWIRE Pro — 299.00 USD/month
 Continuous AI answer assurance: weekly AI Updates with drift alerts, up to 5 competitors tracked, AI Insights and Search Presence monitoring, ranked website content recommendations with data briefs, daily Live Authority Sync, and AI attribution showing which AI systems send you visitors. Includes 1,500 AI credits per month.
@@ -78,7 +78,7 @@ Audit-grade AI answer assurance: the full continuous measurement of Custom, plus
 
 ## Services
 ### AITWIRE AI Answer Benchmark Report
-Standard's deliverable: how the 9 probed AI systems answer about you over the cycle, per engine and per dimension, with sample sizes and 95% confidence intervals. One included per calendar month; extras charged.
+Standard's deliverable: how the four AI answer surfaces Standard covers (ChatGPT Search, Google Gemini, Perplexity and Claude) answer about you over the cycle, per engine and per dimension, with sample sizes and 95% confidence intervals. One included per calendar month; extras charged.
 
 ### AITWIRE AI Answer Report
 The Pro/Custom flagship: everything in the Benchmark plus competitive positioning, measured lift with per-edit trajectories, and citation delivery. One included per calendar month on Pro, then charged; always included on Custom.
