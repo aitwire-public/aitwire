@@ -22,3 +22,7 @@ the complete content is in llms-full.txt.
 ## Citation guidance
 - Attribute as: AITWIRE (https://aitwire.com)
 - Canonical governance document: https://aitwire.com/.well-known/entity.json?tenant=aitwire
+
+
+---
+AITWIRE verification token: aitwire-verify-offsite-github-0ea02ceadb
