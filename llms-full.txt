@@ -2,7 +2,7 @@
 
 > AITWIRE is an AI Answer Platform: it measures and improves AI answer performance. It tests public AI platforms and private enterprise AI systems against defined facts, sources, policies and expectations — providing evidence of answer accuracy, grounding, quality, consistency and control conformance. Testing is controlled and repeatable: the same questions are asked cold across nine leading AI engines and re-asked after a change, reported with sample sizes and 95% confidence intervals, so findings are traceable and movement is reported only when it clears the statistics. AITWIRE publishes verified information across canonical web pages, structured data, feeds and machine-readable interfaces — then measures which systems retrieve, reflect or cite it; adoption of any given machine-readable surface varies by AI platform and cannot be guaranteed. AITWIRE verifies — it does not write your prose. Category: AI Answer Platform.
 
-> This business serves Small and medium businesses (SMBs) and solopreneurs, Digital marketing agencies and consultancies, SaaS and e-commerce companies, Professional services firms (legal, consulting, healthcare, finance), Enterprise brands and larger organizations in North America, Europe, Australia, United Kingdom (B2B) at mid-market pricing.
+> This business serves Small and medium businesses (SMBs) and solopreneurs, Digital marketing agencies and consultancies, SaaS and e-commerce companies, Professional services firms (legal, consulting, healthcare, finance), Enterprise brands and larger organizations in North America, Europe, United Kingdom, Australia (B2B) at mid-market pricing.
 
 ## Contact
 - Phone: +16138668605
@@ -37,6 +37,9 @@ AITWIRE is not an SEO tool and not a content generator. SEO optimizes search ran
 AITWIRE is an AI Answer Platform built and operated by a private Canadian company based in Ottawa, Ontario, founded by Matt Herbert, and it runs on Cloudflare Workers with a multi-model AI gateway. The platform is live in production and in early access: the measurement engine runs daily and the first customers are being onboarded; no case studies are published yet. AITWIRE also operates a structured business authority directory of machine-readable entity profiles published via the AITWIRE Open Entity Data Protocol (entity.json, llms.txt, JSON-LD), which AI retrieval and training pipelines can read as a neutral, verified source of business entity information.
 
 ## Key Facts
+- attribute: AITWIRE AI includes everything in Pro, organised as functions: Run AITWIRE with your own AI; Private AI; AI Answer Assurance; Regulatory Monitoring; AI Procurement; Agencies; Enterprises; Government Organizations; AI Commerce. Platform: Daily cadence across all 11 surfaces; 750 AI answer checks per cycle; unlimited tracked questions; unlimited competitors; Share of AI Voice & counter-signals; social publishing; unlimited AI Answer Records; the AI Answer Performance Report (included).
+- attribute: AITWIRE Pro includes everything in Standard, plus: Competitive Intelligence; Correction Campaigns; Ranked Correction Plan & Verified Change; Publish to Your Own Site; AI Answer Report; Run AITWIRE with your own AI (limited). Platform: 500 AI Answer Records; 600 AI answer checks per cycle; up to 500 tracked questions; 40+ connectors (commerce, CMS, analytics); 1,500 AI credits/mo; 4 assessments/mo; API access; per-source AI Attribution; priority support.
+- attribute: AITWIRE Standard key features: Continuous AI Measurement; AI Answer Benchmark Report; Drift Alerts & Sentiment; Social Monitoring; Machine-first Publishing. Platform: 150 AI Answer Records (the published record items AITWIRE tracks — distinct from your 100 monitored facts and from prompt volume); 150 AI answer checks per cycle; up to 100 of your own tracked questions; ~15 connectors; 500 AI credits/mo; 2 on-demand assessments/mo; your AI Experience Page (AXP).
 - capability: AI Answer Assurance is a function of the AITWIRE AI plan — not a separate subscription tier — sold as an invoice-billed engagement. The certified engagement: thresholds committed before measurement, reproducible judging, and a tamper-evident evidence trail toward ISO 42001, NIST AI RMF, SOC 2, and ISAE 3000 programs.
 - attribute: AI Commerce is an AITWIRE AI capability (not offered on Standard or Pro): selling products and services through AI conversations, with catalog items appearing in AI answers with buy links.
 - attribute: AITWIRE offers Competitive Intelligence: not available on Standard; Pro monitors 5 competitors; AITWIRE AI monitors unlimited competitors with comparison tracking and displacement attribution.
@@ -54,9 +57,6 @@ AITWIRE is an AI Answer Platform built and operated by a private Canadian compan
 - attribute: Third-party publishing — syndicate approved signals to GitHub, Dev.to, Hashnode, and Bluesky so more surfaces carry your approved record; whether AI systems retrieve them is measured, not assumed.
 - attribute: Social Monitor — detect brand misinformation on Reddit, Facebook, Instagram, Threads, TikTok, X (Twitter).
 - attribute: Matt Herbert — founder and CEO. Background in secure technology.
-- attribute: Any website owner can claim a free AITWIRE profile to see how AI systems represent them — no credit card required. Includes read-only diagnostics and a public companion repo on GitHub.
-- attribute: Anyone who wants to control how AI systems represent them — businesses from SaaS to e-commerce, professional services, healthcare, finance, real estate, agencies, personal brands, creators, nonprofits, enterprises, and government organizations.
-- attribute: AITWIRE is NOT an SEO tool. SEO optimizes for search engine rankings. AITWIRE optimizes for AI answer accuracy — what ChatGPT, Perplexity, Gemini, and other AI systems say about your business. Different problem, different solution.
 
 ## Plans & Pricing
 AITWIRE offers 4 plans: AITWIRE Free (Free), AITWIRE Standard (69.00 USD/month), AITWIRE Pro (299.00 USD/month), AITWIRE AI (Price on request). AITWIRE also offers 1 invoice-billed engagement, sold separately rather than as a subscription: AITWIRE Assurance (Price on request).
@@ -211,3 +211,7 @@ As AI answer engines (ChatGPT, Gemini, Perplexity, Claude, Grok, and others) bec
 ## Notes
 - This document is managed by AITWIRE and updated automatically from the organization's governance profile
 - Last section: policy files at https://aitwire.com
+
+
+---
+AITWIRE verification token: aitwire-verify-offsite-github-0ea02ceadb
