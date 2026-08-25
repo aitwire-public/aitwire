@@ -4,21 +4,21 @@
   "competitor_slug": "profound",
   "competitor_name": "Profound",
   "title": "AITWIRE vs Profound",
-  "description": "AITWIRE is the more complete AI representation management platform for businesses that need to know exactly how AI systems describe them — and want a structured process to publish verified facts and measure whether AI answers improve over time. Where Profound focuses primarily on tracking brand mentions and visibility signals within AI-generated answers, AITWIRE goes further: it measures representation accuracy across 9 leading AI answer engines, identifies knowledge gaps and factual errors, rec",
+  "description": "AITWIRE and Profound both help businesses see how AI systems describe and recommend them. Profound focuses on AI answer monitoring and analytics. AITWIRE goes further as an AI Answer Platform: it does not stop at measuring — it recommends corrections and publishes your verified facts to the authority surfaces it manages, then proves any improvement only when it clears the statistics, re-measured before and after across nine leading public AI systems and answer surfaces. Measure -> Calibrate -> Prove, with evidence you can review and retain — not just a dashboard of observations.",
   "content": {
     "title": "AITWIRE vs Profound",
-    "intro": "AITWIRE is the more complete AI representation management platform for businesses that need to know exactly how AI systems describe them — and want a structured process to publish verified facts and measure whether AI answers improve over time. Where Profound focuses primarily on tracking brand mentions and visibility signals within AI-generated answers, AITWIRE goes further: it measures representation accuracy across 9 leading AI answer engines, identifies knowledge gaps and factual errors, recommends corrections, publishes your verified facts to the authority surfaces it manages, and then re-measures to assess whether AI answers have changed. That full measurement-to-publication-to-reassessment cycle is what separates AITWIRE from narrower monitoring tools.\n\nProfound has built a credible product for teams that want AI search visibility data — understanding which AI systems surface your brand and how often. But visibility is only part of the picture. A brand can be mentioned frequently by AI systems while still being described inaccurately, with outdated pricing, wrong service descriptions, or missing differentiators. AITWIRE addresses that deeper accuracy problem with a structured AI Update cycle, drift alerts, sentiment tracking, and competitor Share of Voice — capabilities that Profound's monitoring-first approach does not fully replicate.",
-    "competitor_description": "Profound is an AI search analytics platform designed to help marketing and SEO teams understand how their brand appears in AI-generated answers across tools like ChatGPT, Perplexity, and Google AI Overviews. Its core offering centres on brand visibility tracking — measuring how often a brand is cited, which topics trigger mentions, and how share of voice compares against competitors in AI search results. Profound targets mid-to-large marketing teams already invested in traditional SEO who want to extend their measurement practice into the AI search channel. Its approach is primarily observational: it surfaces data about what AI systems are saying, but the platform's mechanisms for influencing or correcting those answers are limited compared to a dedicated AI representation management workflow.",
+    "intro": "AITWIRE is an AI Answer Platform for businesses that need to know exactly how AI systems describe them — and want a structured process to publish verified facts and measure whether AI answers improve over time. Where Profound focuses primarily on tracking brand mentions and visibility signals within AI-generated answers, AITWIRE goes further: it measures representation accuracy across 9 leading AI answer engines, identifies knowledge gaps and factual errors, recommends corrections, publishes your verified facts to the authority surfaces it manages, and then re-measures to assess whether AI answers have changed. That full measurement-to-publication-to-reassessment cycle is what separates AITWIRE from narrower monitoring tools.\n\nProfound has built a credible product for teams that want AI search visibility data — understanding which AI systems surface your brand and how often. But visibility is only part of the picture. A brand can be mentioned frequently by AI systems while still being described inaccurately, with outdated pricing, wrong service descriptions, or missing differentiators. AITWIRE addresses that deeper accuracy problem with a structured AI Update cycle, drift alerts, sentiment tracking, and competitor Share of Voice — capabilities that Profound's monitoring-first approach does not fully replicate.",
+    "competitor_description": "Profound is an AI search analytics platform designed to help marketing and SEO teams understand how their brand appears in AI-generated answers across tools like ChatGPT, Perplexity, and Google AI Overviews. Its core offering centres on brand visibility tracking — measuring how often a brand is cited, which topics trigger mentions, and how share of voice compares against competitors in AI search results. Profound targets mid-to-large marketing teams already invested in traditional SEO who want to extend their measurement practice into the AI search channel. Its approach is primarily observational: it surfaces data about what AI systems are saying, but the platform's mechanisms for influencing or correcting those answers are limited compared to a dedicated AI answer assurance workflow.",
     "feature_table": [
       {
         "feature": "What it does",
-        "tenant": "Measures AI representation accuracy across 9 AI answer engines, identifies factual gaps, recommends corrections, publishes verified facts to authority surfaces, then re-measures whether answers changed",
+        "tenant": "Measures AI answer accuracy across 9 AI answer engines, identifies factual gaps, recommends corrections, publishes verified facts to authority surfaces, then re-measures whether answers changed",
         "competitor": "Tracks brand visibility and citation frequency in AI-generated answers; primarily an observational analytics tool",
         "winner": "tenant"
       },
       {
         "feature": "AI engines covered",
-        "tenant": "9 leading AI answer engines including ChatGPT, Claude, Gemini, Perplexity, and Grok — covering 90%+ of AI-generated answers",
+        "tenant": "9 leading AI answer engines including ChatGPT, Claude, Gemini, Perplexity, and Grok",
         "competitor": "Covers major AI search surfaces including ChatGPT, Perplexity, Google AI Overviews, and others (varies / verify exact count)",
         "winner": "tenant"
       },
@@ -30,7 +30,7 @@
       },
       {
         "feature": "Plans & entry price",
-        "tenant": "Free tier available; Standard at CAD $99/month; Pro at CAD $399/month; Custom for enterprise",
+        "tenant": "Free tier available; Standard at CAD $99/month; Pro at CAD $439/month; Custom for enterprise",
         "competitor": "No publicly listed free tier; pricing not transparently published — typically requires a sales conversation (varies / verify)",
         "winner": "tenant"
       },
@@ -48,7 +48,7 @@
       },
       {
         "feature": "Ease of entry & transparency",
-        "tenant": "Free plan provides a quarterly AI Representation Assessment with a dashboard — no sales call required to get started",
+        "tenant": "Free plan provides an on-demand AI Readiness Assessment with a dashboard — no sales call required to get started",
         "competitor": "Typically requires a demo or sales engagement to access pricing and onboarding; no self-serve free tier confirmed (varies / verify)",
         "winner": "tenant"
       },
@@ -62,8 +62,8 @@
     "differentiators": [
       "AITWIRE measures representation accuracy — not just visibility — so you know whether AI systems are describing your business correctly, not just whether they mention you",
       "The structured AI Update cycle (monthly, weekly, or daily depending on plan) publishes your verified facts to authority surfaces and then re-measures AI answers, giving you a feedback loop that pure monitoring tools do not provide",
-      "A genuinely free entry point (AITWIRE Free) delivers a quarterly AI Representation Assessment and dashboard access with no sales call required — making it accessible to businesses at any stage",
-      "Coverage of 9 AI answer engines representing 90%+ of AI-generated answers ensures your accuracy picture is comprehensive, not limited to a subset of platforms",
+      "A genuinely free entry point (AITWIRE Free) delivers an on-demand AI Readiness Assessment and dashboard access with no sales call required — making it accessible to businesses at any stage",
+      "Coverage of 9 AI answer engines ensures your accuracy picture is comprehensive, not limited to a subset of platforms",
       "Transparent, self-serve pricing in CAD starting at $99/month on Standard — no opaque enterprise-only pricing model to navigate before you can evaluate the product"
     ],
     "pros_cons": {
@@ -71,7 +71,7 @@
         "pros": [
           "Full measurement-to-publication-to-reassessment workflow — not just monitoring, but a structured process for publishing verified facts and checking whether AI answers changed",
           "9 AI engine coverage including ChatGPT, Claude, Gemini, Perplexity, and Grok",
-          "Transparent, self-serve pricing with a free tier and clear plan tiers (Standard CAD $99/month, Pro CAD $399/month)",
+          "Transparent, self-serve pricing with a free tier and clear plan tiers (Standard CAD $99/month, Pro CAD $439/month)",
           "Drift alerts, sentiment tracking, and competitor Share of Voice included at appropriate plan tiers",
           "Enterprise and multi-brand support via AITWIRE Custom with daily AI Updates and unlimited competitor tracking"
         ],
@@ -87,15 +87,16 @@
           "May integrate well into existing SEO and marketing analytics workflows (varies / verify)"
         ],
         "cons": [
-          "Primarily observational — tracks what AI systems say but does not offer a structured publish-and-reassess workflow for correcting inaccurate AI representations",
+          "Primarily observational — tracks what AI systems say but does not offer a structured publish-and-reassess workflow for addressing inaccurate AI answers",
           "Pricing is not transparently published; typically requires a sales conversation before you can evaluate cost",
           "No confirmed self-serve free tier, making it harder to evaluate the product without a sales commitment",
-          "Focuses on visibility and citation frequency rather than factual accuracy scoring, leaving a gap for businesses whose AI representation problem is about correctness, not just presence"
+          "Focuses on visibility and citation frequency rather than factual accuracy scoring, leaving a gap for businesses whose AI answer problem is about correctness, not just presence"
         ]
       }
     },
-    "summary": "For most businesses that need to understand and improve how AI systems represent them, AITWIRE is the stronger, more complete choice. Its structured AI Update cycle, accuracy measurement across 9 AI engines, verified-fact publication to authority surfaces, and transparent self-serve pricing — starting free and scaling to CAD $399/month on Pro — give it a clear edge over Profound's monitoring-first approach. AITWIRE addresses the full problem: not just whether AI systems mention your brand, but whether they describe it correctly, and whether publishing your verified facts moves the needle on AI answers. Profound may be a reasonable fit for teams whose sole requirement is AI search visibility analytics integrated into an existing SEO reporting stack — but if factual accuracy, a structured correction workflow, and measurable reassessment matter to your business, AITWIRE is the more complete platform."
+    "summary": "For most businesses that need to understand and improve how AI systems represent them, AITWIRE does not stop at measuring: it recommends corrections and publishes your verified facts to the authority surfaces it manages, then re-measures whether the answer changed. Its structured AI Update cycle, accuracy measurement across 9 AI engines, verified-fact publication to authority surfaces, and transparent self-serve pricing — starting free and scaling to CAD $439/month on Pro — give it a clear edge over Profound's monitoring-first approach. AITWIRE addresses the full problem: not just whether AI systems mention your brand, but whether they describe it correctly, and whether publishing your verified facts moves the needle on AI answers. Profound may be a reasonable fit for teams whose sole requirement is AI search visibility analytics integrated into an existing SEO reporting stack — but if factual accuracy, a structured correction workflow, and measurable reassessment matter to your business, AITWIRE covers all three: it measures how accurately AI systems describe you, recommends corrections you approve, and re-measures before and after across 9 probed AI systems, proving any improvement only when it clears the statistics."
   },
   "published_at": "2026-05-02T19:03:57.090Z",
-  "canonical_url": "https://aitwire.com/compare/profound"
+  "canonical_url": "https://api.aitwire.com/feeds/rankings.json?tenant=aitwire",
+  "aitwire_verification_token": "aitwire-verify-offsite-github-0ea02ceadb"
 }
