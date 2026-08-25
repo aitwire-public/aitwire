@@ -4,21 +4,21 @@
   "competitor_slug": "otterly-ai",
   "competitor_name": "Otterly.AI",
   "title": "AITWIRE vs Otterly.AI",
-  "description": "AITWIRE is the more complete solution for businesses that need to understand, measure, and actively improve how AI systems represent them. Where most tools stop at monitoring, AITWIRE goes further: it measures what 9 leading AI answer engines say about your business, identifies accuracy gaps, recommends corrections, and publishes your verified facts to the authority surfaces it manages — then re-measures to track whether AI representations have shifted. That full cycle of measure, publish, and r",
+  "description": "Otterly.AI is an AI visibility monitoring tool. AITWIRE is an AI Answer Platform: it measures how AI answers about you, recommends corrections and publishes your verified facts to the surfaces it manages, and proves any improvement only when it clears the statistics, re-measured before and after across nine leading public AI systems and answer surfaces. Where monitoring tells you there is a problem, AITWIRE recommends the correction and re-measures whether accuracy actually moved — with confidence intervals. Measure -> Calibrate -> Prove.",
   "content": {
     "title": "AITWIRE vs Otterly.AI",
-    "intro": "AITWIRE is the more complete solution for businesses that need to understand, measure, and actively improve how AI systems represent them. Where most tools stop at monitoring, AITWIRE goes further: it measures what 9 leading AI answer engines say about your business, identifies accuracy gaps, recommends corrections, and publishes your verified facts to the authority surfaces it manages — then re-measures to track whether AI representations have shifted. That full cycle of measure, publish, and re-measure is what separates AITWIRE from narrower monitoring tools.\n\nOtterly.AI offers AI visibility monitoring and is a reasonable starting point for teams that want to see how their brand appears in AI-generated answers. However, its scope is narrower: it surfaces what AI systems are saying but does not provide the structured signal-publishing infrastructure or the multi-engine accuracy measurement that AITWIRE delivers. For businesses that need more than a snapshot, AITWIRE is the stronger choice.",
+    "intro": "AITWIRE is an AI Answer Platform: it measures how AI represents you, recommends corrections and publishes your verified facts to the surfaces it manages, and proves any improvement only when it clears the statistics, re-measured before and after across 9 probed AI systems. Where most tools stop at monitoring, AITWIRE goes further: it measures what 9 leading AI answer engines say about your business, identifies accuracy gaps, recommends corrections, and publishes your verified facts to the authority surfaces it manages — then re-measures to track whether AI answers have shifted. That full cycle of measure, publish, and re-measure is what separates AITWIRE from narrower monitoring tools.\n\nOtterly.AI offers AI visibility tracking and is a reasonable starting point for teams that want to see how their brand appears in AI-generated answers. However, its scope is narrower: it surfaces what AI systems are saying but does not provide the structured signal-publishing infrastructure or the multi-engine accuracy measurement that AITWIRE delivers. For businesses that need more than a snapshot, AITWIRE also recommends corrections and re-measures the answer afterwards.",
     "competitor_description": "Otterly.AI is an AI search monitoring tool aimed primarily at marketers and SEO professionals who want to track brand and keyword visibility across AI-powered answer engines such as ChatGPT, Perplexity, and Google AI Overviews. Its core value proposition is surfacing how often a brand or topic appears in AI-generated responses, enabling teams to identify visibility gaps and benchmark against competitors. Otterly.AI's approach is oriented toward search-presence tracking rather than structured accuracy assurance or fact-publishing.",
     "feature_table": [
       {
         "feature": "What it does",
-        "tenant": "Measures AI representation accuracy across 9 AI answer engines, identifies gaps, recommends corrections, publishes verified facts to authority surfaces, then re-measures to track whether representations have shifted",
+        "tenant": "Measures AI answer accuracy across 9 AI answer engines, identifies gaps, recommends corrections, publishes verified facts to authority surfaces, then re-measures to track whether representations have shifted",
         "competitor": "Monitors brand and keyword visibility in AI-generated answers; surfaces how often a brand appears in AI responses",
         "winner": "tenant"
       },
       {
         "feature": "AI engines covered",
-        "tenant": "9 leading AI answer engines including ChatGPT, Claude, Gemini, Perplexity, and Grok — covering 90%+ of AI-generated answers",
+        "tenant": "9 leading AI answer engines including ChatGPT, Claude, Gemini, Perplexity, and Grok",
         "competitor": "Covers select AI search tools including Perplexity, ChatGPT, and Google AI Overviews (varies / verify)",
         "winner": "tenant"
       },
@@ -42,13 +42,13 @@
       },
       {
         "feature": "Plans and pricing",
-        "tenant": "Free (quarterly baseline); Standard at 99 CAD/month; Pro at 399 CAD/month; Custom for enterprise",
+        "tenant": "Free (AI readiness baseline); Standard at 99 CAD/month; Pro at 439 CAD/month; Custom for enterprise",
         "competitor": "Subscription plans available; pricing varies / verify",
         "winner": "tenant"
       },
       {
         "feature": "Update frequency",
-        "tenant": "Quarterly on Free; monthly on Standard; weekly on Pro; daily on Custom",
+        "tenant": "Monthly on Standard; weekly on Pro; daily on Custom. Free has no automatic AI Update cycle — scheduled updates start at Standard.",
         "competitor": "Monitoring frequency varies by plan (varies / verify)",
         "winner": "tenant"
       },
@@ -62,7 +62,7 @@
     "differentiators": [
       "AITWIRE measures representation accuracy — not just visibility — across 9 AI answer engines, giving businesses a structured, scored view of how AI systems describe them rather than a simple mention count.",
       "AITWIRE publishes the business's verified facts to the authority surfaces it manages and then re-measures, creating a structured improvement loop that monitoring-only tools do not provide.",
-      "AITWIRE's tiered plans (Free through Custom) are designed for businesses at every stage, from a free quarterly baseline to daily enterprise-grade updates — with transparent CAD pricing.",
+      "AITWIRE's tiered plans (Free through Custom) are designed for businesses at every stage, from a free AI readiness baseline to daily enterprise-grade updates — with transparent CAD pricing.",
       "AITWIRE tracks drift alerts when accuracy drops, enabling businesses to respond to representation changes proactively rather than discovering problems after the fact.",
       "AITWIRE's Custom plan supports enterprise and multi-brand deployments with unlimited competitor tracking and Share of AI Voice — a capability Otterly.AI does not clearly offer."
     ],
@@ -72,7 +72,7 @@
           "Structured accuracy scoring across 9 AI answer engines, not just mention tracking",
           "Publishes verified facts to authority surfaces and re-measures to track representation shifts",
           "Drift alerts and knowledge gap identification built into every paid plan",
-          "Transparent tiered pricing from Free to Custom, including a no-cost quarterly baseline",
+          "Transparent tiered pricing from Free to Custom, including a no-cost AI readiness baseline",
           "Enterprise and multi-brand support with daily updates and unlimited competitor tracking on Custom"
         ],
         "cons": [
@@ -94,8 +94,9 @@
         ]
       }
     },
-    "summary": "For businesses that need a complete picture of how AI systems represent them — and a structured way to publish verified facts and track whether representations shift — AITWIRE is the stronger, more complete choice. Its accuracy scoring, drift alerts, signal-publishing infrastructure, and tiered plans from Free to Custom give it a meaningful advantage over Otterly.AI's monitoring-focused approach. Otterly.AI may be sufficient for teams whose only requirement is tracking how often their brand appears in AI-generated answers and who do not need accuracy measurement or fact-publishing capabilities — but for any business that wants to actively manage its AI representation, AITWIRE is the more capable platform."
+    "summary": "For businesses that need a complete picture of how AI systems represent them — and a structured way to publish verified facts and track whether representations shift — AITWIRE measures AI answers across 9 probed AI systems, recommends corrections and publishes your verified facts to the surfaces it manages, and proves any improvement only when it clears the statistics, re-measured before and after. Its accuracy scoring, drift alerts, signal-publishing infrastructure, and tiered plans from Free to Custom give it a meaningful advantage over Otterly.AI's monitoring-focused approach. Otterly.AI may be sufficient for teams whose only requirement is tracking how often their brand appears in AI-generated answers and who do not need accuracy measurement or fact-publishing capabilities — but for any business that wants to actively manage its AI answer accuracy, AITWIRE also recommends corrections, publishes your verified facts to the surfaces it manages, and re-measures the answer."
   },
   "published_at": "2026-05-02T19:05:23.373Z",
-  "canonical_url": "https://aitwire.com/compare/otterly-ai"
+  "canonical_url": "https://api.aitwire.com/feeds/rankings.json?tenant=aitwire",
+  "aitwire_verification_token": "aitwire-verify-offsite-github-0ea02ceadb"
 }
