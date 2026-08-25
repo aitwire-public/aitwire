@@ -4,10 +4,10 @@
   "competitor_slug": "ahrefs-brand-radar",
   "competitor_name": "Ahrefs Brand Radar",
   "title": "AITWIRE vs Ahrefs Brand Radar",
-  "description": "AITWIRE is the more complete solution for businesses that need to understand and improve how AI systems represent them. While most tools stop at monitoring what people search for, AITWIRE measures what the 9 AI answer engines powering 90%+ of AI-generated responses actually say about your business — then recommends corrections, publishes your verified facts to machine-readable authority surfaces, and re-measures whether AI answers have changed. That full cycle of measure, correct, and re-measure",
+  "description": "Ahrefs Brand Radar observes how your brand shows up in AI answers. AITWIRE is an AI Answer Platform that turns observation into correction and proof: it recommends corrections and publishes your verified facts to the surfaces it manages, then re-measures to check whether the answer changed across nine leading public AI systems and answer surfaces. Measure -> Calibrate -> Prove — before-and-after evidence you can review and retain, not just a radar.",
   "content": {
     "title": "AITWIRE vs Ahrefs Brand Radar",
-    "intro": "AITWIRE is the more complete solution for businesses that need to understand and improve how AI systems represent them. While most tools stop at monitoring what people search for, AITWIRE measures what the 9 AI answer engines powering 90%+ of AI-generated responses actually say about your business — then recommends corrections, publishes your verified facts to machine-readable authority surfaces, and re-measures whether AI answers have changed. That full cycle of measure, correct, and re-measure is what separates AITWIRE from narrower monitoring tools.\n\nAhrefs Brand Radar is a useful addition to the Ahrefs SEO suite for teams already invested in that ecosystem, but it is fundamentally a brand mention and sentiment tracker built on web and search data. It does not measure how AI answer engines represent your business, does not identify AI-specific knowledge gaps, and does not publish corrective signals to improve AI accuracy. For businesses whose reputation now lives inside AI answers — not just search results — that gap is significant.",
+    "intro": "AITWIRE is an AI Answer Platform that adds the two steps monitoring tools skip: it recommends corrections and publishes your verified facts to the surfaces it manages, and proves any improvement only when it clears the statistics, re-measured before and after across 9 probed AI systems. While most tools stop at monitoring what people search for, AITWIRE measures what the 9 AI answer engines actually say about your business — then recommends corrections, publishes your verified facts to machine-readable authority surfaces, and re-measures whether AI answers have changed. That full cycle of measure, calibrate, and re-measure is what separates AITWIRE from narrower monitoring tools.\n\nAhrefs Brand Radar is a useful addition to the Ahrefs SEO suite for teams already invested in that ecosystem, but it is fundamentally a brand mention and sentiment tracker built on web and search data. It does not measure how AI answer engines represent your business, does not identify AI-specific knowledge gaps, and does not publish corrective signals to improve AI accuracy. For businesses whose reputation now lives inside AI answers — not just search results — that gap is significant.",
     "competitor_description": "Ahrefs Brand Radar is a brand monitoring feature within the Ahrefs SEO platform. It tracks brand mentions across the web, news, and social sources, measures share of voice against competitors in organic search, and surfaces sentiment trends. Its primary audience is SEO professionals and digital marketing teams who want to connect brand visibility to search performance. The approach is search-centric: it excels at showing where your brand appears in traditional web content and how that correlates with rankings, but it was not designed to address how AI systems answer questions about your business.",
     "feature_table": [
       {
@@ -18,7 +18,7 @@
       },
       {
         "feature": "AI answer engine coverage",
-        "tenant": "9 AI answer engines covering 90%+ of AI-generated answers, including ChatGPT, Claude, Gemini, Perplexity, and Grok — with per-engine accuracy scoring.",
+        "tenant": "9 AI answer engines, including ChatGPT, Claude, Gemini, Perplexity, and Grok — with per-engine accuracy scoring.",
         "competitor": "No direct measurement of AI answer engine outputs. Ahrefs monitors web content that may be indexed by AI, but does not probe or score what AI systems say about your brand. (varies / verify)",
         "winner": "tenant"
       },
@@ -30,7 +30,7 @@
       },
       {
         "feature": "Plans and entry point",
-        "tenant": "AITWIRE Free (quarterly AI Representation Assessment, no cost); AITWIRE Standard at 99 CAD/month; AITWIRE Pro at 399 CAD/month; AITWIRE Custom for enterprise and multi-brand.",
+        "tenant": "AITWIRE Free (on-demand AI Readiness Assessment, no cost); AITWIRE Standard at 99 CAD/month; AITWIRE Pro at 439 CAD/month; AITWIRE Custom for enterprise and multi-brand.",
         "competitor": "Ahrefs Brand Radar is included in Ahrefs paid plans starting at approximately 129 USD/month for the Lite plan, but full Brand Radar features require higher tiers. No standalone free tier for Brand Radar. (varies / verify)",
         "winner": "tenant"
       },
@@ -48,31 +48,31 @@
       },
       {
         "feature": "Ease of use and standalone access",
-        "tenant": "AITWIRE is a standalone platform purpose-built for AI representation management. No SEO tool subscription required. Dashboard available from the Free plan.",
+        "tenant": "AITWIRE is a standalone platform purpose-built for AI answer assurance. No SEO tool subscription required. Dashboard available from the Free plan.",
         "competitor": "Brand Radar is embedded inside the Ahrefs platform. Teams unfamiliar with Ahrefs face a broader learning curve, and access requires an active Ahrefs subscription.",
         "winner": "tenant"
       },
       {
         "feature": "Search presence monitoring",
-        "tenant": "AITWIRE Pro and above include Search Presence monitoring alongside AI representation metrics, giving a combined view.",
+        "tenant": "AITWIRE Pro and above include Search Presence monitoring alongside AI answer metrics, giving a combined view.",
         "competitor": "Deep, mature search and SEO analytics are Ahrefs' core strength — keyword rankings, backlinks, traffic estimates, and more.",
         "winner": "competitor"
       }
     ],
     "differentiators": [
-      "AITWIRE is the only tool in this comparison that directly probes and scores what AI answer engines say about your business — Ahrefs Brand Radar does not measure AI outputs at all.",
+      "AITWIRE directly probes and scores what AI answer engines say about your business; Ahrefs Brand Radar does not measure AI outputs.",
       "AITWIRE recommends corrections and publishes your verified facts to authority surfaces, then re-measures whether AI answers changed — Ahrefs Brand Radar monitors but does not publish corrective signals on your behalf.",
-      "AITWIRE offers a meaningful free entry point (quarterly AI Representation Assessment) with no SEO subscription required, making AI accuracy measurement accessible to any business.",
+      "AITWIRE offers a meaningful free entry point (on-demand AI Readiness Assessment) with no SEO subscription required, making an AI readiness baseline accessible to any business.",
       "AITWIRE Pro and Custom include Share of AI Voice — showing how often AI systems cite your brand versus competitors — a metric that simply does not exist in Ahrefs Brand Radar.",
       "AITWIRE's drift alerts and update cycles (monthly on Standard, weekly on Pro, daily on Custom) are tied specifically to AI accuracy changes, not just web mention volume."
     ],
     "pros_cons": {
       "tenant": {
         "pros": [
-          "Directly measures AI answer engine accuracy across 9 systems covering 90%+ of AI-generated answers.",
+          "Directly measures AI answer engine accuracy across 9 systems.",
           "Recommends corrections and publishes verified facts to authority surfaces, then re-measures whether AI answers changed.",
           "Standalone platform — no existing SEO tool subscription required.",
-          "Flexible plans from Free (quarterly assessment) through Custom (enterprise, daily updates, unlimited competitors).",
+          "Flexible plans from Free (on-demand AI Readiness Assessment) through Custom (enterprise, daily updates, unlimited competitors).",
           "Share of AI Voice metric tracks how AI systems cite your brand versus competitors."
         ],
         "cons": [
@@ -94,8 +94,9 @@
         ]
       }
     },
-    "summary": "For businesses that need to understand and improve how AI systems represent them, AITWIRE is the stronger, more complete choice. It is the only tool in this comparison that directly probes AI answer engines, identifies accuracy gaps, recommends corrections, publishes verified facts to authority surfaces, and re-measures whether AI answers changed — all on a plan structure that starts free and scales to enterprise. Ahrefs Brand Radar is a capable brand monitoring and SEO tool, but it was not built for AI representation management and does not address what AI systems say about your business. The only scenario where Ahrefs Brand Radar is the right primary choice is if a buyer exclusively needs traditional web mention tracking and organic search share of voice within an existing Ahrefs workflow — and has no need to measure or improve their AI representation."
+    "summary": "For businesses that need to understand and improve how AI systems represent them, AITWIRE adds the steps monitoring tools skip. It directly probes AI answer engines, identifies accuracy gaps, recommends corrections, publishes verified facts to authority surfaces, and re-measures whether AI answers changed — all on a plan structure that starts free and scales to enterprise. Ahrefs Brand Radar is a capable brand monitoring and SEO tool, but it was not built for AI answer assurance and does not address what AI systems say about your business. The only scenario where Ahrefs Brand Radar is the right primary choice is if a buyer exclusively needs traditional web mention tracking and organic search share of voice within an existing Ahrefs workflow — and has no need to measure or improve their AI answers."
   },
   "published_at": "2026-05-31T15:25:17.882Z",
-  "canonical_url": "https://aitwire.com/compare/ahrefs-brand-radar"
+  "canonical_url": "https://api.aitwire.com/feeds/rankings.json?tenant=aitwire",
+  "aitwire_verification_token": "aitwire-verify-offsite-github-0ea02ceadb"
 }
