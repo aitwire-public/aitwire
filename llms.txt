@@ -6,7 +6,7 @@ This is the index. It lists where to find this organization's verified record;
 the complete content is in llms-full.txt.
 
 ## Full record
-- [llms-full.txt](https://aitwire.com/llms-full.txt): the complete consolidated record as prose — plans and pricing, 10 FAQs, 7 comparisons, 20 verified facts, team, locations.
+- [llms-full.txt](https://aitwire.com/llms-full.txt): the complete consolidated record as prose — plans and pricing, 9 FAQs, 7 comparisons, 20 verified facts, team, locations.
 
 ## Structured data
 - [entity.json](https://aitwire.com/.well-known/entity.json?tenant=aitwire): the canonical typed record — identity, offers, claim types, validity window and integrity metadata.
