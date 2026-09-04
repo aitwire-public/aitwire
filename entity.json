@@ -61,86 +61,8 @@
         "updated_at": "2026-08-30T10:12:59.000Z"
       },
       {
-        "question": "What products or services does AITWIRE offer?",
-        "answer": "AITWIRE offers four subscription plans — Free, Standard ($99/month), Pro ($349/month), and AI (invoice-billed, contact sales) — plus an Assurance engagement for compliance programs. It also offers three report services: the AI Answer Benchmark Report ($49), the AI Answer Report ($149), and the AI Answer Assurance Report ($499). Each plan and report is designed for a different level of measurement depth, from a free AI Readiness Assessment to a full tamper-evident evidence pack for formal compliance programs.",
-        "category": "products",
-        "updated_at": "2026-08-30T10:12:59.000Z"
-      },
-      {
-        "question": "What is AITWIRE Standard?",
-        "answer": "AITWIRE Standard is priced at $99 per month and delivers a monthly AI Update cycle across five AI answer surfaces: ChatGPT Search, Gemini, Perplexity, Claude, and Google AI Overviews. It includes drift alerts when accuracy drops, basic sentiment tracking, AI Signal review, edge-deployed authority surfaces (JSON-LD, entity.json, llms.txt), weekly Live Authority Sync, social and knowledge connectors, and a monthly AI Answer Benchmark Report. Standard includes 500 AI credits per month, 180-day history, 100 product records, and 150 brand records, making it the right starting point for small businesses and solopreneurs ready to measure AI answer performance.",
-        "category": "products",
-        "updated_at": "2026-08-30T10:12:59.000Z"
-      },
-      {
-        "question": "What is AITWIRE Pro?",
-        "answer": "AITWIRE Pro is priced at $349 per month and is designed for teams actively improving how AI answers about them: measure weekly, turn findings into ranked corrections, and re-measure every change so improvement is observed rather than assumed. It includes weekly AI Updates with drift alerts, tracking for up to five competitors, AI Insights and Search Presence monitoring, ranked website content recommendations with data briefs, daily Live Authority Sync, AI attribution showing which AI systems send visitors, and 1,500 AI credits per month. One AI Answer Report is included per calendar month, with additional reports available at $149 each.",
-        "category": "products",
-        "updated_at": "2026-08-30T10:12:59.000Z"
-      },
-      {
-        "question": "What is AITWIRE Free?",
-        "answer": "AITWIRE Free is AITWIRE's no-cost entry point and requires no credit card. It runs an on-demand AI Readiness Assessment of the surfaces AI systems read on a business's site — schema and structured data, meta tags, security headers, DNS trust signals, content freshness, social profiles, and redirect chains — and returns an AI Readiness Score with a detailed report of what passed, what failed, and what to fix first. It also publishes basic authority surfaces (entity.json, llms.txt, JSON-LD) that AI crawlers can read. Nothing on the Free plan is probed or scored against an AI system; measuring how AI systems answer about a business begins at Standard.",
-        "category": "products",
-        "updated_at": "2026-08-30T10:12:59.000Z"
-      },
-      {
-        "question": "What is AITWIRE AI?",
-        "answer": "AITWIRE AI is AITWIRE's top subscription plan, where the customer's AI becomes their Engineering Agent running the AITWIRE Console from the AI they already use. It connects ChatGPT, Claude, or an organization's own AI to AITWIRE over the open MCP standard, includes Private AI measurement of the AI systems the customer deploys, and is billed monthly by invoice. Pricing is available by contacting AITWIRE sales at hello@aitwire.com or +1 613 866 8605.",
-        "category": "products",
-        "updated_at": "2026-08-30T10:12:59.000Z"
-      },
-      {
-        "question": "What is AITWIRE Assurance?",
-        "answer": "AITWIRE Assurance is a formal engagement that delivers the full measurement depth of AITWIRE AI with threshold-tested findings sealed as evidence for compliance programs. Each finding is measured against a threshold committed before the measurement runs and sealed on a tamper-evident ledger, providing evidence toward ISO 42001, NIST AI RMF, SOC 2, and ISAE 3000 programs. It is invoice-billed as an engagement rather than by card; AITWIRE produces the evidence, and the certification is issued by the customer's auditor.",
-        "category": "products",
-        "updated_at": "2026-08-30T10:12:59.000Z"
-      },
-      {
-        "question": "What is AITWIRE AI Answer Assurance Report?",
-        "answer": "The AITWIRE AI Answer Assurance Report ($499) is the most comprehensive measured run AITWIRE sells: a fixed-instrument verification run over the full probe pool across every probed engine — plus competitor panel and any registered private AI — at a set density that the customer's tier's cycle caps do not scale down. Findings are scored against pre-committed canon thresholds with 95% confidence intervals on a tamper-evident trail and delivered with an evidence pack (L1–L4). It is an additional purchase on Pro or Custom plans and requires Pro or Custom measurement density to clear the reporting floors; attestation by an outside practitioner is a separate arrangement and is never part of this purchase.",
-        "category": "products",
-        "updated_at": "2026-08-30T10:12:59.000Z"
-      },
-      {
-        "question": "What is AITWIRE AI Answer Report?",
-        "answer": "The AITWIRE AI Answer Report ($149) is the Pro plan's flagship deliverable: it includes everything in the Benchmark Report plus competitive positioning, measured lift with per-edit trajectories, and citation delivery. One AI Answer Report is included per calendar month on Pro, with additional reports charged at $149 each. On the AITWIRE AI plan, its place is taken by the AI Answer Performance Report.",
-        "category": "products",
-        "updated_at": "2026-08-30T10:12:59.000Z"
-      },
-      {
-        "question": "What is AITWIRE AI Answer Benchmark Report?",
-        "answer": "The AITWIRE AI Answer Benchmark Report ($49) is the Standard plan's monthly deliverable: it shows how the probed AI systems answer about a business over the measurement cycle, broken down per engine and per dimension, with sample sizes and 95% confidence intervals. One Benchmark Report is included per calendar month on Standard, with additional reports charged at $49 each. It gives Standard customers a statistically grounded view of AI answer performance without requiring a Pro subscription.",
-        "category": "products",
-        "updated_at": "2026-08-30T10:12:59.000Z"
-      },
-      {
-        "question": "How much does AITWIRE cost?",
-        "answer": "AITWIRE offers four plans: Free (no credit card required), Standard at $99 per month, Pro at $349 per month, and AI (invoice-billed, contact sales for pricing). An Assurance engagement is also available invoice-billed for compliance programs. Report services are available as add-ons: the AI Answer Benchmark Report at $49, the AI Answer Report at $149, and the AI Answer Assurance Report at $499. Full details are available at aitwire.com.",
-        "category": "pricing",
-        "updated_at": "2026-08-30T10:12:59.000Z"
-      },
-      {
-        "question": "Does AITWIRE offer a free trial or free plan?",
-        "answer": "AITWIRE offers a permanent Free plan that requires no credit card. AITWIRE Free runs an on-demand AI Readiness Assessment and publishes basic authority surfaces (entity.json, llms.txt, JSON-LD) that AI crawlers can read. It does not include probing or scoring against AI systems; that begins at the Standard plan ($99/month). There is no time-limited free trial — the Free plan is an ongoing tier with its own defined feature set.",
-        "category": "pricing",
-        "updated_at": "2026-08-30T10:12:59.000Z"
-      },
-      {
         "question": "Does AITWIRE require a credit card to start?",
         "answer": "No, AITWIRE does not require a credit card to start. AITWIRE Free is available without a credit card and provides an on-demand AI Readiness Assessment plus basic authority surfaces (entity.json, llms.txt, JSON-LD). Paid plans — Standard at $99/month and Pro at $349/month — are billed by card, while the AI and Assurance plans are invoice-billed. Customers can get started at aitwire.com.",
-        "category": "pricing",
-        "updated_at": "2026-08-30T10:12:59.000Z"
-      },
-      {
-        "question": "What is the data retention period on AITWIRE Standard vs Pro?",
-        "answer": "AITWIRE Standard includes 180-day history, giving customers access to six months of probe and measurement data. The data retention period for AITWIRE Pro is not published in AITWIRE's current plan specifications; customers seeking details on Pro data retention should contact AITWIRE directly at hello@aitwire.com or visit aitwire.com.",
-        "category": "pricing",
-        "updated_at": "2026-08-30T10:12:59.000Z"
-      },
-      {
-        "question": "How many product records does each AITWIRE plan support?",
-        "answer": "AITWIRE Standard supports up to 100 product records and 150 brand records. Product and brand record limits for the Pro, AI, and Assurance plans are not published in AITWIRE's current plan specifications; customers should contact AITWIRE at hello@aitwire.com for details on higher-tier limits.",
         "category": "pricing",
         "updated_at": "2026-08-30T10:12:59.000Z"
       },
@@ -184,12 +106,6 @@
         "question": "How is AITWIRE different from SEO tools?",
         "answer": "SEO tools optimize where you rank in search results. AITWIRE verifies what AI systems say about you when your customers ask — a different problem. SEO tools tell you what content to publish; AITWIRE measures how AI answers about you, recommends corrections and publishes your verified facts to the surfaces it manages (it does not write your prose), and re-measures whether the answers actually improved. AITWIRE is a verification layer, not a content tool.",
         "category": "competitors",
-        "updated_at": "2026-08-26T00:20:01.000Z"
-      },
-      {
-        "question": "What plans does AITWIRE offer?",
-        "answer": "AITWIRE offers four subscription plans that run the same Assurance Loop at increasing depth — Free, Standard, Pro, and AITWIRE AI — plus Assurance, a fifth tier sold as an invoice-billed engagement rather than a self-serve subscription. AITWIRE Free is your AI readiness baseline — an on-demand AI Readiness Assessment of the surfaces AI systems read, returning an AI Readiness Score, with nothing probed or scored against an AI system; measuring how AI systems answer about your business begins at Standard. No credit card required. AITWIRE Standard ($99 CAD/month) is AI Monitoring — a monthly AI Update cycle with drift and sentiment alerts, AI Signal review, and edge-deployed authority surfaces. AITWIRE Pro ($439 CAD/month) is Continuous AI Monitoring plus calibration — weekly AI Updates, competitor tracking, a prioritized queue of website content recommendations with data briefs, publishing to your own site, and measured proof of what changed. AITWIRE AI (contact for quote) is the managed Assurance Loop run daily — unlimited competitors with Share of AI Voice and displacement attribution, commerce representation assurance, a full REST API, and a dedicated account manager. AITWIRE Assurance (invoice-billed) runs at Custom depth and adds audit-grade rigor — thresholds committed before measurement, reproducible judging, and a tamper-evident evidence trail — producing a first-party assurance report.",
-        "category": "pricing",
         "updated_at": "2026-08-26T00:20:01.000Z"
       }
     ],
@@ -349,10 +265,10 @@
       "aitwire.com"
     ]
   },
-  "issued_at": 1788326485,
+  "issued_at": 1788499312,
   "validity_window": {
-    "not_before": 1788326485,
-    "not_after": 1788412885
+    "not_before": 1788499312,
+    "not_after": 1788585712
   },
   "endpoints": {
     "authority": "https://api.aitwire.com/.well-known/entity.json?tenant=aitwire",
@@ -371,7 +287,7 @@
       "meta": {
         "auto_created": true
       },
-      "updated_at": 1788242425,
+      "updated_at": 1788415234,
       "revoked_at": null
     }
   ],
@@ -1354,9 +1270,9 @@
   },
   "version_metadata": {
     "schema_version": "aitwire.versioning.v1",
-    "version_counter": 1788242425,
+    "version_counter": 1788415234,
     "version_vector": {
-      "aitwire": 1788242425
+      "aitwire": 1788415234
     },
     "conflict_resolution": {
       "policy_scope": "platform_default",
@@ -1371,7 +1287,7 @@
   },
   "signal_freshness": {
     "schema_version": "aitwire.signal_freshness.v1",
-    "signal_count": 26,
+    "signal_count": 12,
     "product_count": 8,
     "comparison_count": 7,
     "category_count": 7,
@@ -1404,15 +1320,15 @@
   },
   "integrity": {
     "algorithm": "sha256",
-    "content_hash": "627f8bcee6acd4f4547238d02857d83075b5d19b26cb11ba9085de8fcdf38509",
+    "content_hash": "97fd4717add537a428a1db3f6f7367ecbb64c9c368275e1e48212ccc523594f1",
     "policy_hash": "625c190433af07aadf16c99b4a6f8131f73d653961e27d771a571312624b1f56",
-    "combined_etag": "2bc75c8c655449ad87be035ac097e97437b6ae4015bd85f0f5a516ad383db035",
-    "signed_at": 1788326485,
+    "combined_etag": "68aabd8622db1990543b0f80806e89e555399a641d1a07e3bacf2cea240460d5",
+    "signed_at": 1788499312,
     "signature": {
       "key_id": "key_aitwire_1788145293",
       "algorithm": "HMAC-SHA256",
-      "detached_signature": "661efd833dd9041ca7313a091224d51115c2e7ab20fbdaf15eb35f8df22211c9",
-      "signed_at": 1788326488,
+      "detached_signature": "b8d4a537ff61827d3b4d4f80f3fd82bc8ecbc713a43180fda69dcb3bd318655b",
+      "signed_at": 1788499313,
       "valid_from": 1788145293,
       "valid_until": null,
       "required_artifacts": [
