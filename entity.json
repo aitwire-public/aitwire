@@ -247,10 +247,10 @@
       "aitwire.com"
     ]
   },
-  "issued_at": 1788931258,
+  "issued_at": 1789104059,
   "validity_window": {
-    "not_before": 1788931258,
-    "not_after": 1789017658
+    "not_before": 1789104059,
+    "not_after": 1789190459
   },
   "endpoints": {
     "authority": "https://api.aitwire.com/.well-known/entity.json?tenant=aitwire",
@@ -269,7 +269,7 @@
       "meta": {
         "auto_created": true
       },
-      "updated_at": 1788847208,
+      "updated_at": 1789020084,
       "revoked_at": null
     }
   ],
@@ -375,7 +375,7 @@
         {
           "@type": "PropertyValue",
           "name": "feature",
-          "value": "Private AI measurement covers accuracy, grounding, citation, policy-safety, and leakage"
+          "value": "Private AI measurement covers accuracy, citation, groundedness, safety, coverage, and leakage — measured at reasonable assurance"
         },
         {
           "@type": "PropertyValue",
@@ -1064,9 +1064,9 @@
   },
   "version_metadata": {
     "schema_version": "aitwire.versioning.v1",
-    "version_counter": 1788847208,
+    "version_counter": 1789020084,
     "version_vector": {
-      "aitwire": 1788847208
+      "aitwire": 1789020084
     },
     "conflict_resolution": {
       "policy_scope": "platform_default",
@@ -1114,15 +1114,15 @@
   },
   "integrity": {
     "algorithm": "sha256",
-    "content_hash": "9bf8df98ac9ac3e38d9c1f7cbf611003f4f0c1ebff649cbbc4d1f7fec2c2199f",
+    "content_hash": "86fb7940642c6a3566e40e366516e79229b816a46c329f8976b9ae284973de55",
     "policy_hash": "625c190433af07aadf16c99b4a6f8131f73d653961e27d771a571312624b1f56",
-    "combined_etag": "1f33bf5cb6d7ccd29f7ce00c88e4b08b4f7f1db0709575463e5e987845e175f5",
-    "signed_at": 1788931258,
+    "combined_etag": "8a9a71c7385597af63fcf30238fcd6703f1f109d4ad3b6972e566ba40b99c926",
+    "signed_at": 1789104059,
     "signature": {
       "key_id": "key_aitwire_1788145293",
       "algorithm": "HMAC-SHA256",
-      "detached_signature": "72eea870e4f7d85e1d7667110c0df4f7c60496a4551fc4cb6ee7f07cee9eff69",
-      "signed_at": 1788931261,
+      "detached_signature": "d09d018cf94b39acadcff41f0a7dab9187dabb8d7af4e57ccf3745343e4f283a",
+      "signed_at": 1789104060,
       "valid_from": 1788145293,
       "valid_until": null,
       "required_artifacts": [
