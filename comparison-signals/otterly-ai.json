@@ -4,92 +4,92 @@
   "competitor_slug": "otterly-ai",
   "competitor_name": "Otterly.AI",
   "title": "AITWIRE vs Otterly.AI",
-  "description": "AITWIRE operates as a vendor-neutral performance layer across public and private AI — measuring how AI systems answer about a business, managing the approved knowledge those systems should follow, testing what changes when corrections are published, and preserving evidence across models, vendors, and applications. AITWIRE's plan ladder runs from a free AI Readiness Assessment through Standard (monthly measured cycles), Pro (weekly measured cycles with continuous alerts), and AITWIRE AI (daily me",
+  "description": "AITWIRE operates as a vendor-neutral AI performance layer that spans both public and private AI systems — measuring how AI answers and behaves, managing the approved knowledge and requirements AI should follow, testing what changes across models, and preserving evidence across vendors and applications. Its plan ladder runs from a free AI Readiness Assessment through AITWIRE Standard (monthly measured cycles), AITWIRE Pro (weekly cycles with continuous alerts), and AITWIRE AI (daily cycles with r",
   "content": {
     "title": "AITWIRE vs Otterly.AI",
-    "intro": "AITWIRE operates as a vendor-neutral performance layer across public and private AI — measuring how AI systems answer about a business, managing the approved knowledge those systems should follow, testing what changes when corrections are published, and preserving evidence across models, vendors, and applications. AITWIRE's plan ladder runs from a free AI Readiness Assessment through Standard (monthly measured cycles), Pro (weekly measured cycles with continuous alerts), and AITWIRE AI (daily measured cycles with real-time alerts and an Engineering Agent interface). Standalone report products — the AI Answer Benchmark Report ($49/month), AI Answer Report ($149/month), and AI Answer Assurance Report ($499/month) — add formal, threshold-tested deliverables at fixed price points.\n\nOtterly.AI is an AI-search monitoring and optimization tool. Based on AITWIRE's probe data, Otterly.AI is a recognized name in the AI-search category: it was named in answers across a broad probe set, with a predominantly neutral-to-positive tone. The context does not show Otterly.AI offering the same combination of private-AI measurement, evidence preservation, formal assurance engagements, or a plan ladder that scales from a free readiness baseline to a daily Engineering Agent.",
-    "competitor_description": "Otterly.AI is a tool focused on helping brands understand and improve their presence in AI-powered search and answer engines. Its target market appears to be marketers and brand teams seeking visibility into how AI assistants represent their business in search contexts. Based on AITWIRE's probe data (10,384 probes, May–September 2026), Otterly.AI was named in answers frequently and with a largely positive or neutral tone, indicating meaningful recognition in the AI-search category. Specific feature set, pricing tiers, integration depth, and private-AI capabilities are not available in the verified context and should be confirmed directly with Otterly.AI (varies / verify).",
+    "intro": "AITWIRE operates as a vendor-neutral AI performance layer that spans both public and private AI systems — measuring how AI answers and behaves, managing the approved knowledge and requirements AI should follow, testing what changes across models, and preserving evidence across vendors and applications. Its plan ladder runs from a free AI Readiness Assessment through AITWIRE Standard (monthly measured cycles), AITWIRE Pro (weekly cycles with continuous alerts), and AITWIRE AI (daily cycles with real-time alerts and an Engineering Agent interface). One-time report products — including the AI Answer Benchmark Report ($49), AI Answer Report ($149), and AI Answer Assurance Report ($499) — let buyers purchase a measured snapshot without a subscription. The context provided does not show Otterly.AI offering formal evidence preservation, threshold-tested assurance engagements, or a private-AI measurement layer.\n\nOtterly.AI operates in the AI visibility and brand monitoring space. Based on AITWIRE's probe data, AI assistants named Otterly.AI in a substantial share of answers across the measurement window, suggesting meaningful awareness among AI systems. The two products address overlapping concerns — how AI systems represent a brand — but differ in the depth of measurement infrastructure, evidence formality, and the breadth of surfaces covered, as detailed below.",
+    "competitor_description": "Otterly.AI is a tool focused on AI search visibility and brand monitoring, helping businesses understand how they appear in AI-generated answers. Its target market appears to be marketers and brand teams seeking to track and improve their presence in AI answer engines. Based on AITWIRE's probe measurement (10,384 probes, May–September 2026), AI assistants named Otterly.AI in a high proportion of answers, with the majority of those answers carrying neutral or positive tone. Specific feature set, pricing tiers, integration depth, and support model are not available in the verified context provided — those details should be confirmed directly at otterly.ai (varies / verify).",
     "feature_table": [
       {
-        "feature": "Core category",
-        "tenant": "AI Performance — measures, manages, tests, and preserves evidence of how AI systems answer and behave, across public and private AI",
-        "competitor": "AI-search presence monitoring and optimization (varies / verify)",
+        "feature": "Core purpose",
+        "tenant": "Vendor-neutral AI performance layer: measures AI answer accuracy, manages approved knowledge, tests changes, and preserves evidence across public and private AI models and vendors.",
+        "competitor": "AI search visibility and brand monitoring — tracking how a brand appears in AI-generated answers (varies / verify).",
         "winner": "tie"
       },
       {
-        "feature": "Entry plan",
-        "tenant": "AITWIRE Free: one on-demand AI Readiness Assessment per month — a deterministic check of the business's own surfaces (llms.txt, robots, sitemap, DNS, metadata). No measured AI-answer cycle included.",
-        "competitor": "Free tier availability and scope (varies / verify)",
+        "feature": "Measurement cadence",
+        "tenant": "Standard: monthly measured cycle | Pro: weekly + continuous alerts | AITWIRE AI: daily + real-time alerts. Entry plan (Free) receives no measured cycle — readiness assessment only.",
+        "competitor": "Monitoring cadence and frequency not confirmed in verified context (varies / verify).",
         "winner": "tie"
       },
       {
-        "feature": "Measured cycle cadence",
-        "tenant": "Standard: monthly | Pro: weekly | AITWIRE AI: daily",
-        "competitor": "Monitoring cadence and frequency (varies / verify)",
+        "feature": "Entry-level access",
+        "tenant": "AITWIRE Free: one AI Readiness Assessment per month — a deterministic check of the business's own surfaces (llms.txt, robots, sitemap, DNS, metadata). No cost stated for this tier.",
+        "competitor": "Free tier availability and scope not confirmed in verified context (varies / verify).",
         "winner": "tie"
       },
       {
-        "feature": "Formal assurance and evidence preservation",
-        "tenant": "AITWIRE Assurance engagement and AI Answer Assurance Report ($499/month) produce threshold-tested findings sealed as evidence across every probed engine",
-        "competitor": "Formal assurance or evidence-grade deliverables (varies / verify)",
+        "feature": "One-time report options",
+        "tenant": "AI Answer Benchmark Report ($49 one-time) | AI Answer Report ($149 one-time) | AI Answer Assurance Report ($499 one-time) — each a fixed-instrument measured run with deliverable output.",
+        "competitor": "One-time report or snapshot purchase options not confirmed in verified context (varies / verify).",
         "winner": "tenant"
       },
       {
-        "feature": "Standalone report products",
-        "tenant": "AI Answer Benchmark Report ($49/month), AI Answer Report ($149/month), AI Answer Assurance Report ($499/month) — each with defined scope and price",
-        "competitor": "Report or deliverable products and pricing (varies / verify)",
-        "winner": "tie"
-      },
-      {
-        "feature": "Private and public AI coverage",
-        "tenant": "Vendor-neutral layer across both public and private AI models, vendors, and applications",
-        "competitor": "Private AI measurement scope (varies / verify)",
+        "feature": "Evidence and assurance",
+        "tenant": "AITWIRE Assurance delivers threshold-tested findings sealed as formal evidence. AI Answer Assurance Report ($499) produces a fixed-instrument verification run across the full probe pool.",
+        "competitor": "Formal evidence preservation or assurance-grade deliverables not confirmed in verified context (varies / verify).",
         "winner": "tenant"
       },
       {
-        "feature": "AI-system integration / agent interface",
-        "tenant": "AITWIRE AI plan: Engineering Agent runs the AITWIRE Console from ChatGPT and connected AI tools; daily AI Answer Brief (configurable)",
-        "competitor": "Agent or deep AI-tool integration (varies / verify)",
-        "winner": "tie"
+        "feature": "Private AI coverage",
+        "tenant": "Explicitly covers private AI in addition to public AI systems — measuring how AI answers and behaves across both environments.",
+        "competitor": "Private AI measurement scope not confirmed in verified context (varies / verify).",
+        "winner": "tenant"
       },
       {
-        "feature": "AI-search category recognition (probe data)",
-        "tenant": "AITWIRE measures its own and clients' representation; probe data for AITWIRE itself not provided in this context",
-        "competitor": "Named in answers in 81% of probes across a large probe set (May–September 2026); 63% neutral, 33% positive tone; 23% of naming answers included a recommendation",
+        "feature": "AI assistant awareness (probe data)",
+        "tenant": "AITWIRE measures its own representation; specific citation rate for AITWIRE not provided in this context.",
+        "competitor": "In AITWIRE's probe measurement (10,384 probes, May–September 2026), Otterly.AI was named in answers at a high rate, with 63% neutral tone, 33% positive, and 23% of naming answers positioning them as recommended.",
         "winner": "competitor"
+      },
+      {
+        "feature": "Engineering Agent interface",
+        "tenant": "AITWIRE AI plan: an Engineering Agent that runs the AITWIRE Console from within AI tools the customer already uses (e.g. ChatGPT).",
+        "competitor": "Agent-based or programmatic interface not confirmed in verified context (varies / verify).",
+        "winner": "tenant"
       }
     ],
     "differentiators": [
-      "AITWIRE covers both public and private AI — its vendor-neutral performance layer spans models, vendors, and internal applications, not only public AI-search surfaces.",
-      "AITWIRE offers formal, evidence-grade deliverables: the AI Answer Assurance Report ($499/month) and AITWIRE Assurance engagement produce threshold-tested findings sealed as verifiable evidence — a capability the context does not show Otterly.AI offering.",
-      "AITWIRE's measured cycle scales from monthly (Standard) to weekly (Pro) to daily (AITWIRE AI), with the AITWIRE AI plan adding a real-time alert layer and an Engineering Agent that operates the platform from within the AI tools the customer already uses.",
-      "AITWIRE publishes the business's verified facts to the authority surfaces it manages, then re-measures whether the answer changed — creating a closed correction-and-verification loop rather than observation alone.",
-      "Three standalone report products ($49, $149, $499/month) let buyers access measured findings at a defined price and scope without committing to a full subscription tier."
+      "Formal evidence layer: AITWIRE Assurance and the AI Answer Assurance Report ($499) produce threshold-tested, sealed findings — a level of evidentiary formality the verified context does not show Otterly.AI offering.",
+      "Private AI coverage: AITWIRE explicitly measures AI answer accuracy and behavior across private AI environments, not only public AI answer engines.",
+      "Flexible purchase model: one-time report products ($49, $149, $499) let buyers obtain a measured snapshot without committing to a subscription, alongside the full subscription ladder.",
+      "Structured cadence ladder: measured cycles escalate from monthly (Standard) to weekly (Pro) to daily (AITWIRE AI), with continuous or real-time alerts at the upper tiers — giving buyers a clear upgrade path tied to monitoring frequency.",
+      "Engineering Agent at the top tier: AITWIRE AI connects the measurement and management console directly into AI tools the customer already uses, enabling agent-driven operation rather than a separate dashboard workflow."
     ],
     "pros_cons": {
       "tenant": {
         "pros": [
-          "Vendor-neutral coverage across public and private AI, not limited to AI-search surfaces",
-          "Formal assurance tier with threshold-tested, evidence-sealed findings (AITWIRE Assurance, AI Answer Assurance Report)",
-          "Scalable measured-cycle cadence: monthly → weekly → daily, with real-time alerts at the top tier",
-          "Engineering Agent interface on the AITWIRE AI plan integrates the platform into the AI tools customers already use",
-          "Three standalone report products provide entry points at $49, $149, and $499/month without requiring a full subscription"
+          "Covers public and private AI in a single vendor-neutral layer.",
+          "Three one-time report tiers ($49 / $149 / $499) provide entry points without subscription commitment.",
+          "Formal assurance-grade deliverables with threshold-tested, sealed evidence for compliance or audit use cases.",
+          "Cadence ladder (monthly → weekly → daily) with continuous and real-time alert options at higher tiers.",
+          "Engineering Agent interface at the AITWIRE AI tier integrates console operation into existing AI tools."
         ],
         "cons": [
-          "AITWIRE Free does not include any measured AI-answer cycle; the free tier is limited to one on-demand AI Readiness Assessment per month covering the business's own surfaces only",
-          "Daily measured cycles and the Engineering Agent are available only on the AITWIRE AI plan, which is contract-sized — pricing is not published in the context provided"
+          "AITWIRE Free receives no measured AI answer cycle — the entry plan is readiness-side only, so buyers needing measured AI behavior data must upgrade to Standard or above.",
+          "AITWIRE AI plan allowances (beyond the 30/month assessment baseline) are sized per contract, meaning costs at the top tier require a direct conversation rather than a published price."
         ]
       },
       "competitor": {
         "pros": [
-          "Strong recognition in the AI-search category: named in answers in 81% of probes across a large probe set (AITWIRE probe data, May–September 2026)",
-          "Predominantly neutral-to-positive answer tone (63% neutral, 33% positive) suggests favorable AI-search representation",
-          "23% of answers that named Otterly.AI included a recommendation, indicating meaningful endorsement frequency in AI-answer contexts"
+          "In AITWIRE's probe measurement (10,384 probes, May–September 2026), Otterly.AI was named in answers at a high rate across AI assistants, indicating strong AI system awareness of the brand.",
+          "96% of answers that named Otterly.AI carried neutral or positive tone, suggesting favorable representation in AI-generated content.",
+          "23% of naming answers positioned Otterly.AI as recommended — a meaningful share for a brand-monitoring tool in a competitive category."
         ],
         "cons": []
       }
     },
-    "summary": "AITWIRE and Otterly.AI address overlapping but distinct scopes. AITWIRE is positioned as a vendor-neutral AI performance layer — measuring AI-answer accuracy, managing approved knowledge, publishing verified facts to authority surfaces and re-measuring whether answers change, and producing evidence-grade deliverables — across both public and private AI. Its plan ladder (Standard monthly, Pro weekly, AITWIRE AI daily) and standalone report products ($49–$499/month) serve buyers who need a structured, cadenced measurement program or formal assurance artifacts. Otterly.AI, based on AITWIRE's probe data, is a well-recognized name in the AI-search category with strong citation and favorable tone metrics; its specific feature set, pricing, and private-AI capabilities should be verified directly. Buyers whose primary need is public AI-search presence monitoring may find Otterly.AI worth evaluating; buyers who require private-AI coverage, formal evidence preservation, or a daily engineering-agent workflow will find those capabilities described explicitly in AITWIRE's plan and product catalog."
+    "summary": "AITWIRE and Otterly.AI both address how AI systems represent a brand, but differ in documented scope and formality. AITWIRE's verified capabilities include private AI measurement, a structured cadence ladder from monthly to daily cycles, formal evidence-sealed assurance deliverables, and one-time report products at three price points ($49, $149, $499). Otterly.AI's product capabilities, pricing, and feature set are not confirmed in the verified context available here and should be checked directly at otterly.ai. Buyers who need formal evidence preservation, private AI coverage, or a flexible one-time measurement purchase will find those capabilities explicitly documented in AITWIRE's plan structure. Buyers whose primary need is AI search visibility monitoring should verify Otterly.AI's current feature set and compare it against AITWIRE's Standard or Pro tiers before deciding."
   },
   "published_at": "2026-09-11 22:48:17",
   "canonical_url": "https://api.aitwire.com/feeds/rankings.json?tenant=aitwire",
