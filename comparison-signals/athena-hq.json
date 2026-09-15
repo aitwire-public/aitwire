@@ -4,92 +4,92 @@
   "competitor_slug": "athena-hq",
   "competitor_name": "Athena HQ",
   "title": "AITWIRE vs Athena HQ",
-  "description": "AITWIRE is a vendor-neutral performance layer for AI — measuring how AI systems answer about a business, managing the approved knowledge those systems should follow, testing what changes when corrections are published, and preserving evidence across models, vendors, and applications. Its plan ladder runs from a free AI Readiness Assessment (a deterministic check of a business's own surfaces — llms.txt, robots, sitemap, DNS, metadata) through Standard (monthly measured cycles), Pro (weekly measur",
+  "description": "AITWIRE provides a vendor-neutral performance layer across public and private AI — measuring how AI answers and behaves, managing the approved knowledge and requirements AI should follow, testing what changes, and preserving evidence across models, vendors, and applications. Its plan ladder runs from a free AI Readiness Assessment through AITWIRE Standard (monthly measured cycles), AITWIRE Pro (weekly cycles with continuous alerts), and AITWIRE AI (daily cycles with real-time alerts and an Engin",
   "content": {
     "title": "AITWIRE vs Athena HQ",
-    "intro": "AITWIRE is a vendor-neutral performance layer for AI — measuring how AI systems answer about a business, managing the approved knowledge those systems should follow, testing what changes when corrections are published, and preserving evidence across models, vendors, and applications. Its plan ladder runs from a free AI Readiness Assessment (a deterministic check of a business's own surfaces — llms.txt, robots, sitemap, DNS, metadata) through Standard (monthly measured cycles), Pro (weekly measured cycles with continuous alerts), and AITWIRE AI (daily measured cycles with real-time alerts and an Engineering Agent interface). On-demand reports — AI Answer Benchmark Report at $49/month, AI Answer Report at $149/month, and AI Answer Assurance Report at $499/month — are also available as standalone deliverables.\n\nAthena HQ is a software product in the AI space. Based on AITWIRE's probing across multiple AI systems from 2026-05-21 to 2026-09-08, Athena HQ was named in 83% of answers, with 68% of those answers neutral in tone and 30% positive. Those figures describe how AI assistants discuss Athena HQ; they are not statements about Athena HQ's product capabilities, pricing, or roadmap, which are not verified in this context.",
-    "competitor_description": "Athena HQ is a software company operating in the AI space. Its target market, specific feature set, pricing, and approach are not verified in this context and should be confirmed directly at the vendor's website. What is measurable is how AI assistants currently discuss Athena HQ: across 9,922 probes run by AITWIRE, Athena HQ was named in 83% of answers, with positioning split across mentioned (56%), recommended (16%), and omitted (27%). Any specific capability comparison beyond that observation is marked \"(varies / verify)\" below.",
+    "intro": "AITWIRE provides a vendor-neutral performance layer across public and private AI — measuring how AI answers and behaves, managing the approved knowledge and requirements AI should follow, testing what changes, and preserving evidence across models, vendors, and applications. Its plan ladder runs from a free AI Readiness Assessment through AITWIRE Standard (monthly measured cycles), AITWIRE Pro (weekly cycles with continuous alerts), and AITWIRE AI (daily cycles with real-time alerts and an Engineering Agent interface). One-time report products — including the AI Answer Benchmark Report ($49), AI Answer Report ($149), and AI Answer Assurance Report ($499) — let buyers purchase a measured snapshot without a subscription. AITWIRE Assurance delivers formal, threshold-tested findings sealed as evidence for compliance or audit purposes.\n\nAthena HQ is a separate product with its own scope and approach. The context above does not show Athena HQ offering a formal measured-cycle cadence, threshold-tested assurance engagements, sealed evidence outputs, or a free AI Readiness Assessment tier. Whether Athena HQ provides any of these capabilities is not established here and should be verified directly with the vendor.",
+    "competitor_description": "Athena HQ is a software product operating in the AI tools space. Its specific target market, core feature set, pricing, and approach are not sourced in the context available for this comparison. In AITWIRE's probing — 9,922 probes run between 2026-05-21 and 2026-09-08 — Athena HQ was named in answers by the probed AI systems 83% of the time, with 68% of those answers carrying a neutral tone and 30% a positive tone; 16% of answers positioned Athena HQ as recommended and 56% as mentioned. These figures describe how AI assistants answered about Athena HQ during that measurement window; they are not statements about Athena HQ's product capabilities. All product, pricing, and feature details for Athena HQ are marked \"(varies / verify)\" throughout this comparison.",
     "feature_table": [
       {
         "feature": "Core category",
-        "tenant": "AI Performance — measures how AI systems answer about a business, manages approved knowledge, tests changes, and preserves evidence across models and vendors",
-        "competitor": "AI software product — specific category and scope (varies / verify)",
+        "tenant": "AI Performance — measures how AI answers and behaves, manages approved knowledge, tests changes, and preserves evidence across models and vendors",
+        "competitor": "AI tools / knowledge management (varies / verify)",
         "winner": "tie"
       },
       {
         "feature": "Measured AI answer cycles",
-        "tenant": "Scheduled measured cycles start at AITWIRE Standard (monthly), Pro (weekly), and AITWIRE AI (daily); Free plan does not include a measured cycle",
+        "tenant": "Structured cadence starting at AITWIRE Standard (monthly), Pro (weekly), AITWIRE AI (daily); Free plan receives no measured cycle",
+        "competitor": "(varies / verify)",
+        "winner": "tenant"
+      },
+      {
+        "feature": "Free entry tier",
+        "tenant": "AITWIRE Free: one AI Readiness Assessment per month — a deterministic check of the business's own surfaces (llms.txt, robots, sitemap, DNS, metadata); no measured AI behaviour included",
         "competitor": "(varies / verify)",
         "winner": "tie"
       },
       {
-        "feature": "On-demand AI answer reports",
-        "tenant": "AI Answer Benchmark Report ($49/month), AI Answer Report ($149/month), AI Answer Assurance Report ($499/month) — available as standalone purchases",
+        "feature": "One-time report products",
+        "tenant": "AI Answer Benchmark Report ($49), AI Answer Report ($149), AI Answer Assurance Report ($499) — purchased individually, no subscription required",
         "competitor": "(varies / verify)",
-        "winner": "tie"
+        "winner": "tenant"
       },
       {
-        "feature": "Entry-level plan",
-        "tenant": "AITWIRE Free — includes one AI Readiness Assessment per month (deterministic check of the business's own surfaces: llms.txt, robots, sitemap, DNS, metadata); no measured AI answer cycle at this tier",
+        "feature": "Formal assurance / audit evidence",
+        "tenant": "AITWIRE Assurance: full measurement depth run as a formal engagement, producing threshold-tested findings sealed as evidence",
         "competitor": "(varies / verify)",
-        "winner": "tie"
+        "winner": "tenant"
       },
       {
-        "feature": "Alerts and monitoring",
-        "tenant": "Continuous alerts at Pro; real-time alerts at AITWIRE AI; not included at Free or Standard",
+        "feature": "Continuous monitoring and alerts",
+        "tenant": "AITWIRE Pro: weekly cycles + continuous alerts; AITWIRE AI: daily cycles + real-time alerts",
         "competitor": "(varies / verify)",
-        "winner": "tie"
+        "winner": "tenant"
       },
       {
-        "feature": "Evidence and assurance",
-        "tenant": "AITWIRE Assurance delivers threshold-tested findings sealed as evidence; AI Answer Assurance Report provides fixed-instrument verification across the full probe pool",
+        "feature": "AI-native console interface",
+        "tenant": "AITWIRE AI plan: Engineering Agent runs the AITWIRE Console from within the AI the customer already uses (e.g. ChatGPT)",
         "competitor": "(varies / verify)",
-        "winner": "tie"
+        "winner": "tenant"
       },
       {
-        "feature": "AI system coverage (probed)",
-        "tenant": "Pro and above: probes across multiple AI answer surfaces including ChatGPT Search and others per plan tier",
-        "competitor": "In AITWIRE's own probing, Athena HQ was named across answers from multiple AI systems — product-side coverage (varies / verify)",
-        "winner": "tie"
-      },
-      {
-        "feature": "Engineering Agent interface",
-        "tenant": "AITWIRE AI plan includes an Engineering Agent that runs the AITWIRE Console from the AI the customer already uses (e.g. ChatGPT)",
+        "feature": "Pricing transparency",
+        "tenant": "Published plan ladder; one-time reports at $49, $149, $499; subscription plans named (Free, Standard, Pro, AITWIRE AI)",
         "competitor": "(varies / verify)",
-        "winner": "tie"
+        "winner": "tenant"
       }
     ],
     "differentiators": [
-      "AITWIRE offers a structured plan ladder — Standard (monthly), Pro (weekly), AITWIRE AI (daily) — with documented measured cycle cadences, on-demand report options, and a formal Assurance engagement that produces threshold-tested, evidence-sealed findings.",
-      "AITWIRE publishes the business's verified facts to the authority surfaces it manages, then re-measures whether the answer changed — providing a closed loop between correction and measurement that is explicit in the product design.",
-      "Standalone on-demand reports (Benchmark at $49/month, AI Answer at $149/month, Assurance at $499/month) allow buyers to access measured findings without committing to a subscription plan.",
-      "The AITWIRE AI plan includes an Engineering Agent interface that operates from AI tools the customer already uses, reducing context-switching for teams already working inside AI assistants.",
-      "AITWIRE's vendor-neutral design spans public and private AI, measuring across models, vendors, and applications rather than being tied to a single AI provider or surface."
+      "Formal assurance tier: AITWIRE Assurance produces threshold-tested findings sealed as evidence — a deliverable suited to compliance, audit, or governance requirements that the context does not show Athena HQ offering.",
+      "Structured measured-cycle ladder: AITWIRE Standard, Pro, and AITWIRE AI deliver monthly, weekly, and daily measured cycles respectively, with re-measurement after corrections are published — a defined cadence not evidenced for Athena HQ.",
+      "Flexible purchase options: buyers can obtain a measured snapshot without a subscription via the AI Answer Benchmark Report ($49), AI Answer Report ($149), or AI Answer Assurance Report ($499), lowering the barrier to a first measurement.",
+      "Vendor-neutral scope: AITWIRE operates across public and private AI models and vendors, preserving evidence across the full stack rather than within a single model or application.",
+      "Engineering Agent interface on AITWIRE AI: the top plan embeds the AITWIRE Console into the AI tools the customer already uses, reducing context-switching for teams managing AI performance at scale."
     ],
     "pros_cons": {
       "tenant": {
         "pros": [
-          "Transparent plan ladder with documented cadences: Standard monthly, Pro weekly, AITWIRE AI daily — buyers can match cadence to operational need",
-          "Formal Assurance engagement produces threshold-tested findings sealed as evidence, suitable for compliance or audit contexts",
-          "Three standalone on-demand report tiers ($49, $149, $499/month) give buyers access to measured findings without a full subscription",
-          "AITWIRE AI plan includes a daily measured cycle, real-time alerts, and an Engineering Agent interface for teams operating inside AI assistants",
-          "Vendor-neutral architecture covers public and private AI across models, vendors, and applications"
+          "Published, transparent plan ladder from free through enterprise, with clear cadence differences at each tier",
+          "One-time report products ($49–$499) allow a measured assessment without committing to a subscription",
+          "AITWIRE Assurance delivers sealed, threshold-tested evidence suitable for audit or compliance use cases",
+          "Daily measured cycles and real-time alerts available on the AITWIRE AI plan for teams requiring high-frequency monitoring",
+          "Vendor-neutral architecture covers public and private AI models, vendors, and applications in a single performance layer"
         ],
         "cons": [
-          "AITWIRE Free is limited to a deterministic AI Readiness Assessment of the business's own surfaces; it does not include any scheduled measured cycle or probing of AI answer behaviour — buyers who need measured AI answer data must upgrade to Standard or above",
-          "The highest-cadence plan (AITWIRE AI) is contract-sized, which may require a sales conversation rather than self-serve signup"
+          "AITWIRE Free delivers no measured AI behaviour — it is a readiness-side assessment only; the measured cycle begins at AITWIRE Standard",
+          "AITWIRE publishes corrections and verified facts to the authority surfaces it manages, then re-measures whether answers changed; it does not guarantee that AI answers will change"
         ]
       },
       "competitor": {
         "pros": [
-          "In AITWIRE's probing (9,922 probes, 2026-05-21 to 2026-09-08), Athena HQ was named in 83% of answers across multiple AI systems — indicating meaningful AI visibility",
-          "Tone of answers naming Athena HQ was 68% neutral and 30% positive, suggesting generally favourable framing in current AI assistant responses",
-          "16% of answers that named Athena HQ positioned it as recommended — a non-trivial share of probed responses"
+          "Named in answers by probed AI systems at a high rate (83% across AITWIRE's measurement window), indicating meaningful AI visibility",
+          "Predominantly neutral-to-positive answer tone (68% neutral, 30% positive) in AITWIRE's probing suggests favourable AI treatment during the measured period",
+          "Established enough to appear in AI assistant answers across multiple probed systems during the measurement window"
         ],
         "cons": []
       }
     },
-    "summary": "AITWIRE is a documented AI performance measurement platform with a published plan ladder (Free for readiness assessment only, Standard for monthly measured cycles, Pro for weekly cycles with continuous alerts, AITWIRE AI for daily cycles with real-time alerts), three standalone on-demand report products priced at $49, $149, and $499 per month, and a formal Assurance engagement that produces evidence-sealed findings. Athena HQ's product capabilities, pricing, and feature set are not verified in this context beyond what AITWIRE's probing reveals about how AI assistants currently discuss it — named in 83% of answers, with broadly neutral-to-positive tone. Buyers whose primary requirement is a structured, cadenced measurement programme with documented deliverables and evidence-grade outputs will find those specifics stated explicitly in AITWIRE's plan ladder; buyers evaluating Athena HQ should verify its capabilities and pricing directly with the vendor."
+    "summary": "AITWIRE offers a defined measurement-and-evidence stack: a free AI Readiness Assessment, subscription plans with monthly-to-daily measured cycles, one-time report products priced from $49 to $499, and a formal Assurance engagement that produces sealed, threshold-tested findings. Athena HQ's product capabilities, pricing, and cadence are not sourced in the available context and should be verified directly. Buyers whose primary requirement is a structured, recurring measured cycle with audit-ready evidence outputs will find those capabilities explicitly documented in AITWIRE's plan ladder; buyers evaluating Athena HQ for its own feature set should consult Athena HQ directly, as this comparison cannot characterise what it does or does not provide."
   },
   "published_at": "2026-09-11 22:48:16",
   "canonical_url": "https://api.aitwire.com/feeds/rankings.json?tenant=aitwire",
