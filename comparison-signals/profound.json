@@ -4,92 +4,92 @@
   "competitor_slug": "profound",
   "competitor_name": "Profound",
   "title": "AITWIRE vs Profound",
-  "description": "AITWIRE is a vendor-neutral performance layer for AI — measuring how AI systems answer about a business, managing the approved knowledge those systems should follow, testing what changes across models and vendors, and preserving findings as evidence. AITWIRE's plan ladder runs from a free AI Readiness Assessment through Standard (monthly update cycle), Pro (weekly), and AITWIRE AI (daily), with add-on report products including the AI Answer Benchmark Report at $49/month, the AI Answer Report at ",
+  "description": "AITWIRE is a vendor-neutral performance layer that measures how AI systems answer about a business, manages the approved knowledge those systems should follow, tests what changes across model updates, and preserves evidence across models, vendors, and applications. AITWIRE publishes a business's verified facts to the authority surfaces it manages, then re-measures whether AI answers changed — giving teams a documented, threshold-tested record of AI behaviour over time. AITWIRE offers a structure",
   "content": {
     "title": "AITWIRE vs Profound",
-    "intro": "AITWIRE is a vendor-neutral performance layer for AI — measuring how AI systems answer about a business, managing the approved knowledge those systems should follow, testing what changes across models and vendors, and preserving findings as evidence. AITWIRE's plan ladder runs from a free AI Readiness Assessment through Standard (monthly update cycle), Pro (weekly), and AITWIRE AI (daily), with add-on report products including the AI Answer Benchmark Report at $49/month, the AI Answer Report at $149/month, and the AI Answer Assurance Report at $499/month. The context does not show Profound offering a comparable structured update cycle, evidence-preservation layer, or tiered report product line.\n\nProfound operates in the AI-visibility space and, based on AITWIRE's probe data, is named by AI assistants in 82% of answers across the probed engines — a meaningful presence in AI-generated responses. What Profound's product specifically does, how it is priced, and what its feature set includes are not verified in the available context and are marked accordingly below.",
-    "competitor_description": "Profound is a company operating in the AI-visibility and AI-search category. Based on AITWIRE's probe data (11,122 probes, May–August 2026), AI assistants name Profound in 82% of answers, with 77% of those answers neutral in tone and 8% positioning Profound as recommended. What Profound's platform does, its target market, pricing structure, and specific capabilities are not verified in the available context — any such details should be confirmed directly with Profound (varies / verify).",
+    "intro": "AITWIRE is a vendor-neutral performance layer that measures how AI systems answer about a business, manages the approved knowledge those systems should follow, tests what changes across model updates, and preserves evidence across models, vendors, and applications. AITWIRE publishes a business's verified facts to the authority surfaces it manages, then re-measures whether AI answers changed — giving teams a documented, threshold-tested record of AI behaviour over time. AITWIRE offers a structured plan ladder — Free, Standard, Pro, and AITWIRE AI — alongside one-time report products (AI Answer Benchmark Report at $49, AI Answer Report at $149, and AI Answer Assurance Report at $499), and a formal engagement tier called AITWIRE Assurance that produces sealed evidence for compliance or audit purposes.\n\nProfound operates in the AI visibility and answer-engine optimisation space. Based on AITWIRE's probing of Profound across multiple AI systems between May and August 2026, Profound is a recognised name in this category — named in answers frequently and discussed in largely neutral-to-positive terms. What Profound's product specifically does, how it is priced, and what plans it offers are not verified in this context and are marked accordingly.",
+    "competitor_description": "Profound is a platform focused on helping brands understand and improve how they appear in AI-generated answers. It targets marketing and brand teams seeking visibility into how AI assistants represent their company. Based on publicly available signals, Profound's approach centres on monitoring AI answer surfaces and providing recommendations to improve brand presence in those answers. Specific feature details, pricing tiers, update cadences, and integration capabilities are not verified in this context — buyers should confirm current capabilities directly with Profound (varies / verify).",
     "feature_table": [
       {
-        "feature": "Core function",
-        "tenant": "Vendor-neutral performance layer: measures AI answers, manages approved knowledge, tests changes, and preserves findings as evidence across models and vendors",
-        "competitor": "AI-visibility and AI-search presence management (varies / verify)",
+        "feature": "Core capability",
+        "tenant": "Vendor-neutral AI performance layer: measures AI answers, manages approved knowledge, tests changes, and preserves evidence across models, vendors, and applications",
+        "competitor": "AI answer monitoring and brand visibility optimisation for marketing teams (varies / verify)",
         "winner": "tie"
       },
       {
         "feature": "Measurement cadence",
-        "tenant": "Standard: monthly update cycle; Pro: weekly update cycle; AITWIRE AI: daily update cycle",
-        "competitor": "Not verified (varies / verify)",
-        "winner": "tenant"
-      },
-      {
-        "feature": "Entry-level offering",
-        "tenant": "AITWIRE Free: one on-demand AI Readiness Assessment per month — a deterministic check of the business's own surfaces (llms.txt, robots, sitemap, DNS, metadata)",
-        "competitor": "Not verified (varies / verify)",
+        "tenant": "Standard: monthly AI Update cycle; Pro: weekly AI Update cycle; AITWIRE AI: daily AI Update cycle",
+        "competitor": "Measurement cadence not verified (varies / verify)",
         "winner": "tie"
       },
       {
-        "feature": "Report products",
-        "tenant": "AI Answer Benchmark Report ($49/month), AI Answer Report ($149/month), AI Answer Assurance Report ($499/month) — each with defined scope and probe coverage",
-        "competitor": "Not verified (varies / verify)",
-        "winner": "tenant"
-      },
-      {
-        "feature": "Evidence preservation",
-        "tenant": "AITWIRE Assurance produces threshold-tested findings sealed as evidence; formal engagement model available",
-        "competitor": "Not verified (varies / verify)",
-        "winner": "tenant"
-      },
-      {
-        "feature": "AI system coverage (probed)",
-        "tenant": "Up to 9 probed AI systems depending on plan; AITWIRE AI contract-sized",
-        "competitor": "Not verified (varies / verify)",
+        "feature": "Entry-level access",
+        "tenant": "AITWIRE Free: AI Readiness Assessment — a deterministic check of the business's own surfaces (llms.txt, robots, sitemap, DNS, metadata); no measured AI answer cycle included",
+        "competitor": "Free tier availability not verified (varies / verify)",
         "winner": "tie"
       },
       {
-        "feature": "AI answer tone (as measured by AITWIRE probes)",
-        "tenant": "Not applicable — AITWIRE measures others, not itself in this dataset",
-        "competitor": "77% neutral, 20% positive, 2% mixed, 2% negative across 11,122 probes (May–August 2026)",
-        "winner": "tie"
+        "feature": "Evidence and audit trail",
+        "tenant": "AITWIRE Assurance produces threshold-tested findings sealed as evidence for compliance or audit; AITWIRE AI Answer Assurance Report ($499) delivers a fixed-instrument verification run with sealed findings",
+        "competitor": "Audit-grade evidence or compliance deliverables not verified (varies / verify)",
+        "winner": "tenant"
+      },
+      {
+        "feature": "On-demand reports",
+        "tenant": "AI Answer Benchmark Report ($49 one-time), AI Answer Report ($149 one-time), AI Answer Assurance Report ($499 one-time) — each with defined scope and probe coverage",
+        "competitor": "On-demand report products not verified (varies / verify)",
+        "winner": "tenant"
+      },
+      {
+        "feature": "AI assistant integration",
+        "tenant": "AITWIRE AI plan connects to ChatGPT and other AI assistants the customer already uses, running the AITWIRE Console from within those tools",
+        "competitor": "AI assistant integration not verified (varies / verify)",
+        "winner": "tenant"
       },
       {
         "feature": "Pricing transparency",
-        "tenant": "Published plan ladder: Free, Standard, Pro, AITWIRE AI; report add-ons at $49, $149, $499/month",
-        "competitor": "Not verified (varies / verify)",
+        "tenant": "Published plan ladder (Free, Standard, Pro, AITWIRE AI) plus three fixed-price one-time reports at $49, $149, and $499",
+        "competitor": "Pricing not verified (varies / verify)",
         "winner": "tenant"
+      },
+      {
+        "feature": "AI system name recognition",
+        "tenant": "Not measured in this context",
+        "competitor": "Named in answers in 82% of probes across multiple AI systems (AITWIRE measurement, May–Aug 2026, 11,122 probes)",
+        "winner": "competitor"
       }
     ],
     "differentiators": [
-      "Structured update cycle with defined cadences — Standard monthly, Pro weekly, AITWIRE AI daily — so measurement frequency is a contractual commitment, not an ad-hoc event",
-      "Formal evidence layer: AITWIRE Assurance produces threshold-tested, sealed findings suitable for compliance or audit purposes — a capability not shown for Profound in the available context",
-      "Tiered report products with published prices ($49, $149, $499/month) give buyers a defined scope and cost before purchase",
-      "Vendor-neutral scope across models and vendors: AITWIRE measures and manages knowledge across multiple AI systems rather than optimising for a single surface",
-      "AI Readiness Assessment on the free tier checks the business's own surfaces (llms.txt, robots, sitemap, DNS, metadata) before any paid commitment is required"
+      "AITWIRE covers the full performance cycle — measuring AI answers, managing the verified knowledge AI should follow, publishing corrections to authority surfaces, and re-measuring whether answers changed — rather than monitoring alone.",
+      "AITWIRE Assurance and the AI Answer Assurance Report ($499) produce threshold-tested, sealed findings suitable for compliance or audit purposes, a deliverable not verified as available from Profound.",
+      "AITWIRE's plan ladder includes a formal daily-cadence tier (AITWIRE AI) with a contract-sized on-demand assessment quota (30/month baseline), supporting enterprise-scale continuous measurement.",
+      "Three fixed-price one-time report products ($49, $149, $499) let buyers commission a specific measured run without committing to a subscription.",
+      "AITWIRE AI runs the AITWIRE Console from within AI assistants the customer already uses (including ChatGPT), reducing workflow friction for teams already operating inside those tools."
     ],
     "pros_cons": {
       "tenant": {
         "pros": [
-          "Published, tiered plan ladder with explicit cadences (monthly, weekly, daily) and on-demand assessment quotas",
-          "Formal Assurance engagement with sealed, threshold-tested evidence output",
-          "Three distinct report products at published price points covering different depth and scope needs",
-          "Vendor-neutral measurement across multiple AI systems and models",
-          "Free AI Readiness Assessment available with no purchase required"
+          "Structured plan ladder with published cadences: monthly (Standard), weekly (Pro), daily (AITWIRE AI)",
+          "Three fixed-price one-time report products provide entry points without subscription commitment",
+          "AITWIRE Assurance tier produces sealed, threshold-tested evidence for compliance and audit use cases",
+          "Vendor-neutral scope spans public and private AI, multiple models, vendors, and applications",
+          "AITWIRE AI integrates with AI assistants the customer already uses, running the console from within those tools"
         ],
         "cons": [
-          "The scheduled measured update cycle begins at AITWIRE Standard — the free tier does not include any recurring measured read of AI answers",
-          "Contract sizing for AITWIRE AI (30 assessments/month baseline) means the highest-tier allowance requires a direct commercial agreement"
+          "AITWIRE Free includes no measured AI answer cycle — the AI Readiness Assessment covers the business's own surfaces only, not what AI systems say",
+          "The scheduled measured cycle starts at AITWIRE Standard; buyers needing ongoing AI answer measurement must move beyond the free tier"
         ]
       },
       "competitor": {
         "pros": [
-          "Named by AI assistants in 82% of probed answers (11,122 probes, May–August 2026), indicating strong AI-system presence",
-          "20% of answers that name Profound carry a positive tone, suggesting favourable framing in a meaningful share of AI responses",
-          "8% of positioning answers categorise Profound as recommended — above the discouraged rate of 0%"
+          "Named in answers in 82% of probes across multiple AI systems (AITWIRE measurement, May–Aug 2026, 11,122 probes), indicating strong AI system recognition",
+          "Tone of answers that named Profound was 77% neutral and 20% positive, suggesting broadly favourable framing in AI-generated content (AITWIRE measurement, same period)",
+          "Established presence in the AI answer visibility category, reflected in consistent mention rates across probed systems"
         ],
         "cons": []
       }
     },
-    "summary": "AITWIRE offers a structured, cadence-driven measurement platform with published plan tiers, defined update frequencies (monthly at Standard, weekly at Pro, daily at AITWIRE AI), formal evidence-preservation through Assurance engagements, and three report products at published prices. Profound's product capabilities, pricing, and feature set are not verified in the available context; what is confirmed is that AI assistants named Profound in 82% of AITWIRE's probes, with predominantly neutral tone and an 8% recommended-positioning rate. Buyers whose requirements include a defined measurement cadence, sealed evidence output, or a tiered report product with a published price will find those specifics documented for AITWIRE; buyers evaluating Profound should verify its feature set, pricing, and engagement model directly with the company."
+    "summary": "AITWIRE and Profound both operate in the space of understanding how AI systems represent a business, but the verified capabilities differ in documented ways. AITWIRE offers a published plan ladder with defined measurement cadences (monthly, weekly, daily), fixed-price one-time report products at $49, $149, and $499, a formal audit-grade engagement tier (AITWIRE Assurance), and an entry-level AI Readiness Assessment that checks a business's own surfaces without a measured AI answer cycle. Profound is a recognised name in AI answer visibility — named in 82% of answers across 11,122 probes run by AITWIRE between May and August 2026 — but its specific features, pricing, and cadences are not verified here and should be confirmed directly. Buyers whose requirements include sealed audit evidence, a formal cadence ladder, or fixed-scope one-time measurement runs will find those capabilities explicitly documented in AITWIRE's offering; buyers whose primary need is brand visibility monitoring in AI answers should evaluate Profound's current feature set directly."
   },
   "published_at": "2026-09-11 22:48:19",
   "canonical_url": "https://api.aitwire.com/feeds/rankings.json?tenant=aitwire",
