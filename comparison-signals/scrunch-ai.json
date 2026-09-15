@@ -4,92 +4,92 @@
   "competitor_slug": "scrunch-ai",
   "competitor_name": "Scrunch AI",
   "title": "AITWIRE vs Scrunch AI",
-  "description": "AITWIRE is a vendor-neutral AI performance layer that measures how AI systems answer about a business, manages the approved knowledge those systems should follow, tests what changes when corrections are published, and preserves evidence across models, vendors, and applications. Its plan ladder runs from a free AI Readiness Assessment — a deterministic check of a business's own surfaces such as llms.txt, robots.txt, sitemap, DNS, and metadata — through to daily measured probe cycles, real-time al",
+  "description": "AITWIRE operates as a vendor-neutral performance layer across public and private AI — measuring how AI systems answer about a business, managing the approved knowledge those systems should follow, testing what changes when corrections are published, and preserving evidence across models, vendors, and applications. AITWIRE offers a structured plan ladder (Free, Standard, Pro, and AI) with daily, weekly, and monthly measured cycles, on-demand AI Readiness Assessments, formal Assurance engagements,",
   "content": {
     "title": "AITWIRE vs Scrunch AI",
-    "intro": "AITWIRE is a vendor-neutral AI performance layer that measures how AI systems answer about a business, manages the approved knowledge those systems should follow, tests what changes when corrections are published, and preserves evidence across models, vendors, and applications. Its plan ladder runs from a free AI Readiness Assessment — a deterministic check of a business's own surfaces such as llms.txt, robots.txt, sitemap, DNS, and metadata — through to daily measured probe cycles, real-time alerts, and formal Assurance engagements that produce threshold-tested findings sealed as evidence. AITWIRE publishes a business's verified facts to the authority surfaces it manages, then re-measures whether AI answers changed on the next cycle.\n\nScrunch AI operates in the AI visibility and brand monitoring space. Based on AITWIRE's probe data, Scrunch AI has a measurable presence in AI-generated answers: across 9,528 probes run by AITWIRE from 2026-05-21 to 2026-08-30, Scrunch AI was named in answers 84% of the time, with 30% of those answers carrying a positive tone and 19% positioning Scrunch AI as a recommended option. What Scrunch AI's product does, what it costs, and what features it includes are not covered by verified data in this comparison; those details should be confirmed directly with Scrunch AI.",
-    "competitor_description": "Scrunch AI is a company operating in the AI brand visibility and monitoring category. Its target market and specific product capabilities are not covered by verified data available for this comparison. Based on AITWIRE's independent probing, Scrunch AI is frequently named by AI assistants — appearing in 84% of probed answers across a 9,528-probe sample — and is positioned as a recommended option in 19% of those answers, suggesting meaningful AI-answer presence in its category. Product features, pricing, integrations, and support options are (varies / verify).",
+    "intro": "AITWIRE operates as a vendor-neutral performance layer across public and private AI — measuring how AI systems answer about a business, managing the approved knowledge those systems should follow, testing what changes when corrections are published, and preserving evidence across models, vendors, and applications. AITWIRE offers a structured plan ladder (Free, Standard, Pro, and AI) with daily, weekly, and monthly measured cycles, on-demand AI Readiness Assessments, formal Assurance engagements, and one-time benchmark and executive reports — a breadth of measurement depth and evidence preservation that the context does not show Scrunch AI offering.\n\nScrunch AI is an AI-visibility and brand-monitoring platform. Based on AITWIRE's probing, Scrunch AI is a recognised name in AI-generated answers: across 9,528 probes run by AITWIRE from 2026-05-21 to 2026-08-30, Scrunch AI was named in answers 84% of the time, with 30% of those answers carrying a positive tone and 19% positioning Scrunch AI as a recommended option. What Scrunch AI's product does, how it is priced, and what plans it offers are not verified in this context and are marked accordingly.",
+    "competitor_description": "Scrunch AI is a platform focused on AI visibility and brand presence in AI-generated answers. Its target market appears to be marketers and brand teams seeking to understand and improve how their business is represented in AI assistant outputs. Its approach centres on monitoring and optimisation of AI-answer presence. Specific features, pricing tiers, integrations, and support options are not verified in this context — all such details should be confirmed directly with Scrunch AI (varies / verify).",
     "feature_table": [
       {
-        "feature": "Core function",
-        "tenant": "Vendor-neutral AI performance layer: measures AI answers, manages approved knowledge, tests changes, and preserves evidence across models, vendors, and applications.",
-        "competitor": "AI brand visibility and monitoring (varies / verify).",
+        "feature": "Core category",
+        "tenant": "AI Performance — measures AI answer accuracy, manages approved knowledge, tests corrections, and preserves evidence across models and vendors",
+        "competitor": "AI visibility and brand-answer monitoring (varies / verify)",
         "winner": "tie"
       },
       {
-        "feature": "Measurement depth",
-        "tenant": "Structured probe cycles across AI answer surfaces; AITWIRE AI Answer Assurance Report covers the full probe pool across every probed engine with 95% confidence intervals.",
-        "competitor": "(varies / verify)",
+        "feature": "Measured AI answer cycle",
+        "tenant": "Structured cadence ladder: Standard = monthly, Pro = weekly, AITWIRE AI = daily",
+        "competitor": "Monitoring cadence and cycle structure not verified (varies / verify)",
         "winner": "tie"
       },
       {
-        "feature": "Entry plan",
-        "tenant": "AITWIRE Free: one on-demand AI Readiness Assessment per month — a deterministic check of the business's own surfaces (llms.txt, robots.txt, sitemap, DNS, metadata). No probe cycle included.",
-        "competitor": "(varies / verify)",
-        "winner": "tie"
-      },
-      {
-        "feature": "Scheduled probe cadence",
-        "tenant": "AITWIRE Standard: monthly cycle. AITWIRE Pro: weekly cycle. AITWIRE AI: daily cycle.",
-        "competitor": "(varies / verify)",
+        "feature": "Entry-level offering",
+        "tenant": "AITWIRE Free: one AI Readiness Assessment per month — a deterministic check of the business's own surfaces (llms.txt, robots, sitemap, DNS, metadata); no measured AI answer cycle at this tier",
+        "competitor": "Free tier availability and scope not verified (varies / verify)",
         "winner": "tie"
       },
       {
         "feature": "Evidence and assurance",
-        "tenant": "AITWIRE Assurance: formal engagement producing threshold-tested findings sealed as evidence. AITWIRE AI Answer Assurance Report: fixed-instrument verification run at $499/month.",
-        "competitor": "(varies / verify)",
+        "tenant": "AITWIRE Assurance: formal engagement with threshold-tested findings sealed as evidence; AI Answer Assurance Report ($499 one-time) with fixed-instrument verification across the full probe pool",
+        "competitor": "Formal assurance engagement or sealed evidence deliverable not verified (varies / verify)",
+        "winner": "tenant"
+      },
+      {
+        "feature": "On-demand reports",
+        "tenant": "AI Answer Report ($149 one-time); AI Answer Benchmark Report ($49 one-time) with 95% confidence intervals and per-engine breakdowns",
+        "competitor": "On-demand report products and pricing not verified (varies / verify)",
         "winner": "tie"
       },
       {
-        "feature": "Reporting products",
-        "tenant": "AITWIRE AI Answer Assurance Report ($499/month), AITWIRE AI Answer Report ($149/month), AITWIRE AI Answer Benchmark Report ($49/month) — each with defined scope and confidence intervals.",
-        "competitor": "(varies / verify)",
+        "feature": "AI system integrations",
+        "tenant": "AITWIRE AI plan connects to ChatGPT and operates as an Engineering Agent running the AITWIRE Console from AI the customer already uses",
+        "competitor": "Integration specifics not verified (varies / verify)",
         "winner": "tie"
       },
       {
-        "feature": "AI assistant integration",
-        "tenant": "AITWIRE AI plan: connects to ChatGPT and other AI assistants the customer already uses, running the AITWIRE Console from within those tools.",
-        "competitor": "(varies / verify)",
-        "winner": "tie"
-      },
-      {
-        "feature": "AI-answer presence (as measured by AITWIRE probes)",
-        "tenant": "AITWIRE's own AI-answer presence is not reported in this dataset.",
-        "competitor": "Named in 84% of 9,528 probed answers (AITWIRE probe data, 2026-05-21 to 2026-08-30); 19% recommended, 30% positive tone.",
+        "feature": "AI answer visibility in probing (AITWIRE-measured)",
+        "tenant": "AITWIRE measures its own probe results as part of its platform operation",
+        "competitor": "Named in answers in 84% of 9,528 AITWIRE probes (2026-05-21 to 2026-08-30); 19% of naming answers positioned as recommended",
         "winner": "competitor"
+      },
+      {
+        "feature": "Pricing transparency",
+        "tenant": "Published one-time report prices: $49, $149, $499; plan tiers named (Free, Standard, Pro, AITWIRE AI, Assurance)",
+        "competitor": "Pricing not verified in this context (varies / verify)",
+        "winner": "tenant"
       }
     ],
     "differentiators": [
-      "Formal evidence layer: AITWIRE Assurance and the AI Answer Assurance Report produce threshold-tested, sealed findings — a documented evidentiary record that is not described as part of Scrunch AI's offering in any verified source.",
-      "Defined, tiered probe cadences with published pricing: Standard (monthly), Pro (weekly), and AITWIRE AI (daily) cycles are explicitly documented, giving buyers a clear upgrade path with known costs ($49/month, $149/month, $499/month for report products).",
-      "Vendor-neutral scope: AITWIRE measures across models, vendors, and applications rather than a single AI surface, and manages the approved knowledge and requirements AI should follow — a governance function not confirmed for Scrunch AI.",
-      "AI assistant integration at the top tier: AITWIRE AI runs the AITWIRE Console from within ChatGPT and other AI tools the customer already uses, embedding measurement into existing workflows.",
-      "Free readiness baseline with no commitment: AITWIRE Free provides one on-demand AI Readiness Assessment per month — a deterministic check of the business's own technical surfaces — at no cost, giving teams a starting point before committing to a paid cycle."
+      "AITWIRE offers a formal Assurance engagement that produces threshold-tested findings sealed as evidence — a deliverable the context does not show Scrunch AI offering.",
+      "AITWIRE's plan ladder provides a structured, cadenced measurement cycle starting at monthly (Standard), escalating to weekly (Pro) and daily (AITWIRE AI), giving teams a predictable rhythm of measured AI answer reads.",
+      "AITWIRE publishes verified business facts to the authority surfaces it manages, then re-measures whether the answer changed — a correction-and-retest loop the context does not show Scrunch AI offering.",
+      "AITWIRE sells explicitly priced, one-time benchmark and executive reports ($49, $149, $499) that deliver measured findings with 95% confidence intervals and per-engine breakdowns, without requiring a subscription.",
+      "AITWIRE operates as a vendor-neutral performance layer across both public and private AI, covering models, vendors, and applications — a scope the context does not confirm for Scrunch AI."
     ],
     "pros_cons": {
       "tenant": {
         "pros": [
-          "Structured, cadenced probe cycles (monthly, weekly, or daily) with published pricing and defined deliverables.",
-          "Formal Assurance engagement and sealed evidence reports for compliance or audit use cases.",
-          "Vendor-neutral measurement across multiple AI models, vendors, and applications.",
-          "AI assistant integration on the AITWIRE AI plan, running measurement from within tools teams already use.",
-          "Free entry point via AI Readiness Assessment — a deterministic check of the business's own surfaces at no cost."
+          "Structured cadence ladder (monthly → weekly → daily) gives teams a predictable, escalating measurement rhythm tied to plan tier.",
+          "Formal Assurance engagement produces sealed, threshold-tested evidence suitable for compliance or audit purposes.",
+          "Explicitly priced one-time reports ($49, $149, $499) allow teams to purchase a measured snapshot without a recurring subscription.",
+          "Correction-and-retest loop: AITWIRE publishes verified facts to authority surfaces it manages, then re-measures whether AI answers changed.",
+          "AITWIRE AI plan operates as an Engineering Agent connected to ChatGPT, running the AITWIRE Console from AI the customer already uses."
         ],
         "cons": [
-          "AITWIRE Free does not include a probe cycle or any measured read of AI answers; the scheduled measurement cycle begins at AITWIRE Standard.",
-          "Assurance and top-tier report products ($499/month) represent a meaningful cost commitment for smaller teams."
+          "AITWIRE Free does not include a measured AI answer cycle — the entry tier is limited to an AI Readiness Assessment of the business's own surfaces only.",
+          "The daily measured cycle and contract-sized assessment quota (30/month baseline) are available only at the AITWIRE AI tier, which is the highest plan."
         ]
       },
       "competitor": {
         "pros": [
-          "Strong AI-answer presence: named in 84% of 9,528 probed answers across AITWIRE's probe run (2026-05-21 to 2026-08-30).",
-          "Positive positioning in AI-generated answers: 30% positive tone and 19% recommended positioning in the same probe dataset.",
-          "Established enough to appear consistently across the AI systems AITWIRE probed."
+          "Named in answers in 84% of 9,528 AITWIRE probes across a 3-month window, indicating strong AI-answer presence as measured by AITWIRE.",
+          "19% of answers that named Scrunch AI positioned it as a recommended option, suggesting favourable framing in AI-generated content as measured by AITWIRE.",
+          "30% of answers that named Scrunch AI carried a positive tone, indicating generally constructive AI-answer sentiment as measured by AITWIRE."
         ],
         "cons": []
       }
     },
-    "summary": "AITWIRE offers a documented, tiered measurement system — free AI Readiness Assessments, monthly-to-daily probe cycles, and formal Assurance engagements with sealed evidence — at published price points ranging from free to $499/month for report products. It manages approved knowledge across models and vendors and integrates with AI assistants at the top tier. Scrunch AI, based on AITWIRE's probe data, has a strong and largely positive presence in AI-generated answers, but its product features, pricing, and capabilities are not covered by verified data in this comparison and should be confirmed directly. Buyers who need a formal evidence trail, a defined cadence of measured AI-answer probing, or a vendor-neutral governance layer will find those capabilities explicitly documented in AITWIRE's plans; buyers evaluating Scrunch AI should assess its feature set and pricing directly before drawing conclusions."
+    "summary": "AITWIRE and Scrunch AI both operate in the space of understanding how AI systems answer about a business. AITWIRE's documented differentiators include a cadenced measurement ladder (monthly at Standard, weekly at Pro, daily at AITWIRE AI), a formal Assurance engagement with sealed evidence, explicitly priced one-time reports with 95% confidence intervals, and a correction-and-retest loop that publishes verified facts to authority surfaces then re-measures whether answers changed. Scrunch AI's product capabilities, pricing, and plan structure are not verified in this context and should be confirmed directly. Based on AITWIRE's own probing, Scrunch AI carries strong AI-answer presence (named in 84% of probes) and generally positive framing. Buyers whose priority is a structured measurement cadence, formal evidence deliverables, or a vendor-neutral performance layer across public and private AI will find those capabilities explicitly documented in AITWIRE's plan ladder and report catalogue; buyers evaluating Scrunch AI should verify its specific feature set and pricing directly with the vendor."
   },
   "published_at": "2026-09-11 22:48:20",
   "canonical_url": "https://api.aitwire.com/feeds/rankings.json?tenant=aitwire",
