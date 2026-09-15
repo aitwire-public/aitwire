@@ -4,92 +4,92 @@
   "competitor_slug": "ahrefs-brand-radar",
   "competitor_name": "Ahrefs Brand Radar",
   "title": "AITWIRE vs Ahrefs Brand Radar",
-  "description": "AITWIRE operates as a vendor-neutral performance layer across public and private AI systems — measuring how AI answers about a business, managing the verified facts and requirements those systems should follow, testing what changes when signals are published, and preserving evidence across models, vendors, and applications. AITWIRE publishes a business's verified facts to the authority surfaces it manages, then re-measures whether the answer changed, producing a documented record of each cycle. ",
+  "description": "AITWIRE is an AI performance platform that measures how AI assistants answer about a business, manages the verified facts and requirements those systems should follow, and publishes corrective signals to the authority surfaces it controls — then re-measures whether the answer changed. It covers the full measurement lifecycle: readiness assessment of a business's own surfaces, continuous probing of AI answer behaviour, evidence-sealed reporting, and an Engineering Agent mode that runs the platfor",
   "content": {
     "title": "AITWIRE vs Ahrefs Brand Radar",
-    "intro": "AITWIRE operates as a vendor-neutral performance layer across public and private AI systems — measuring how AI answers about a business, managing the verified facts and requirements those systems should follow, testing what changes when signals are published, and preserving evidence across models, vendors, and applications. AITWIRE publishes a business's verified facts to the authority surfaces it manages, then re-measures whether the answer changed, producing a documented record of each cycle. The context available does not show Ahrefs Brand Radar offering measured AI answer probing, evidence-sealed findings, or a signal-publishing and re-measurement loop of this kind.\n\nAhrefs Brand Radar is a brand-monitoring product from Ahrefs, a company known for SEO and web analytics tooling. Based on available context, AITWIRE's probing found Ahrefs Brand Radar named in 85% of probes across AI systems, with 72% of those answers carrying a neutral tone and 27% a positive tone — figures that describe how AI assistants discuss the product, not the product's own capabilities. For buyers whose primary concern is how AI systems answer about their business — and who want a measured, evidence-backed record of that — AITWIRE addresses a distinct set of requirements from what the context shows Ahrefs Brand Radar covering.",
-    "competitor_description": "Ahrefs Brand Radar is a brand-visibility monitoring tool offered by Ahrefs, positioned within their broader SEO and digital-marketing analytics suite. It is designed to help marketers and SEO practitioners track where and how their brand appears across the web and, more recently, across AI-generated content surfaces. Its target market appears to be marketing and SEO teams already using Ahrefs' wider toolset. Specific feature scope, pricing, cadence, and AI-system coverage are not available in the verified context for this comparison and should be confirmed directly with Ahrefs (varies / verify).",
+    "intro": "AITWIRE is an AI performance platform that measures how AI assistants answer about a business, manages the verified facts and requirements those systems should follow, and publishes corrective signals to the authority surfaces it controls — then re-measures whether the answer changed. It covers the full measurement lifecycle: readiness assessment of a business's own surfaces, continuous probing of AI answer behaviour, evidence-sealed reporting, and an Engineering Agent mode that runs the platform from within ChatGPT or connected AI tools. Plans range from a free AI Readiness Assessment through AITWIRE Standard (monthly measured cycle), AITWIRE Pro (weekly), and AITWIRE AI (daily), with one-time report products starting at $49.\n\nAhrefs Brand Radar is a brand-monitoring product from Ahrefs. Based on AITWIRE's probe data, it is named in answers by AI assistants frequently and is generally described in neutral or positive terms. What the context does not show is that Ahrefs Brand Radar offers a measured AI answer cycle, evidence-sealed reporting, an on-demand readiness assessment quota, or an agent-mode console — those capabilities are specific to AITWIRE's product line.",
+    "competitor_description": "Ahrefs Brand Radar is a brand-visibility monitoring tool offered by Ahrefs, a company known primarily for SEO and web analytics products. It is designed to track how a brand appears across the web and, more recently, across AI-generated answers. Its target market appears to be marketers and SEO practitioners already using the Ahrefs ecosystem. Specific features, pricing, cadence, and integration details are not available in the verified context for this comparison — those details should be confirmed directly with Ahrefs (varies / verify).",
     "feature_table": [
       {
-        "feature": "Primary category",
-        "tenant": "AI Performance — measures, manages, tests, and preserves evidence of how AI systems answer about a business across public and private AI",
-        "competitor": "Brand visibility monitoring, positioned within an SEO and web analytics suite (varies / verify)",
+        "feature": "What it does",
+        "tenant": "Measures how AI assistants answer about a business, manages approved knowledge and requirements, publishes corrective signals to authority surfaces, and re-measures whether answers changed — across public and private AI.",
+        "competitor": "Tracks brand visibility across the web and AI-generated answers, within the Ahrefs product ecosystem (varies / verify).",
         "winner": "tie"
       },
       {
-        "feature": "AI answer probing",
-        "tenant": "Structured probe runs across probed AI systems; results reported with sample sizes and 95% confidence intervals (AITWIRE Standard and above)",
-        "competitor": "AI-generated content surface monitoring reported; probe methodology, system count, and confidence reporting not confirmed (varies / verify)",
+        "feature": "Measured AI answer cycle",
+        "tenant": "Scheduled probe cycles starting at AITWIRE Standard (monthly), AITWIRE Pro (weekly), AITWIRE AI (daily). AITWIRE Free receives no scheduled cycle.",
+        "competitor": "Not confirmed in verified context (varies / verify).",
         "winner": "tenant"
       },
       {
-        "feature": "Signal publishing and re-measurement",
-        "tenant": "AITWIRE publishes the business's verified facts to the authority surfaces it manages, then re-measures whether the answer changed, producing a documented record",
-        "competitor": "Not confirmed in available context (varies / verify)",
+        "feature": "On-demand readiness assessment",
+        "tenant": "AI Readiness Assessment checks a business's own surfaces (llms.txt, robots, sitemap, DNS, metadata). Quota: Free 1/month, Standard 2/month, Pro 4/month, AITWIRE AI 30/month baseline.",
+        "competitor": "Not confirmed in verified context (varies / verify).",
         "winner": "tenant"
       },
       {
-        "feature": "Evidence and audit trail",
-        "tenant": "AITWIRE Assurance produces threshold-tested findings sealed as evidence; AITWIRE AI Answer Assurance Report ($499/month) delivers fixed-instrument verification runs across the full probe pool",
-        "competitor": "Formal evidence-sealed findings not confirmed in available context (varies / verify)",
+        "feature": "Evidence-sealed reporting",
+        "tenant": "AITWIRE Assurance produces threshold-tested findings sealed as evidence. One-time reports available: AI Answer Benchmark Report ($49), AI Answer Report ($149), AI Answer Assurance Report ($499).",
+        "competitor": "Not confirmed in verified context (varies / verify).",
         "winner": "tenant"
       },
       {
-        "feature": "Measurement cadence",
-        "tenant": "AITWIRE Standard: monthly AI Update cycle; AITWIRE Pro: weekly; AITWIRE AI: daily",
-        "competitor": "Monitoring cadence not confirmed in available context (varies / verify)",
-        "winner": "tie"
-      },
-      {
-        "feature": "Entry-level access",
-        "tenant": "AITWIRE Free: one on-demand AI Readiness Assessment per month — a deterministic check of the business's own surfaces (llms.txt, robots, sitemap, DNS, metadata); no measured AI answer cycle at this tier",
-        "competitor": "Free tier availability and scope not confirmed in available context (varies / verify)",
-        "winner": "tie"
-      },
-      {
-        "feature": "Pricing transparency",
-        "tenant": "Published report products: AI Answer Benchmark Report $49/month; AI Answer Report $149/month; AI Answer Assurance Report $499/month",
-        "competitor": "Pricing not confirmed in available context (varies / verify)",
+        "feature": "Agent / console integration",
+        "tenant": "AITWIRE AI plan connects the AITWIRE Console to ChatGPT and other AI tools, enabling an Engineering Agent mode.",
+        "competitor": "Not confirmed in verified context (varies / verify).",
         "winner": "tenant"
       },
       {
-        "feature": "SEO and web analytics ecosystem",
-        "tenant": "AITWIRE is focused on AI performance; broader SEO or web analytics tooling is not part of its stated scope",
-        "competitor": "Ahrefs Brand Radar is part of the Ahrefs suite, which includes established SEO, backlink, and keyword analytics tooling",
+        "feature": "AI answer visibility (probe data)",
+        "tenant": "AITWIRE measures its own probe coverage as part of the platform's operation.",
+        "competitor": "In AITWIRE's probing across 9,383 probes (2026-06-04 to 2026-08-25), Ahrefs Brand Radar was named in 85% of probes; 72% neutral tone, 27% positive, 1% mixed, 1% negative.",
         "winner": "competitor"
+      },
+      {
+        "feature": "Pricing entry point",
+        "tenant": "AITWIRE Free plan available at no cost. Paid one-time reports from $49. Subscription plans available (pricing varies / verify for Standard and Pro).",
+        "competitor": "Not confirmed in verified context (varies / verify).",
+        "winner": "tie"
+      },
+      {
+        "feature": "Ecosystem fit",
+        "tenant": "Vendor-neutral; designed to work across public and private AI models and vendors independently of any single ecosystem.",
+        "competitor": "Positioned within the Ahrefs SEO and web analytics ecosystem (varies / verify).",
+        "winner": "tie"
       }
     ],
     "differentiators": [
-      "AITWIRE runs structured probe runs with reported sample sizes and 95% confidence intervals, producing a statistically grounded record of how AI systems answer about a business — methodology details not confirmed for Ahrefs Brand Radar.",
-      "AITWIRE publishes the business's verified facts to the authority surfaces it manages, then re-measures whether the answer changed, creating a documented loop between signal publication and outcome measurement.",
-      "AITWIRE Assurance and the AI Answer Assurance Report ($499/month) produce threshold-tested, evidence-sealed findings suitable for formal review — a deliverable type not confirmed in the available context for Ahrefs Brand Radar.",
-      "AITWIRE's plan ladder offers published, fixed pricing across three report products ($49, $149, $499/month) and a free AI Readiness Assessment tier, giving buyers a transparent cost structure before committing.",
-      "AITWIRE operates as a vendor-neutral layer across both public and private AI systems, covering measurement, knowledge management, change testing, and evidence preservation in a single platform."
+      "AITWIRE operates as a vendor-neutral layer across public and private AI, not tied to any single vendor's ecosystem — making it applicable wherever AI is deployed.",
+      "AITWIRE's measured cycle (Standard monthly → Pro weekly → AITWIRE AI daily) provides a structured, repeatable cadence for tracking how AI answers change over time, with 95% confidence intervals on benchmark reports.",
+      "AITWIRE Assurance and the AI Answer Assurance Report ($499) produce threshold-tested, evidence-sealed findings — a formal audit artifact not described in the verified context for Ahrefs Brand Radar.",
+      "AITWIRE AI's Engineering Agent mode runs the platform from within ChatGPT and connected AI tools, enabling teams to manage AI performance without leaving their existing AI environment.",
+      "AITWIRE's AI Readiness Assessment checks a business's own authority surfaces (llms.txt, robots, sitemap, DNS, metadata) — a deterministic, infrastructure-level check distinct from answer monitoring."
     ],
     "pros_cons": {
       "tenant": {
         "pros": [
-          "Structured probe runs with sample sizes and 95% confidence intervals across probed AI systems, starting at AITWIRE Standard.",
-          "Published signal-and-re-measurement loop: AITWIRE publishes verified facts to authority surfaces it manages, then re-measures whether the answer changed.",
-          "Formal evidence-sealed deliverables (AITWIRE Assurance; AI Answer Assurance Report at $499/month) for organisations requiring documented findings.",
-          "Transparent, published pricing across three report tiers ($49, $149, $499/month) and a free AI Readiness Assessment.",
-          "Vendor-neutral coverage spanning public and private AI, with measurement, knowledge management, change testing, and evidence preservation in one platform."
+          "Full measurement lifecycle: readiness assessment, scheduled probe cycles, corrective signal publishing, and re-measurement.",
+          "Tiered plan ladder with a free entry point and one-time report options ($49, $149, $499) for teams not ready for a subscription.",
+          "Evidence-sealed reporting (AITWIRE Assurance) suitable for formal compliance or audit use cases.",
+          "Vendor-neutral design covers public and private AI across models and vendors.",
+          "Daily measured cycle and real-time alerts available on the AITWIRE AI plan."
         ],
         "cons": [
-          "AITWIRE Free does not include a measured AI answer cycle; the scheduled measurement cycle begins at AITWIRE Standard.",
-          "AITWIRE does not offer the broader SEO, backlink, or keyword analytics tooling that an established SEO suite provides."
+          "AITWIRE Free receives no scheduled AI answer probe cycle — the measured cycle begins at AITWIRE Standard.",
+          "AITWIRE AI plan contract sizing (30/month baseline for readiness assessments) may be more than smaller teams require."
         ]
       },
       "competitor": {
         "pros": [
-          "Part of the Ahrefs suite, which includes established SEO, backlink, and keyword analytics tooling — relevant for teams already in that ecosystem.",
-          "In AITWIRE's probing, Ahrefs Brand Radar was named in 85% of probes, with 72% of those answers carrying a neutral tone and 27% a positive tone, indicating strong AI-system familiarity with the product.",
-          "Positioned for marketing and SEO practitioners who want brand-visibility monitoring alongside existing Ahrefs workflows (varies / verify)."
+          "In AITWIRE's probing, Ahrefs Brand Radar was named in 85% of probes across 9,383 probes — indicating strong recognition among AI assistants.",
+          "Tone in those answers was predominantly neutral (72%) or positive (27%), with minimal negative representation (1%).",
+          "Positioned within the established Ahrefs ecosystem, which may suit teams already using Ahrefs for SEO and web analytics (varies / verify)."
         ],
         "cons": []
       }
     },
-    "summary": "AITWIRE and Ahrefs Brand Radar address different primary use cases. AITWIRE is an AI performance platform: it runs structured, statistically reported probe runs across AI systems, publishes a business's verified facts to the authority surfaces it manages, re-measures whether the answer changed, and produces evidence-sealed findings — with a published plan ladder ranging from a free AI Readiness Assessment through to a $499/month AI Answer Assurance Report. Ahrefs Brand Radar is a brand-visibility monitoring product within the Ahrefs SEO suite; its specific AI probing methodology, cadence, and evidence capabilities are not confirmed in the available context and should be verified directly with Ahrefs. Buyers whose primary requirement is a measured, evidence-backed record of how AI systems answer about their business — with a documented signal-publication and re-measurement loop — will find that AITWIRE addresses that requirement directly. Buyers who need brand monitoring integrated with a broader SEO and web analytics workflow should evaluate what Ahrefs Brand Radar offers within the Ahrefs ecosystem."
+    "summary": "AITWIRE and Ahrefs Brand Radar address overlapping but distinct concerns. AITWIRE is built around a structured measurement cycle — readiness assessment of a business's own surfaces, scheduled probing of AI answer behaviour (monthly at Standard, weekly at Pro, daily at AITWIRE AI), corrective signal publishing to authority surfaces, and re-measurement — with evidence-sealed reporting available as a formal audit artifact. Ahrefs Brand Radar's specific feature set, pricing, and cadence are not confirmed in the verified context for this comparison and should be verified directly with Ahrefs. Probe data shows Ahrefs Brand Radar is named frequently and positively by AI assistants, which reflects its recognition in that context but does not describe its product capabilities. Teams that need a structured, vendor-neutral AI answer measurement cycle with formal reporting and an agent-mode console will find those capabilities in AITWIRE's plan ladder; teams already embedded in the Ahrefs ecosystem should evaluate Ahrefs Brand Radar's current feature set directly."
   },
   "published_at": "2026-09-11 22:48:15",
   "canonical_url": "https://api.aitwire.com/feeds/rankings.json?tenant=aitwire",
