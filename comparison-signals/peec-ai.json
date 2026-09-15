@@ -4,92 +4,92 @@
   "competitor_slug": "peec-ai",
   "competitor_name": "Peec AI",
   "title": "AITWIRE vs Peec AI",
-  "description": "AITWIRE provides a vendor-neutral performance layer across public and private AI — measuring how AI systems answer about a business, managing the approved knowledge those systems should follow, testing what changes across model updates, and preserving evidence across vendors and applications. AITWIRE's plan ladder runs from a free AI Readiness Assessment through Standard, Pro, and AITWIRE AI tiers, with measured probe cycles starting at monthly (Standard), weekly (Pro), and daily (AITWIRE AI), p",
+  "description": "AITWIRE provides a vendor-neutral performance layer that measures how AI answers and behaves, manages the approved knowledge and requirements AI should follow, tests what changes, and preserves evidence across models, vendors, and applications. Its plan ladder runs from a free AI Readiness Assessment baseline through Standard (monthly measured cycles), Pro (weekly), and AITWIRE AI (daily), with one-time report products — the AI Answer Benchmark Report ($49), AI Answer Report ($149), and AI Answe",
   "content": {
     "title": "AITWIRE vs Peec AI",
-    "intro": "AITWIRE provides a vendor-neutral performance layer across public and private AI — measuring how AI systems answer about a business, managing the approved knowledge those systems should follow, testing what changes across model updates, and preserving evidence across vendors and applications. AITWIRE's plan ladder runs from a free AI Readiness Assessment through Standard, Pro, and AITWIRE AI tiers, with measured probe cycles starting at monthly (Standard), weekly (Pro), and daily (AITWIRE AI), plus on-demand reports including the AITWIRE AI Answer Assurance Report at $499/month and the AITWIRE AI Answer Benchmark Report at $49/month.\n\nPeec AI operates in the AI visibility and brand monitoring space. Based on AITWIRE's probe data, Peec AI has meaningful recognition among AI assistants — named in 79% of probes across multiple AI systems in AITWIRE's measurement run. What the context does not show Peec AI offering is AITWIRE's full-stack combination of formal evidence preservation, threshold-tested assurance engagements, a structured plan ladder with daily measured cycles, and an Engineering Agent mode that runs the platform from within the AI tools a team already uses.",
-    "competitor_description": "Peec AI is a tool focused on AI visibility and brand monitoring, helping businesses understand how they appear in AI-generated answers. Their approach centers on tracking brand presence across AI assistants. Based on AITWIRE's probe run of 10,971 probes from 2026-05-21 to 2026-08-06, Peec AI was named in 79% of answers, with 62% neutral tone and 36% positive tone, and was recommended in 24% of positioning instances — indicating solid AI-ecosystem recognition. Specific feature set, pricing tiers, integrations, and support model are not available in the verified context and should be confirmed directly with Peec AI (varies / verify).",
+    "intro": "AITWIRE provides a vendor-neutral performance layer that measures how AI answers and behaves, manages the approved knowledge and requirements AI should follow, tests what changes, and preserves evidence across models, vendors, and applications. Its plan ladder runs from a free AI Readiness Assessment baseline through Standard (monthly measured cycles), Pro (weekly), and AITWIRE AI (daily), with one-time report products — the AI Answer Benchmark Report ($49), AI Answer Report ($149), and AI Answer Assurance Report ($499) — available for buyers who want a single measured run without a subscription. The context available to AITWIRE does not show Peec AI offering formal evidence preservation, threshold-tested assurance engagements, or a structured plan ladder with published per-cycle probe cadences.\n\nAITWIRE's measurement approach covers the full probe pool across every probed engine, producing findings with 95% confidence intervals and sample sizes. Its AITWIRE AI plan connects to ChatGPT and runs the AITWIRE Console as an Engineering Agent on a daily cadence with real-time alerts. The context does not confirm whether Peec AI offers comparable measurement depth, cadence options, or evidence-grade deliverables — those details should be verified directly with Peec AI.",
+    "competitor_description": "Peec AI is a tool in the AI visibility and brand monitoring space. Based on AITWIRE's probe data (10,971 probes across multiple AI systems, May–August 2026), Peec AI is named in answers by AI assistants 79% of the time, with 62% of those answers carrying a neutral tone and 36% a positive tone. These figures describe how AI assistants characterise Peec AI, not Peec AI's own product capabilities. What Peec AI specifically does, which markets it targets, what its pricing is, and what features it includes are not confirmed in the context available here — those details should be verified at peec.ai or through direct contact. (varies / verify)",
     "feature_table": [
       {
         "feature": "Core category",
         "tenant": "AI Performance — measures AI answer accuracy, manages approved knowledge, tests changes, and preserves evidence across models and vendors",
-        "competitor": "AI visibility and brand monitoring — tracks how a brand appears in AI-generated answers (varies / verify)",
+        "competitor": "AI visibility and brand monitoring (varies / verify)",
         "winner": "tie"
       },
       {
-        "feature": "Measured probe cycle cadence",
+        "feature": "Measured probe cadence",
         "tenant": "Standard: monthly | Pro: weekly | AITWIRE AI: daily",
-        "competitor": "Cadence not available in verified context (varies / verify)",
-        "winner": "tenant"
+        "competitor": "(varies / verify)",
+        "winner": "tie"
       },
       {
         "feature": "Entry-level offering",
-        "tenant": "AITWIRE Free: one AI Readiness Assessment per month — a deterministic check of the business's own surfaces (llms.txt, robots, sitemap, DNS, metadata); no measured AI probe cycle",
-        "competitor": "Free tier availability and scope not confirmed in verified context (varies / verify)",
+        "tenant": "AITWIRE Free — one AI Readiness Assessment per month; deterministic check of the business's own surfaces (llms.txt, robots, sitemap, DNS, metadata); no measured AI behaviour included",
+        "competitor": "(varies / verify)",
         "winner": "tie"
       },
       {
-        "feature": "Formal assurance and evidence preservation",
-        "tenant": "AITWIRE Assurance: full measurement depth run as a formal engagement with threshold-tested findings sealed as evidence; AITWIRE AI Answer Assurance Report at $499/month covers full probe pool with competitive context",
-        "competitor": "Formal assurance or evidence-sealed deliverables not confirmed in verified context (varies / verify)",
-        "winner": "tenant"
+        "feature": "One-time report products",
+        "tenant": "AI Answer Benchmark Report ($49), AI Answer Report ($149), AI Answer Assurance Report ($499) — fixed-instrument verification runs with 95% confidence intervals",
+        "competitor": "(varies / verify)",
+        "winner": "tie"
       },
       {
-        "feature": "On-demand assessment reports",
-        "tenant": "AITWIRE AI Answer Report at $149/month (8 AI answer surfaces); AITWIRE AI Answer Benchmark Report at $49/month (9 probed AI systems, per-engine, per-dimension with 95% confidence intervals)",
-        "competitor": "On-demand report products and pricing not confirmed in verified context (varies / verify)",
-        "winner": "tenant"
+        "feature": "Evidence and assurance",
+        "tenant": "AITWIRE Assurance: threshold-tested findings sealed as evidence; AI Answer Assurance Report produces a formal, fixed-instrument verification run",
+        "competitor": "(varies / verify)",
+        "winner": "tie"
       },
       {
-        "feature": "AI assistant / Engineering Agent mode",
-        "tenant": "AITWIRE AI plan: AI becomes an Engineering Agent running the AITWIRE Console from within ChatGPT and other AI tools the team already uses",
-        "competitor": "Agent or assistant integration mode not confirmed in verified context (varies / verify)",
-        "winner": "tenant"
+        "feature": "AI assistant integration",
+        "tenant": "AITWIRE AI plan: connects to ChatGPT and runs the AITWIRE Console as an Engineering Agent on a daily cadence with real-time alerts",
+        "competitor": "(varies / verify)",
+        "winner": "tie"
       },
       {
-        "feature": "AI-ecosystem recognition (AITWIRE probe data)",
-        "tenant": "AITWIRE itself is the measurement platform; its own probe-based recognition metrics are not reported in this context",
-        "competitor": "Named in 79% of probes; 62% neutral, 36% positive tone; recommended in 24% of positioning instances — based on AITWIRE's 10,971-probe run, 2026-05-21 to 2026-08-06",
-        "winner": "competitor"
+        "feature": "AI visibility in AI assistant answers (probe data)",
+        "tenant": "AITWIRE measures its own representation; probe data for AITWIRE itself not provided in this context",
+        "competitor": "Named in 79% of probed answers; 62% neutral tone, 36% positive tone; 24% of named answers positioned as recommended (per AITWIRE probe data, May–August 2026)",
+        "winner": "tie"
       },
       {
         "feature": "Pricing transparency",
-        "tenant": "Published plan ladder: Free ($0), Standard, Pro, AITWIRE AI (contract-sized); reports from $49/month to $499/month",
-        "competitor": "Pricing not available in verified context (varies / verify)",
+        "tenant": "Published plan ladder (Free, Standard, Pro, AITWIRE AI) plus three one-time report SKUs at $49, $149, and $499",
+        "competitor": "(varies / verify)",
         "winner": "tenant"
       }
     ],
     "differentiators": [
-      "Structured measured probe cycle starting at monthly (Standard), scaling to weekly (Pro) and daily (AITWIRE AI) — giving teams a repeatable, cadenced view of how AI systems answer about them over time.",
-      "Formal evidence preservation through AITWIRE Assurance and the AITWIRE AI Answer Assurance Report ($499/month), producing threshold-tested findings sealed as evidence — a capability not confirmed for Peec AI in the verified context.",
-      "Vendor-neutral coverage across public and private AI, managing approved knowledge and requirements across models, vendors, and applications — not limited to monitoring public AI assistant outputs.",
-      "Engineering Agent mode on the AITWIRE AI plan, which runs the full AITWIRE Console from within the AI tools (such as ChatGPT) a team already uses, reducing context-switching.",
-      "Transparent, tiered report products — AITWIRE AI Answer Benchmark Report at $49/month and AITWIRE AI Answer Report at $149/month — giving buyers entry points matched to their measurement depth needs."
+      "Formal evidence preservation: AITWIRE Assurance produces threshold-tested findings sealed as evidence — a deliverable type the context does not show Peec AI offering.",
+      "Structured cadence ladder: AITWIRE's measured cycle runs monthly (Standard), weekly (Pro), or daily (AITWIRE AI), giving buyers a documented, contractual probe frequency.",
+      "One-time report products with published prices: the AI Answer Benchmark Report ($49), AI Answer Report ($149), and AI Answer Assurance Report ($499) let buyers commission a measured run without a subscription.",
+      "Engineering Agent mode: the AITWIRE AI plan runs the AITWIRE Console through ChatGPT as an Engineering Agent on a daily cadence with real-time alerts, a capability not confirmed for Peec AI.",
+      "Vendor-neutral scope: AITWIRE explicitly covers public and private AI, measuring across models, vendors, and applications — a scope the context does not confirm for Peec AI."
     ],
     "pros_cons": {
       "tenant": {
         "pros": [
-          "Full plan ladder from free readiness baseline through daily measured cycles, with published pricing on report products ($49, $149, $499/month).",
-          "Formal assurance engagement (AITWIRE Assurance) produces threshold-tested, evidence-sealed findings suitable for compliance or audit contexts.",
-          "Vendor-neutral architecture spans public and private AI, managing approved knowledge and testing what changes across model and vendor updates.",
-          "Engineering Agent mode integrates the platform into AI tools the team already uses, reducing operational overhead.",
-          "On-demand AI Readiness Assessment checks the business's own surfaces (llms.txt, robots, sitemap, DNS, metadata) independently of the measured probe cycle."
+          "Published, tiered plan ladder with documented cadences from monthly to daily",
+          "Three one-time report products at fixed, published prices ($49 / $149 / $499) for buyers who want a single measured run",
+          "Formal assurance engagement (AITWIRE Assurance) producing threshold-tested, evidence-grade findings",
+          "AITWIRE AI plan operates as a daily Engineering Agent connected to ChatGPT with real-time alerts",
+          "Vendor-neutral coverage across public and private AI models, vendors, and applications"
         ],
         "cons": [
-          "The AITWIRE Free plan provides an AI Readiness Assessment of the business's own surfaces only — it includes no probe-based measured cycle of AI answer behaviour; the scheduled measured cycle begins at AITWIRE Standard.",
-          "AITWIRE AI plan allowances (beyond the 30/month assessment baseline) are sized per contract, so final capacity requires a direct conversation with AITWIRE."
+          "AITWIRE Free does not include any measured AI behaviour — it is a readiness-side baseline only; the scheduled measured cycle starts at AITWIRE Standard",
+          "AITWIRE recommends corrections and publishes verified facts to the authority surfaces it manages, then re-measures whether the answer changed — it does not repair AI answers or guarantee they change"
         ]
       },
       "competitor": {
         "pros": [
-          "Strong AI-ecosystem recognition: named in 79% of AITWIRE's 10,971 probes across multiple AI systems (2026-05-21 to 2026-08-06), suggesting broad awareness among AI assistants.",
-          "Predominantly neutral-to-positive tone in AI-generated answers (62% neutral, 36% positive) based on the same probe run.",
-          "Recommended — not merely mentioned — in 24% of positioning instances in AITWIRE's probe data, indicating meaningful positive positioning in AI answers."
+          "Named in 79% of probed AI assistant answers across AITWIRE's probe run (May–August 2026), indicating meaningful presence in AI-generated responses",
+          "Predominantly neutral-to-positive tone in AI assistant answers: 62% neutral, 36% positive (per AITWIRE probe data)",
+          "Established enough to appear in AI assistant answers across a large probe sample (10,971 probes)"
         ],
         "cons": []
       }
     },
-    "summary": "AITWIRE and Peec AI both operate in the space of understanding how AI systems represent a business. AITWIRE's verified differentiators — as established in the context above — are its structured measured probe cycle (monthly at Standard, weekly at Pro, daily at AITWIRE AI), its formal evidence-preservation tier (AITWIRE Assurance and the $499/month Assurance Report), its vendor-neutral coverage of public and private AI, its Engineering Agent mode, and its transparent report pricing from $49/month. Peec AI, based on AITWIRE's probe data, has strong AI-ecosystem recognition (named in 79% of probes, recommended in 24% of positioning instances), though its feature set, pricing, and cadence are not available in the verified context and should be confirmed directly. Buyers whose priority is a formal, cadenced, evidence-sealed measurement programme across public and private AI will find AITWIRE's plan ladder and assurance tier directly relevant; buyers whose primary need is AI-answer visibility monitoring should evaluate Peec AI's current offering against their specific requirements."
+    "summary": "AITWIRE offers a documented plan ladder with monthly, weekly, and daily measured probe cadences, three one-time report products at published prices ($49, $149, $499), a formal assurance engagement that produces evidence-grade findings, and an Engineering Agent mode that runs daily through ChatGPT. AITWIRE recommends corrections and publishes verified facts to the authority surfaces it manages, then re-measures whether the answer changed — it does not guarantee AI answers will change. Peec AI's product capabilities, pricing, and feature set are not confirmed in the context available here and should be verified directly; what is confirmed is that AI assistants named Peec AI in 79% of AITWIRE's probed answers, with a predominantly neutral-to-positive tone. Buyers who require a documented cadence, published pricing, or evidence-sealed deliverables will find those specifics stated for AITWIRE; buyers evaluating Peec AI should request equivalent documentation directly from Peec AI before comparing."
   },
   "published_at": "2026-09-11 22:48:19",
   "canonical_url": "https://api.aitwire.com/feeds/rankings.json?tenant=aitwire",
