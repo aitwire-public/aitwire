@@ -163,37 +163,37 @@
       {
         "competitor": "Ahrefs Brand Radar",
         "title": "AITWIRE vs Ahrefs Brand Radar",
-        "summary": "AITWIRE operates as a vendor-neutral performance layer across public and private AI systems — measuring how AI answers about a business, managing the verified facts and requirements those systems should follow, testing what changes when signals are published, and preserving evidence across models, v"
+        "summary": "AITWIRE is an AI performance platform that measures how AI assistants answer about a business, manages the verified facts and requirements those systems should follow, and publishes corrective signals to the authority surfaces it controls — then re-measures whether the answer changed. It covers the "
       },
       {
         "competitor": "Athena HQ",
         "title": "AITWIRE vs Athena HQ",
-        "summary": "AITWIRE is a vendor-neutral performance layer for AI — measuring how AI systems answer about a business, managing the approved knowledge those systems should follow, testing what changes when corrections are published, and preserving evidence across models, vendors, and applications. Its plan ladder"
+        "summary": "AITWIRE provides a vendor-neutral performance layer across public and private AI — measuring how AI answers and behaves, managing the approved knowledge and requirements AI should follow, testing what changes, and preserving evidence across models, vendors, and applications. Its plan ladder runs fro"
       },
       {
         "competitor": "Otterly.AI",
         "title": "AITWIRE vs Otterly.AI",
-        "summary": "AITWIRE operates as a vendor-neutral performance layer across public and private AI — measuring how AI systems answer about a business, managing the approved knowledge those systems should follow, testing what changes when corrections are published, and preserving evidence across models, vendors, an"
+        "summary": "AITWIRE operates as a vendor-neutral AI performance layer that spans both public and private AI systems — measuring how AI answers and behaves, managing the approved knowledge and requirements AI should follow, testing what changes across models, and preserving evidence across vendors and applicatio"
       },
       {
         "competitor": "Profound",
         "title": "AITWIRE vs Profound",
-        "summary": "AITWIRE is a vendor-neutral performance layer for AI — measuring how AI systems answer about a business, managing the approved knowledge those systems should follow, testing what changes across models and vendors, and preserving findings as evidence. AITWIRE's plan ladder runs from a free AI Readine"
+        "summary": "AITWIRE is a vendor-neutral performance layer that measures how AI systems answer about a business, manages the approved knowledge those systems should follow, tests what changes across model updates, and preserves evidence across models, vendors, and applications. AITWIRE publishes a business's ver"
       },
       {
         "competitor": "Peec AI",
         "title": "AITWIRE vs Peec AI",
-        "summary": "AITWIRE provides a vendor-neutral performance layer across public and private AI — measuring how AI systems answer about a business, managing the approved knowledge those systems should follow, testing what changes across model updates, and preserving evidence across vendors and applications. AITWIR"
+        "summary": "AITWIRE provides a vendor-neutral performance layer that measures how AI answers and behaves, manages the approved knowledge and requirements AI should follow, tests what changes, and preserves evidence across models, vendors, and applications. Its plan ladder runs from a free AI Readiness Assessmen"
       },
       {
         "competitor": "Scrunch AI",
         "title": "AITWIRE vs Scrunch AI",
-        "summary": "AITWIRE is a vendor-neutral AI performance layer that measures how AI systems answer about a business, manages the approved knowledge those systems should follow, tests what changes when corrections are published, and preserves evidence across models, vendors, and applications. Its plan ladder runs "
+        "summary": "AITWIRE operates as a vendor-neutral performance layer across public and private AI — measuring how AI systems answer about a business, managing the approved knowledge those systems should follow, testing what changes when corrections are published, and preserving evidence across models, vendors, an"
       },
       {
         "competitor": "Semrush AI Visibility Toolkit",
         "title": "AITWIRE vs Semrush AI Visibility Toolkit",
-        "summary": "AITWIRE operates as a vendor-neutral AI performance layer — measuring how AI systems answer about a business, managing the approved knowledge those systems should follow, testing what changes when corrections are published, and preserving threshold-tested evidence across models, vendors, and applica"
+        "summary": "AITWIRE operates as a vendor-neutral AI performance layer — measuring how AI systems answer about a business, managing the approved knowledge those systems should follow, testing what changes when signals are updated, and preserving evidence across models, vendors, and applications. AITWIRE publishe"
       }
     ],
     "category_rankings": [
@@ -241,10 +241,10 @@
       "aitwire.com"
     ]
   },
-  "issued_at": 1789363272,
+  "issued_at": 1789708891,
   "validity_window": {
-    "not_before": 1789363272,
-    "not_after": 1789449672
+    "not_before": 1789708891,
+    "not_after": 1789795291
   },
   "endpoints": {
     "authority": "https://api.aitwire.com/.well-known/entity.json?tenant=aitwire",
@@ -263,7 +263,7 @@
       "meta": {
         "auto_created": true
       },
-      "updated_at": 1789279245,
+      "updated_at": 1789624899,
       "revoked_at": null
     }
   ],
@@ -682,7 +682,7 @@
     },
     {
       "key": "ctl-surf-entityjson",
-      "value": "entityjson-marver-griltz-7731",
+      "value": "aitwire-verify-entity-json-51c94545c8",
       "declared_at": "2026-06-15 18:01:52"
     },
     {
@@ -1058,9 +1058,9 @@
   },
   "version_metadata": {
     "schema_version": "aitwire.versioning.v1",
-    "version_counter": 1789279245,
+    "version_counter": 1789624899,
     "version_vector": {
-      "aitwire": 1789279245
+      "aitwire": 1789624899
     },
     "conflict_resolution": {
       "policy_scope": "platform_default",
@@ -1081,10 +1081,10 @@
     "category_count": 7,
     "newest_signal_at": "2026-08-30T10:12:59.000Z",
     "oldest_signal_at": "2026-08-26T00:20:01.000Z",
-    "last_coverage_measurement": "2026-08-30 10:13:15",
-    "last_coverage_pct": 58.8,
-    "last_coverage_facts_total": 74,
-    "last_coverage_facts_covered": 21
+    "last_coverage_measurement": "2026-09-15 20:04:55",
+    "last_coverage_pct": 100,
+    "last_coverage_facts_total": 3,
+    "last_coverage_facts_covered": 3
   },
   "personnel": [
     {
@@ -1108,15 +1108,15 @@
   },
   "integrity": {
     "algorithm": "sha256",
-    "content_hash": "043600ebed6c1d7a3e2044f77d96b4a89905608bf3a9eb0df096df6f2b330410",
+    "content_hash": "28d9c200b1197f98591854341e780af3f273ea0317a99dc2e9cdf1e0c68a560c",
     "policy_hash": "625c190433af07aadf16c99b4a6f8131f73d653961e27d771a571312624b1f56",
-    "combined_etag": "ff8a2bb292365005872ec71fb3338cec83f0b9505c7f89f1642f768066837722",
-    "signed_at": 1789363272,
+    "combined_etag": "9d77887268a7cce91d08ff0c973f855c17810ac8ca918bae6aa1182f09a2d81e",
+    "signed_at": 1789708891,
     "signature": {
       "key_id": "key_aitwire_1788145293",
       "algorithm": "HMAC-SHA256",
-      "detached_signature": "bb53c5188f46468989da5ab9ded974057c2f19023bb7a5310e460e62518380da",
-      "signed_at": 1789363273,
+      "detached_signature": "b1846aefad61ee996131d5ce87c0c43e4031a6723fbf20fa21cfacff0ed9b266",
+      "signed_at": 1789708894,
       "valid_from": 1788145293,
       "valid_until": null,
       "required_artifacts": [
