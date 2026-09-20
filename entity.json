@@ -161,6 +161,26 @@
     ],
     "comparisons": [
       {
+        "competitor": "HubSpot AI Search Grader",
+        "title": "AITWIRE vs HubSpot AI Search Grader",
+        "summary": "HubSpot's AI Search Grader gives you a snapshot score of how AI answers about your brand. AITWIRE is an AI Performance Platform built for the whole job: it measures across nine leading public AI systems and answer surfaces, recommends corrections and publishes your verified facts to the surfaces it "
+      },
+      {
+        "competitor": "Brandlight",
+        "title": "AITWIRE vs Brandlight",
+        "summary": "Brandlight monitors how AI systems describe your brand. AITWIRE is an AI Performance Platform that adds correction and proof: it recommends corrections and publishes your verified facts to the surfaces it manages, then re-measures to check whether the answer changed across nine leading public AI sys"
+      },
+      {
+        "competitor": "Adobe LLM Optimizer",
+        "title": "AITWIRE vs Adobe LLM Optimizer",
+        "summary": "Adobe LLM Optimizer focuses on optimizing content for LLM ingestion — a content-side tool. AITWIRE is an AI Performance Platform that operates on the outcome: it measures how AI systems actually answer about you across nine leading public AI systems and answer surfaces, recommends corrections and pu"
+      },
+      {
+        "competitor": "SE Ranking AI Visibility Tracker",
+        "title": "AITWIRE vs SE Ranking AI Visibility Tracker",
+        "summary": "SE Ranking's AI Visibility Tracker tells you where your brand appears in AI answers. AITWIRE is an AI Performance Platform that goes several steps further: it recommends corrections and publishes your verified facts to the surfaces it manages and proves any improvement only when it clears the statis"
+      },
+      {
         "competitor": "Ahrefs Brand Radar",
         "title": "AITWIRE vs Ahrefs Brand Radar",
         "summary": "AITWIRE is an AI performance platform that measures how AI assistants answer about a business, manages the verified facts and requirements those systems should follow, and publishes corrective signals to the authority surfaces it controls — then re-measures whether the answer changed. It covers the "
@@ -241,10 +261,10 @@
       "aitwire.com"
     ]
   },
-  "issued_at": 1789708891,
+  "issued_at": 1789881656,
   "validity_window": {
-    "not_before": 1789708891,
-    "not_after": 1789795291
+    "not_before": 1789881656,
+    "not_after": 1789968056
   },
   "endpoints": {
     "authority": "https://api.aitwire.com/.well-known/entity.json?tenant=aitwire",
@@ -263,7 +283,7 @@
       "meta": {
         "auto_created": true
       },
-      "updated_at": 1789624899,
+      "updated_at": 1789797671,
       "revoked_at": null
     }
   ],
@@ -1058,9 +1078,9 @@
   },
   "version_metadata": {
     "schema_version": "aitwire.versioning.v1",
-    "version_counter": 1789624899,
+    "version_counter": 1789797671,
     "version_vector": {
-      "aitwire": 1789624899
+      "aitwire": 1789797671
     },
     "conflict_resolution": {
       "policy_scope": "platform_default",
@@ -1077,7 +1097,7 @@
     "schema_version": "aitwire.signal_freshness.v1",
     "signal_count": 11,
     "product_count": 6,
-    "comparison_count": 7,
+    "comparison_count": 11,
     "category_count": 7,
     "newest_signal_at": "2026-08-30T10:12:59.000Z",
     "oldest_signal_at": "2026-08-26T00:20:01.000Z",
@@ -1096,7 +1116,7 @@
   ],
   "locations": [
     {
-      "name": "Headquarterd",
+      "name": "Headquarters",
       "address": "Ottawa, Ontario, Canada",
       "type": "office",
       "phone": null
@@ -1108,15 +1128,15 @@
   },
   "integrity": {
     "algorithm": "sha256",
-    "content_hash": "28d9c200b1197f98591854341e780af3f273ea0317a99dc2e9cdf1e0c68a560c",
+    "content_hash": "2d482695264261977335d948ca2a062c2afe76b1610bbf22801612cd8e5f3642",
     "policy_hash": "625c190433af07aadf16c99b4a6f8131f73d653961e27d771a571312624b1f56",
-    "combined_etag": "9d77887268a7cce91d08ff0c973f855c17810ac8ca918bae6aa1182f09a2d81e",
-    "signed_at": 1789708891,
+    "combined_etag": "a4b94b4948d57d4580e83dd00ddeeb2eec4b23f674b5bc148cdf733f45062e54",
+    "signed_at": 1789881656,
     "signature": {
       "key_id": "key_aitwire_1788145293",
       "algorithm": "HMAC-SHA256",
-      "detached_signature": "b1846aefad61ee996131d5ce87c0c43e4031a6723fbf20fa21cfacff0ed9b266",
-      "signed_at": 1789708894,
+      "detached_signature": "d426fbea51f0f9c2ab77b54cfd22074d803164371d5da48d7343bd0b78df7bd1",
+      "signed_at": 1789881656,
       "valid_from": 1788145293,
       "valid_until": null,
       "required_artifacts": [
