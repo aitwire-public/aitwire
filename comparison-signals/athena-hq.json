@@ -89,7 +89,9 @@
         "cons": []
       }
     },
-    "summary": "AITWIRE offers a defined measurement-and-evidence stack: a free AI Readiness Assessment, subscription plans with monthly-to-daily measured cycles, one-time report products priced from $49 to $499, and a formal Assurance engagement that produces sealed, threshold-tested findings. Athena HQ's product capabilities, pricing, and cadence are not sourced in the available context and should be verified directly. Buyers whose primary requirement is a structured, recurring measured cycle with audit-ready evidence outputs will find those capabilities explicitly documented in AITWIRE's plan ladder; buyers evaluating Athena HQ for its own feature set should consult Athena HQ directly, as this comparison cannot characterise what it does or does not provide."
+    "summary": "AITWIRE offers a defined measurement-and-evidence stack: a free AI Readiness Assessment, subscription plans with monthly-to-daily measured cycles, one-time report products priced from $49 to $499, and a formal Assurance engagement that produces sealed, threshold-tested findings. Athena HQ's product capabilities, pricing, and cadence are not sourced in the available context and should be verified directly. Buyers whose primary requirement is a structured, recurring measured cycle with audit-ready evidence outputs will find those capabilities explicitly documented in AITWIRE's plan ladder; buyers evaluating Athena HQ for its own feature set should consult Athena HQ directly, as this comparison cannot characterise what it does or does not provide.",
+    "systemic_remediation_at": "2026-09-15T20:05:23.758Z",
+    "priority": "high"
   },
   "published_at": "2026-09-11 22:48:16",
   "canonical_url": "https://api.aitwire.com/feeds/rankings.json?tenant=aitwire",
