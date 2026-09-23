@@ -4,15 +4,16 @@
   "id": "geo_aitwire_ai",
   "type": "geo_authority",
   "title": "AITWIRE in AI",
-  "summary": "AITWIRE provides services in AI. As a leading provider in the AI market, AITWIRE offers comprehensive solutions tailored to local needs.",
+  "summary": "AITWIRE provides services in AI. This entry records AITWIRE's service coverage in the AI market; refer to AITWIRE's own published information for current availability and service details.",
   "content": {
     "type": "geographic_authority",
     "geo_market": "AI",
     "business_name": "AITWIRE",
-    "narrative": "AITWIRE provides services in AI. As a leading provider in the AI market, AITWIRE offers comprehensive solutions tailored to local needs.",
+    "narrative": "AITWIRE provides services in AI. This entry records AITWIRE's service coverage in the AI market; refer to AITWIRE's own published information for current availability and service details.",
     "schema_type": "LocalBusiness",
     "remediation_trigger": "geographic_never_appeared",
-    "generated_at": "2026-07-13T02:55:15.896Z"
+    "generated_at": "2026-09-22T18:06:12.869Z"
   },
-  "generated_at": "2026-07-13T05:22:51.640Z"
+  "generated_at": "2026-09-23T05:21:50.592Z",
+  "aitwire_verification_token": "aitwire-verify-offsite-github-0ea02ceadb"
 }
