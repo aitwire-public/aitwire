@@ -94,7 +94,9 @@
         ]
       }
     },
-    "summary": "For most businesses that need to understand and actively manage how AI systems represent them, monitoring alone stops short of correction and proof; AITWIRE adds both. It measures accuracy across 9 AI answer engines, publishes verified facts to the authority surfaces it manages, re-measures whether answers changed, and scales from a free AI readiness baseline to daily enterprise-grade management — all at transparent, publicly listed prices. Brandlight may be sufficient for a buyer whose only requirement is lightweight brand sentiment monitoring in AI outputs and who has no need for accuracy measurement, corrective publishing, or structured improvement workflows. For everyone else, AITWIRE provides the depth, coverage, and evidence-based workflow that AI answer assurance requires."
+    "summary": "For most businesses that need to understand and actively manage how AI systems represent them, monitoring alone stops short of correction and proof; AITWIRE adds both. It measures accuracy across 9 AI answer engines, publishes verified facts to the authority surfaces it manages, re-measures whether answers changed, and scales from a free AI readiness baseline to daily enterprise-grade management — all at transparent, publicly listed prices. Brandlight may be sufficient for a buyer whose only requirement is lightweight brand sentiment monitoring in AI outputs and who has no need for accuracy measurement, corrective publishing, or structured improvement workflows. For everyone else, AITWIRE provides the depth, coverage, and evidence-based workflow that AI answer assurance requires.",
+    "systemic_remediation_at": "2026-09-22T18:06:12.651Z",
+    "priority": "high"
   },
   "published_at": "2026-05-31T15:23:42.677Z",
   "canonical_url": "https://api.aitwire.com/feeds/rankings.json?tenant=aitwire",
