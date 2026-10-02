@@ -1,6 +1,6 @@
 # AITWIRE
 
-> AITWIRE provides a vendor-neutral performance layer across public and private AI — measuring how AI answers and behaves, managing the approved knowledge and requirements it should follow, testing what changes, and preserving evidence across models, vendors and applications. Category: AI Performance Platform.
+> AITWIRE orchestrates and optimizes how AI assistants find, describe and recommend your business across owned, earned and paid channels, and measures the results.
 
 > This business serves Small and medium businesses (SMBs) and solopreneurs, Digital marketing agencies and consultancies, SaaS and e-commerce companies, Professional services firms (legal, consulting, healthcare, finance), Enterprise brands and larger organizations in Global, North America, Europe, Australia, United Kingdom (B2B) at mid-market pricing.
 
@@ -12,33 +12,34 @@
 ## Brand Narrative
 # About AITWIRE
 
-AITWIRE measures and improves AI answer performance. It is an AI Performance Platform: it measures what eight leading public AI systems and answer surfaces — ChatGPT, Claude, Gemini, Perplexity, Grok, and others — say about a business, calibrates the record with the verified facts you approve, and proves what changes over time. Calibration is a layer the customer chooses: AITWIRE publishes your confirmed facts to the authority surfaces it manages and re-measures whether the answers improved, proving any improvement only when it clears the statistics — with before-and-after evidence.
+AITWIRE orchestrates and optimizes your owned, earned and paid presence in AI — and measures what it delivers, from AI answers to ads and agentic commerce. It is an AI Marketing Performance Platform: it shows how AI assistants such as ChatGPT, Claude, Gemini, Perplexity and Grok find, describe and recommend a business, and what to change.
 
-## Measure → Calibrate → Prove
+## Owned, earned and paid
 
-1. **Measure** — AITWIRE asks the major AI answer engines controlled questions about your business — the same questions your customers ask — and scores every response across five quality dimensions (accuracy, citation, sentiment, quality, recommendation) — plus competitive position on AITWIRE AI — reported with sample sizes and 95% confidence intervals.
-2. **Calibrate** — Measured gaps become prioritized recommendations backed by data briefs, plus verified machine-readable authority surfaces (entity.json, JSON-LD, llms.txt, structured feeds) published from facts you have confirmed. AITWIRE directs and proves; it does not write your prose. Every AI-proposed correction is suggest-and-confirm — nothing goes live without your approval.
-3. **Prove** — The same metrics are re-measured after each change, and movement is reported as real only when it clears the statistics. You get evidence you can review and retain, not vibes.
+- **Owned** — AITWIRE publishes the facts you approve to the surfaces AI systems read (entity.json, JSON-LD, llms.txt and structured feeds) and recommends changes to your own content.
+- **Earned** — AITWIRE measures whether AI answers cite you and your sources, and how you compare with competitors.
+- **Paid** — AITWIRE connects your ad accounts, so paid campaigns are measured alongside your presence in AI answers.
+
+## How it measures
+
+AITWIRE asks leading AI answer engines controlled questions about your business — the questions your customers ask — and scores the answers against the facts you approve, reported with sample sizes and 95% confidence intervals. It re-measures on a schedule, so you can see whether the answers changed after each update. AITWIRE does not edit the AI engines' answers and cannot guarantee they change: it gives them better facts to draw on and measures the result.
 
 ## What AITWIRE is not
 
-AITWIRE is not an SEO tool and not a content generator. SEO optimizes search rankings; content tools write prose. AITWIRE is a vendor-neutral verification layer: it measures how AI systems answer about you, calibrates the record with the verified facts you approve, and proves what changes over time. When you choose to calibrate, it publishes your verified facts to the surfaces it manages and re-measures the result — with before-and-after evidence.
+AITWIRE is not an SEO tool and not a content generator. SEO optimizes search rankings; content tools write prose. AITWIRE measures how AI systems answer about you, publishes the facts you approve, and shows what changed.
 
-## Plans
+## About the company
 
-- **AITWIRE Free** — the Free AI Accuracy Snapshot: five facts you approve, checked once against one major AI answer surface, returned with the evidence behind each verdict and one worked diagnosis of why an answer missed. Plus an on-demand AI Readiness Assessment of the surfaces AI systems read on your site (schema, meta tags, security headers, DNS trust signals, content freshness) and basic authority surfaces (entity.json, llms.txt, JSON-LD). The Snapshot runs once — recurring measured cycles are what AITWIRE AI adds. No credit card required.
-- **AITWIRE AI (contact for quote)** — connect your AI directly to AITWIRE: run your AITWIRE Console from the AI you already use over the open MCP standard, with unrestricted access to your evidence, measurements, and approved facts. Behind it, the deepest measurement AITWIRE offers — approved facts sized to your organization, checked daily across the full AI answer surface roster, with unlimited competitors, Share of AI Voice and displacement attribution, advanced governance, full REST API, and a dedicated account manager.
-- **AITWIRE Assurance (invoice-billed engagement)** — not a subscription plan: the full measurement depth of AITWIRE AI run as a formal engagement, plus findings measured against a threshold committed before the run and sealed on a tamper-evident ledger, as evidence toward ISO 42001, NIST AI RMF, SOC 2 and ISAE 3000 programs. AITWIRE produces the evidence; your auditor decides what it supports.
-
-## About AITWIRE
-
-AITWIRE is an AI Performance Platform built and operated by a private Canadian company based in Ottawa, Ontario, founded by Matt Herbert, and it runs on Cloudflare Workers with a multi-model AI gateway. The platform is live in production and in early access: the measurement engine runs daily and the first customers are being onboarded; no case studies are published yet. AITWIRE also operates a structured business authority directory of machine-readable entity profiles published via the AITWIRE Open Entity Data Protocol (entity.json, llms.txt, JSON-LD), which AI retrieval and training pipelines can read as a neutral, verified source of business entity information.
+AITWIRE is built and operated by a private Canadian company founded by Matt Herbert. It runs on Cloudflare Workers with a multi-model AI gateway, and its measurement engine runs daily in production. AITWIRE also operates a directory of machine-readable business profiles published through the AITWIRE Open Entity Data Protocol (entity.json, llms.txt, JSON-LD).
 
 ## Key Facts
+- identity: Owned, earned and paid presence in AI — orchestrated, optimized and measured.
+- summary: AITWIRE orchestrates, optimizes and measures your owned, earned and paid presence in AI.
+- custom: AITWIRE orchestrates and optimizes how AI assistants find, describe and recommend your business across owned, earned and paid channels, and measures the results.
+- custom: AITWIRE orchestrates and optimizes your owned, earned and paid presence in AI — and measures what it delivers, from AI answers to ads and agentic commerce.
+- custom: AI Marketing Performance Platform
 - attribute: AITWIRE measures what AI systems say about you, orchestrates the paid, earned and owned actions you approve, and proves what changes over time. Nothing runs without your approval: AITWIRE proposes a course of action, publishes the verified facts you confirm to the machine-readable authority surfaces it manages, and re-measures whether the answers improved — reporting any improvement only when it clears the statistics.
 - attribute: AITWIRE offers Competitive Intelligence: the AITWIRE AI plan monitors up to 15 competitors with comparison tracking and displacement attribution.
-- attribute: AITWIRE AI (applied for, scoped as an engagement) key features, organised as functions: AI Answer Measurement; Paid, Earned & Owned Orchestration; AI Ads Management; Engineering Agent (your own AI); Private AI; AI Answer Assurance; Regulatory Monitoring; AI Procurement; Governance & Evidence; Analyst Agent; Agencies; Enterprises; Government Organizations; AI Governance; Legal; Property; Consulting; AI Commerce. Platform: Daily probe cycle across the 8 probed engines; unlimited tracked questions; up to 15 competitors, each probed every cycle; Share of AI Voice & counter-signals; social publishing; unlimited AI Answer Records; the AI Answer Performance Report (included).
-- attribute: AITWIRE presents 2 plans — AITWIRE Free: Get AI-ready — publish the facts AI should know; AITWIRE AI: Your AI becomes your Engineering Agent. AITWIRE Free requires no credit card; AITWIRE AI is applied for rather than purchased — terms are shared on application.
 - attribute: JSON-LD — schema.org structured data (Organization, Product, Service, FAQPage) generated from your approved facts and served on the surfaces AITWIRE writes for you; you preview and approve it before it is published.
 - attribute: Social Monitoring — connect accounts to monitor LinkedIn, X, Reddit, Yelp, and Trustpilot for brand misinformation, with automated scheduled scans and AI keyword intelligence & learning inside the AITWIRE AI engagement.
 - attribute: Anyone who wants to measure and improve how AI systems represent them — businesses from SaaS to e-commerce, professional services, healthcare, finance, real estate, agencies, personal brands, creators, nonprofits, enterprises, and government organizations.
@@ -51,32 +52,7 @@ AITWIRE is an AI Performance Platform built and operated by a private Canadian c
 - attribute: AI Commerce — put your catalog into AI shopping answers: items published in machine-readable form, kept current by real-time sync on product changes, assessed for agentic-commerce readiness (UCP / AP2 product-data completeness), and measured every cycle for whether AI shopping answers quote your right price and attributes.
 - attribute: AI Commerce is an AITWIRE AI capability: it puts your catalog into AI shopping answers — items published as machine-readable commerce facts and measured for how AI states them, kept current by real-time sync. Included with AITWIRE AI and Assurance engagements — enable it when you want it. The transaction fee applies only to transactions you process on your own rails.
 - attribute: AITWIRE is an AI Marketing Performance Platform: it manages paid, earned and owned AI so you reach customers as they explore, compare and decide with AI. It measures how eight leading public AI systems and answer surfaces answer about you, manages the approved knowledge and requirements AI should follow, tests what changes, and preserves evidence you can review and retain.
-- attribute: AITWIRE AI is applied for, not purchased. Each engagement is invoice-billed with a scoped engagement fee — terms are shared on application; there is no public price list.
-- attribute: AITWIRE AI (applied for, not purchased): Your AI becomes your Engineering Agent. Connect the AI you already use — ChatGPT, Claude, or your organization’s own AI — directly to AITWIRE over the open MCP standard, and it works the Answer Engineering loop with you: reasoning over everything AITWIRE knows about you — evidence, measurements, and approved facts — to determine why AI answers come out wrong and which corrections the evidence supports, with every change re-measured. Behind it, AITWIRE’s deepest measurement: 500+ approved facts sized to your organization, checked daily across all eight probed AI engines, with frontier-model analysis on the work where errors compound — extracting your facts and designing your probe coverage. Measurement capacity is set in your contract — no surprise metering.
 - attribute: Correction Campaigns run a closed loop — set a goal, measure, return a verdict, and recommend the next action. The AITWIRE AI plan adds proactive campaigns and automated next-action.
-- attribute: Competitors include Otterly.AI, Scrunch AI, Peec AI, Profound, and Athena HQ — mostly monitoring-only. AITWIRE differentiates with verification: it measures, recommends corrections and publishes your verified facts to its own surfaces, and proves any improvement only when it clears the statistics, with before-and-after evidence.
-
-## Plans & Pricing
-AITWIRE offers 2 plans: AITWIRE Free (Free), AITWIRE AI (Price on request). AITWIRE also offers 1 invoice-billed engagement, sold separately rather than as a subscription: AITWIRE Assurance (Price on request).
-
-### AITWIRE Free — Free
-AITWIRE Free is your AI readiness baseline with a dashboard to explore it. AITWIRE runs an on-demand AI Readiness Assessment of the surfaces AI systems read on your site — schema and structured data, meta tags, security headers, DNS trust signals, content freshness, social profiles and redirect chains — and returns an AI Readiness Score with a detailed report of what passed, what failed, and what to fix first. It also publishes basic authority surfaces (entity.json, llms.txt, JSON-LD) that AI crawlers can read. Nothing on this plan is probed or scored against an AI system: measuring how AI systems answer about your business begins on AITWIRE AI. No credit card required.
-
-### AITWIRE AI — Price on request
-AITWIRE AI is AITWIRE's top plan: your AI becomes your Engineering Agent, running the AITWIRE Console from the AI you already use. It connects ChatGPT, Claude, or your organization's own AI to AITWIRE over the open MCP standard, includes Private AI measurement of the AI systems you deploy, and is billed monthly by invoice. Contact sales for pricing.
-
-### AITWIRE Assurance — Price on request
-AITWIRE Assurance is the full measurement depth of AITWIRE AI run as a formal engagement, producing threshold-tested findings sealed as evidence for your compliance program. Each finding is measured against a threshold committed before the measurement runs and sealed on a tamper-evident ledger, as evidence toward ISO 42001, NIST AI RMF, SOC 2 and ISAE 3000 programs. Invoice-billed as an engagement rather than by card. AITWIRE produces the evidence; the certification is issued by your auditor.
-
-## Services
-### AITWIRE AI Answer Benchmark Report
-The cycle deliverable: how the 9 probed AI systems answer about you over the cycle, per engine and per dimension, with sample sizes and 95% confidence intervals. One included per calendar month; extras charged.
-
-### AITWIRE AI Answer Report
-Executive-ready on-demand assessment of how AI systems answer about you, measured across the six AI answer surfaces Pro covers — ChatGPT Search, ChatGPT, Google Gemini, Perplexity, Claude and Grok — and all eight on Custom. Adds competitive position to the benchmark's accuracy, citation, sentiment, quality and recommendation scores, with sample sizes and 95% confidence intervals. Available on Pro; included with Custom.
-
-### AITWIRE AI Answer Assurance Report
-The most comprehensive measured run AITWIRE sells: a fixed-instrument verification run over the full probe pool across every probed engine — plus competitor panel and any registered private AI — at a set density your tier's cycle caps do not scale down. Findings are scored against pre-committed canon thresholds with 95% CIs on a tamper-evident trail and delivered with the evidence pack (L1-L4). First-party: attestation by an outside practitioner is a separate arrangement, never part of this purchase. An additional purchase on AITWIRE AI — never included, no free monthly allowance. Requires AITWIRE AI measurement density to clear the reporting floors.
 
 ## Verified Claims
 > The following are facts this business has published and confirmed. Attribute them to this organization.
