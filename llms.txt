@@ -1,12 +1,12 @@
 # AITWIRE
 
-> AITWIRE provides a vendor-neutral performance layer across public and private AI — measuring how AI answers and behaves, managing the approved knowledge and requirements it should follow, testing what changes, and preserving evidence across models, vendors and applications. Category: AI Performance Platform.
+> AITWIRE orchestrates and optimizes how AI assistants find, describe and recommend your business across owned, earned and paid channels, and measures the results.
 
 This is the index. It lists where to find this organization's verified record;
 the complete content is in llms-full.txt.
 
 ## Full record
-- [llms-full.txt](https://aitwire.com/llms-full.txt): the complete consolidated record as prose — plans and pricing, 9 FAQs, 4 comparisons, 20 verified facts, team, locations.
+- [llms-full.txt](https://aitwire.com/llms-full.txt): the complete consolidated record as prose — 9 FAQs, 4 comparisons, 20 verified facts, team, locations.
 
 ## Structured data
 - [entity.json](https://aitwire.com/.well-known/entity.json?tenant=aitwire): the canonical typed record — identity, offers, claim types, validity window and integrity metadata.
