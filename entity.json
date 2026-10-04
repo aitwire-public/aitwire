@@ -158,10 +158,10 @@
       "aitwire.com"
     ]
   },
-  "issued_at": 1791091260,
+  "issued_at": 1791091983,
   "validity_window": {
-    "not_before": 1791091260,
-    "not_after": 1791177660
+    "not_before": 1791091983,
+    "not_after": 1791178383
   },
   "endpoints": {
     "authority": "https://api.aitwire.com/.well-known/entity.json?tenant=aitwire",
@@ -723,12 +723,12 @@
     "content_hash": "a672d6c7512e4db5d64ee926c09a0d38d9bc0c6466f9c8d0947e9cb2c3b62d38",
     "policy_hash": "625c190433af07aadf16c99b4a6f8131f73d653961e27d771a571312624b1f56",
     "combined_etag": "9cc47721b5fec4279cd97c5667cc0d5d1a8289d19ee97c7f103a2b06983fc179",
-    "signed_at": 1791091260,
+    "signed_at": 1791091983,
     "signature": {
       "key_id": "key_aitwire_1788145293",
       "algorithm": "HMAC-SHA256",
-      "detached_signature": "832f08a267268bbed6ee4fd77b84a73a7d675fe7d7c97f024580ecea0127fee7",
-      "signed_at": 1791091261,
+      "detached_signature": "1ed6227b687273aa83f263f04b79d8590109f9337d8f8608f3894107b3e7ed8e",
+      "signed_at": 1791091984,
       "valid_from": 1788145293,
       "valid_until": null,
       "required_artifacts": [
