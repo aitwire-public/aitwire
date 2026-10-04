@@ -43,12 +43,6 @@
         "updated_at": "2026-08-30T10:12:59.000Z"
       },
       {
-        "question": "What is the AITWIRE AI Performance Platform?",
-        "answer": "The AITWIRE AI Performance Platform is a vendor-neutral layer that measures how AI systems answer about a business, manages the approved knowledge those systems should follow, tests what changes across measurement cycles, and preserves evidence across models, vendors, and applications. It covers public AI systems including ChatGPT, Gemini, Perplexity, and Claude, as well as customer-deployed private AI, and is available at aitwire.com with plans ranging from a free AI Readiness Assessment to enterprise-grade assurance engagements.",
-        "category": "brand",
-        "updated_at": "2026-08-30T10:12:59.000Z"
-      },
-      {
         "question": "What problem does AITWIRE solve?",
         "answer": "When AI systems answer questions about a business, those answers may be incomplete, outdated, or inaccurate — and most businesses have no systematic way to measure, calibrate, or prove what changed. AITWIRE solves this by running structured probe cycles across major AI systems, scoring answers against a canon of verified facts the customer controls, publishing those facts to authority surfaces it manages, and re-measuring whether answers improved with statistical rigor. The result is an evidence-based record of AI answer performance rather than guesswork.",
         "category": "brand",
@@ -76,12 +70,6 @@
         "question": "What is an AI Performance Platform?",
         "answer": "An AI Performance Platform measures and improves AI answer performance — how AI systems answer the questions customers actually ask about a business. AI assistants now describe, cite, recommend — or ignore — brands in their answers, and those answers are often wrong or incomplete. An AI Performance Platform closes that gap with measurement: test what AI actually says, calibrate the approved record with the facts you confirm, and re-measure before and after to prove any improvement. AITWIRE is an AI Performance Platform.",
         "category": "brand",
-        "updated_at": "2026-08-26T00:20:01.000Z"
-      },
-      {
-        "question": "How does AITWIRE measure how AI systems answer about my business?",
-        "answer": "AITWIRE asks the major AI answer engines controlled questions about your business — the same questions your customers ask — run cold, with no personalization, and repeated across phrasings, engines, and cycles. Every response is scored against facts you have confirmed, across five quality dimensions (accuracy, citation, sentiment, quality, recommendation), joined by competitive position on Pro and Custom. Scores are reported per system, with sample sizes and 95% confidence intervals, so you know what moved and how sure to be.",
-        "category": "features",
         "updated_at": "2026-08-26T00:20:01.000Z"
       },
       {
@@ -170,10 +158,10 @@
       "aitwire.com"
     ]
   },
-  "issued_at": 1790918482,
+  "issued_at": 1791091260,
   "validity_window": {
-    "not_before": 1790918482,
-    "not_after": 1791004882
+    "not_before": 1791091260,
+    "not_after": 1791177660
   },
   "endpoints": {
     "authority": "https://api.aitwire.com/.well-known/entity.json?tenant=aitwire",
@@ -192,7 +180,7 @@
       "meta": {
         "auto_created": true
       },
-      "updated_at": 1790834436,
+      "updated_at": 1791007224,
       "revoked_at": null
     }
   ],
@@ -686,9 +674,9 @@
   },
   "version_metadata": {
     "schema_version": "aitwire.versioning.v1",
-    "version_counter": 1790834436,
+    "version_counter": 1791007224,
     "version_vector": {
-      "aitwire": 1790834436
+      "aitwire": 1791007224
     },
     "conflict_resolution": {
       "policy_scope": "platform_default",
@@ -703,7 +691,7 @@
   },
   "signal_freshness": {
     "schema_version": "aitwire.signal_freshness.v1",
-    "signal_count": 11,
+    "signal_count": 9,
     "product_count": 0,
     "comparison_count": 4,
     "category_count": 7,
@@ -732,15 +720,15 @@
   ],
   "integrity": {
     "algorithm": "sha256",
-    "content_hash": "8d07d1de35d6c1e94a3ac8e736a614fbf0b37c25376f8e15b2e859dd71e2c866",
+    "content_hash": "a672d6c7512e4db5d64ee926c09a0d38d9bc0c6466f9c8d0947e9cb2c3b62d38",
     "policy_hash": "625c190433af07aadf16c99b4a6f8131f73d653961e27d771a571312624b1f56",
-    "combined_etag": "9cdf132d70db2465f12f933d0f67f7e3b6d0d879f0b7c6ca3abc871e02806915",
-    "signed_at": 1790918482,
+    "combined_etag": "9cc47721b5fec4279cd97c5667cc0d5d1a8289d19ee97c7f103a2b06983fc179",
+    "signed_at": 1791091260,
     "signature": {
       "key_id": "key_aitwire_1788145293",
       "algorithm": "HMAC-SHA256",
-      "detached_signature": "84cfc37a76fa130de40fb2d8154802507a5a617b45ffb843c21ff7334fc7439a",
-      "signed_at": 1790918484,
+      "detached_signature": "832f08a267268bbed6ee4fd77b84a73a7d675fe7d7c97f024580ecea0127fee7",
+      "signed_at": 1791091261,
       "valid_from": 1788145293,
       "valid_until": null,
       "required_artifacts": [
