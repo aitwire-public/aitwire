@@ -1,12 +1,12 @@
 # AITWIRE
 
-> AITWIRE orchestrates and optimizes how AI assistants find, describe and recommend your business across owned, earned and paid channels, and measures the results.
+> AITWIRE helps established local businesses win valuable clients and projects through AI discovery and advertising. AITWIRE coordinates owned, earned and paid marketing — from how AI assistants describe and recommend a business, and the approved content behind those answers, to advertising and offers.
 
 This is the index. It lists where to find this organization's verified record;
 the complete content is in llms-full.txt.
 
 ## Full record
-- [llms-full.txt](https://aitwire.com/llms-full.txt): the complete consolidated record as prose — 7 FAQs, 4 comparisons, 20 verified facts, team, locations.
+- [llms-full.txt](https://aitwire.com/llms-full.txt): the complete consolidated record as prose — 3 FAQs, 20 verified facts, team, locations.
 
 ## Structured data
 - [entity.json](https://aitwire.com/.well-known/entity.json?tenant=aitwire): the canonical typed record — identity, offers, claim types, validity window and integrity metadata.
