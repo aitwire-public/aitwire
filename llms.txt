@@ -1,6 +1,6 @@
 # AITWIRE
 
-> AITWIRE helps established local businesses win valuable clients and projects through AI discovery and advertising. AITWIRE coordinates owned, earned and paid marketing — from how AI assistants describe and recommend a business, and the approved content behind those answers, to advertising and offers.
+> AITWIRE helps local businesses win valuable clients and projects through AI discovery and advertising. AITWIRE coordinates owned, earned and paid marketing — from how AI assistants describe and recommend a business, and the approved content behind those answers, to advertising and offers.
 
 This is the index. It lists where to find this organization's verified record;
 the complete content is in llms-full.txt.
