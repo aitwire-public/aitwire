@@ -75,10 +75,10 @@
       "aitwire.com"
     ]
   },
-  "issued_at": 1792473639,
+  "issued_at": 1792732849,
   "validity_window": {
-    "not_before": 1792473639,
-    "not_after": 1792560039
+    "not_before": 1792732849,
+    "not_after": 1792819249
   },
   "endpoints": {
     "authority": "https://api.aitwire.com/.well-known/entity.json?tenant=aitwire",
@@ -97,7 +97,7 @@
       "meta": {
         "auto_created": true
       },
-      "updated_at": 1792389624,
+      "updated_at": 1792648834,
       "revoked_at": null
     }
   ],
@@ -591,9 +591,9 @@
   },
   "version_metadata": {
     "schema_version": "aitwire.versioning.v1",
-    "version_counter": 1792389624,
+    "version_counter": 1792648834,
     "version_vector": {
-      "aitwire": 1792389624
+      "aitwire": 1792648834
     },
     "conflict_resolution": {
       "policy_scope": "platform_default",
@@ -614,10 +614,10 @@
     "category_count": 0,
     "newest_signal_at": "2026-08-30T10:12:59.000Z",
     "oldest_signal_at": "2026-08-26T00:20:01.000Z",
-    "last_coverage_measurement": "2026-09-29 20:04:11",
-    "last_coverage_pct": 33.3,
-    "last_coverage_facts_total": 3,
-    "last_coverage_facts_covered": 1
+    "last_coverage_measurement": "2026-10-20 11:17:47",
+    "last_coverage_pct": 28.6,
+    "last_coverage_facts_total": 14,
+    "last_coverage_facts_covered": 2
   },
   "personnel": [
     {
@@ -637,15 +637,15 @@
   ],
   "integrity": {
     "algorithm": "sha256",
-    "content_hash": "d010c5e14d7796e734e403a34de6aac7665d692f4e0c28c7d46014b559b47681",
+    "content_hash": "5bc91202537372295ab32a827262c36448a35beac8bb5fd5a669f148810c96fc",
     "policy_hash": "625c190433af07aadf16c99b4a6f8131f73d653961e27d771a571312624b1f56",
-    "combined_etag": "f4592b376aea73d4b7b45c07b55e28aa6e457d48b34167da12d66f073be9781d",
-    "signed_at": 1792473639,
+    "combined_etag": "14ddefad6a07ff6a79d30f043c7317a5fd2416257a4e76bb087376fe02827d48",
+    "signed_at": 1792732849,
     "signature": {
       "key_id": "key_aitwire_1788145293",
       "algorithm": "HMAC-SHA256",
-      "detached_signature": "dc748acb41b891244c01925fa24bc087d5b52b2f3b045ea09d7d13d33e72964d",
-      "signed_at": 1792473640,
+      "detached_signature": "5bfb0f16cdc2f51530410f51f55b932343b2d4f4d439941096ae37cb3de62d05",
+      "signed_at": 1792732850,
       "valid_from": 1788145293,
       "valid_until": null,
       "required_artifacts": [
