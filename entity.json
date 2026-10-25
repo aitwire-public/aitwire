@@ -75,10 +75,10 @@
       "aitwire.com"
     ]
   },
-  "issued_at": 1792732849,
+  "issued_at": 1792905637,
   "validity_window": {
-    "not_before": 1792732849,
-    "not_after": 1792819249
+    "not_before": 1792905637,
+    "not_after": 1792992037
   },
   "endpoints": {
     "authority": "https://api.aitwire.com/.well-known/entity.json?tenant=aitwire",
@@ -97,7 +97,7 @@
       "meta": {
         "auto_created": true
       },
-      "updated_at": 1792648834,
+      "updated_at": 1792821630,
       "revoked_at": null
     }
   ],
@@ -591,9 +591,9 @@
   },
   "version_metadata": {
     "schema_version": "aitwire.versioning.v1",
-    "version_counter": 1792648834,
+    "version_counter": 1792821630,
     "version_vector": {
-      "aitwire": 1792648834
+      "aitwire": 1792821630
     },
     "conflict_resolution": {
       "policy_scope": "platform_default",
@@ -637,15 +637,15 @@
   ],
   "integrity": {
     "algorithm": "sha256",
-    "content_hash": "5bc91202537372295ab32a827262c36448a35beac8bb5fd5a669f148810c96fc",
+    "content_hash": "946dd76e91eebae06276d016c6539a4a1b85d3a2b0320d5f10a7417d4ae78b5d",
     "policy_hash": "625c190433af07aadf16c99b4a6f8131f73d653961e27d771a571312624b1f56",
-    "combined_etag": "14ddefad6a07ff6a79d30f043c7317a5fd2416257a4e76bb087376fe02827d48",
-    "signed_at": 1792732849,
+    "combined_etag": "a9d30ed9ba89329ceda194da6cf4c68390b4939f7cc498e61b217b5c4969c049",
+    "signed_at": 1792905637,
     "signature": {
       "key_id": "key_aitwire_1788145293",
       "algorithm": "HMAC-SHA256",
-      "detached_signature": "5bfb0f16cdc2f51530410f51f55b932343b2d4f4d439941096ae37cb3de62d05",
-      "signed_at": 1792732850,
+      "detached_signature": "7143bb88102d04cabd22723a2327e56c775bb026310400efdd86e9780e02abc2",
+      "signed_at": 1792905637,
       "valid_from": 1788145293,
       "valid_until": null,
       "required_artifacts": [
