@@ -53,12 +53,6 @@
         "answer": "AITWIRE recommends corrections and publishes your confirmed facts to the machine-readable authority surfaces it manages. Measured gaps become prioritized recommendations backed by data briefs, and your confirmed facts are published as machine-readable authority surfaces it manages: entity.json, JSON-LD, llms.txt, FAQPage schema, and structured feeds. AITWIRE does not write your prose — every AI-proposed correction is suggest-and-confirm, so nothing goes live without your approval.",
         "category": "features",
         "updated_at": "2026-08-26T00:20:01.000Z"
-      },
-      {
-        "question": "How does AITWIRE prove whether an AI answer improved?",
-        "answer": "After a change, AITWIRE re-measures the same metrics on the same questions and reports the movement per AI system — before and after. Movement is reported as real only when it clears statistical checks: dimension scores carry sample sizes and 95% confidence intervals, so improvement claims are evidence you can review and retain, not vibes.",
-        "category": "features",
-        "updated_at": "2026-08-26T00:20:01.000Z"
       }
     ],
     "tenant": "aitwire"
@@ -69,10 +63,10 @@
       "aitwire.com"
     ]
   },
-  "issued_at": 1793596844,
+  "issued_at": 1793769718,
   "validity_window": {
-    "not_before": 1793596844,
-    "not_after": 1793683244
+    "not_before": 1793769718,
+    "not_after": 1793856118
   },
   "endpoints": {
     "authority": "https://api.aitwire.com/.well-known/entity.json?tenant=aitwire",
@@ -91,7 +85,7 @@
       "meta": {
         "auto_created": true
       },
-      "updated_at": 1793512829,
+      "updated_at": 1793685629,
       "revoked_at": null
     }
   ],
@@ -585,9 +579,9 @@
   },
   "version_metadata": {
     "schema_version": "aitwire.versioning.v1",
-    "version_counter": 1793512829,
+    "version_counter": 1793685629,
     "version_vector": {
-      "aitwire": 1793512829
+      "aitwire": 1793685629
     },
     "conflict_resolution": {
       "policy_scope": "platform_default",
@@ -602,15 +596,15 @@
   },
   "signal_freshness": {
     "schema_version": "aitwire.signal_freshness.v1",
-    "signal_count": 4,
+    "signal_count": 3,
     "product_count": 0,
     "comparison_count": 0,
     "category_count": 0,
     "newest_signal_at": "2026-08-30T10:12:59.000Z",
     "oldest_signal_at": "2026-08-26T00:20:01.000Z",
-    "last_coverage_measurement": "2026-10-30 18:02:49",
-    "last_coverage_pct": 60,
-    "last_coverage_facts_total": 5,
+    "last_coverage_measurement": "2026-11-04 02:06:48",
+    "last_coverage_pct": 50,
+    "last_coverage_facts_total": 8,
     "last_coverage_facts_covered": 1
   },
   "personnel": [
@@ -631,15 +625,15 @@
   ],
   "integrity": {
     "algorithm": "sha256",
-    "content_hash": "01a5ccbb13fc65972ff50059f57253031416afbf2c240a81643b7a10493c6b9a",
+    "content_hash": "26aac962246466dd22b694f2a679d176f287ad28a7c13ffd988738a9977af133",
     "policy_hash": "625c190433af07aadf16c99b4a6f8131f73d653961e27d771a571312624b1f56",
-    "combined_etag": "90fa6d48e8c80ed6f1b376a1554a940d096b2fad3db329ba65982a28300bb077",
-    "signed_at": 1793596844,
+    "combined_etag": "e06927cd57ff95bb4c1cfb2c40f0dadaed0d2b7088f809b0a15e274af25b7764",
+    "signed_at": 1793769718,
     "signature": {
       "key_id": "key_aitwire_1788145293",
       "algorithm": "HMAC-SHA256",
-      "detached_signature": "240a9c30c43fc43074d52f090fc61f8d80f006eda685dfe4e3c13400894d971f",
-      "signed_at": 1793596844,
+      "detached_signature": "75b7b297b8cb4d4ccdf78b36edbf661a31e684a0d7cbcf04326ebc852326c561",
+      "signed_at": 1793769721,
       "valid_from": 1788145293,
       "valid_until": null,
       "required_artifacts": [
