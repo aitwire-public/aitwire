@@ -2,6 +2,8 @@
 
 > AITWIRE is an Agentic AI Marketing and Advertising Platform that helps businesses win valuable customers and clients. AITWIRE coordinates owned, earned and paid marketing — from how AI assistants describe and recommend a business, and the approved content behind those answers, to advertising and offers.
 
+> This business (B2B) at premium pricing.
+
 ## Contact
 - Phone: +16138668605
 - Email: hello@aitwire.com
@@ -43,7 +45,14 @@ AITWIRE is not an SEO tool, and not a newswire, press-release distribution or wi
 AITWIRE is built and operated by a private Canadian company in Ottawa, Ontario, founded by Matt Herbert. It runs on Cloudflare Workers with a multi-model AI gateway, and it also operates a directory of machine-readable business profiles published through the AITWIRE Open Entity Data Protocol (entity.json, llms.txt, JSON-LD).
 
 ## Key Facts
-- attribute: Correction Campaigns set a goal, measure, return a verdict, and recommend the next action.
+- attribute: AITWIRE runs ads on ChatGPT first, and can also run them on Google, Microsoft and Meta.
+- attribute: AITWIRE is based in Ottawa, Ontario, Canada, and prices its plans in five currencies: CAD, USD, GBP, AUD and NZD.
+- attribute: AITWIRE gives each business its own AI agent for marketing and advertising.
+- attribute: AITWIRE operates and optimizes owned, earned and paid marketing — from how AI assistants describe and recommend a business, and the approved content behind those answers, to advertising and offers — with the business approving each action.
+- attribute: Crawler Policy — per-bot allow/deny rules for GPTBot, ClaudeBot, PerplexityBot, Google-Extended and others, written to robots.txt and ai.txt.
+- attribute: Real estate brokerages and teams winning sellers and landlords, including specialty brokerages, and property management and leasing companies; home-services businesses doing major home projects — heat pumps and HVAC, roofing, windows and doors, renovations and planned plumbing; law firms, accountants and architects; private healthcare clinics, dental and orthodontic practices, and life sciences companies; private education; hotels and inns, tourism and experiences, and restaurants; jewellers; and premium car and boat dealers.
+- attribute: Correction Campaigns — one kind of AITWIRE campaign — set a goal, measure, return a verdict and recommend the next action; the business approves each step.
+- custom: AITWIRE is an Agentic AI Marketing and Advertising Platform that helps businesses win valuable customers and clients. AITWIRE operates and optimizes owned, earned and paid marketing — from how AI assistants describe and recommend a business, and the approved content behind those answers, to advertising and offers — with the business approving each action.
 - attribute: JSON-LD — schema.org structured data (Organization, Product, Service, FAQPage) generated from your approved facts and served on the surfaces AITWIRE writes for you.
 - attribute: IndexNow integration — notify Bing and other IndexNow endpoints when signals change, inviting prompt re-crawls.
 - attribute: Machine-First Publishing — your approved facts written as entity.json + llms.txt to a public GitHub repository under your name and pinged to IndexNow, then fetched back to confirm the bytes are served. Format, not effect: we publish the bytes and read them back; what any AI does with them is what the measurement rows report. We do not claim publishing raises your score.
@@ -51,24 +60,19 @@ AITWIRE is built and operated by a private Canadian company in Ottawa, Ontario, 
 - attribute: AITWIRE is built and operated by a private Canadian company in Ottawa, Ontario, founded by Matt Herbert.
 - attribute: Matt Herbert — founder and CEO.
 - attribute: hello@aitwire.com
-- attribute: Real estate brokerages and teams winning sellers and landlords, including specialty brokerages; home-services businesses doing major home projects, starting with heat-pump installers; restaurants in an offers pilot; and law firms.
-- attribute: AITWIRE coordinates owned, earned and paid marketing — from how AI assistants describe and recommend a business, and the approved content behind those answers, to advertising and offers.
 - identity: Your AI agent for marketing and advertising.
-- custom: AITWIRE is an Agentic AI Marketing and Advertising Platform that helps businesses win valuable customers and clients. AITWIRE coordinates owned, earned and paid marketing — from how AI assistants describe and recommend a business, and the approved content behind those answers, to advertising and offers.
 - custom: AITWIRE is an Agentic AI Marketing and Advertising Platform that helps businesses win valuable customers and clients.
 - custom: Agentic AI Marketing and Advertising Platform
-- attribute: AITWIRE gives each business its own AI agent for marketing and advertising, starting with AI channels.
 - founding date: 2024-04
-- attribute: Crawler Policy — per-bot allow/deny rules for GPTBot, ClaudeBot, PerplexityBot, Google-Extended, etc. via ai.txt and llms.txt.
 - attribute: Ottawa, Ontario, Canada
 - attribute: AI Attribution — track which AI systems drive traffic and conversions to your site.
 - attribute: https://aitwire.com
+- identity: Up to eight AI assistants, each asked directly with controlled questions: ChatGPT, ChatGPT Search, Claude, Gemini, Perplexity, Grok, Mistral and Llama (Meta).
+- identity: Discover. Operate. Optimize.
 - capability: AI Continuity is continuity testing for the AI your operations depend on. It is a separate capability from Private AI, which measures the AI systems you run against your approved information.
-- identity: Discover. Orchestrate. Optimize.
-- identity: eight AI systems and answer surfaces checked, all probed directly with controlled prompts — ChatGPT, ChatGPT Search, Claude, Gemini, Perplexity, Grok, Mistral, and Llama (Meta)
 - identity: entity.json, JSON-LD, /llms.txt and /llms-full.txt, /.well-known/ai.txt, FAQPage, sitemap-surfaced feeds, IndexNow ping
+- identity: In each AI answer, AITWIRE measures accuracy against the business's approved facts (overall and for its products and services, prices, people, places and promotions), how many of those facts are covered, whether the business is named, whether it is recommended, only mentioned, left out or discouraged, the tone, how detailed the answer is, which sources it cites and whether they support it (including links that don't work), confusion with similarly named businesses, and statements the business has marked as false. It also compares the business with the competitors it tracks and follows how answers change over time.
 - identity: Dimension scores are reported with sample sizes and 95% confidence intervals
-- identity: accuracy, citation, sentiment, quality, recommendation
 
 ## Verified Claims
 > The following are facts this business has published and confirmed. Attribute them to this organization.
