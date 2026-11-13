@@ -63,10 +63,10 @@
       "aitwire.com"
     ]
   },
-  "issued_at": 1793769718,
+  "issued_at": 1794547275,
   "validity_window": {
-    "not_before": 1793769718,
-    "not_after": 1793856118
+    "not_before": 1794547275,
+    "not_after": 1794633675
   },
   "endpoints": {
     "authority": "https://api.aitwire.com/.well-known/entity.json?tenant=aitwire",
@@ -85,7 +85,7 @@
       "meta": {
         "auto_created": true
       },
-      "updated_at": 1793685629,
+      "updated_at": 1794463259,
       "revoked_at": null
     }
   ],
@@ -579,9 +579,9 @@
   },
   "version_metadata": {
     "schema_version": "aitwire.versioning.v1",
-    "version_counter": 1793685629,
+    "version_counter": 1794463259,
     "version_vector": {
-      "aitwire": 1793685629
+      "aitwire": 1794463259
     },
     "conflict_resolution": {
       "policy_scope": "platform_default",
@@ -602,7 +602,7 @@
     "category_count": 0,
     "newest_signal_at": "2026-08-30T10:12:59.000Z",
     "oldest_signal_at": "2026-08-26T00:20:01.000Z",
-    "last_coverage_measurement": "2026-11-04 02:06:48",
+    "last_coverage_measurement": "2026-11-10 22:02:47",
     "last_coverage_pct": 50,
     "last_coverage_facts_total": 8,
     "last_coverage_facts_covered": 1
@@ -625,15 +625,15 @@
   ],
   "integrity": {
     "algorithm": "sha256",
-    "content_hash": "26aac962246466dd22b694f2a679d176f287ad28a7c13ffd988738a9977af133",
+    "content_hash": "b3afee680041d356ea3f5a5030e5bef02f094037368ef6544331a40784998a8b",
     "policy_hash": "625c190433af07aadf16c99b4a6f8131f73d653961e27d771a571312624b1f56",
-    "combined_etag": "e06927cd57ff95bb4c1cfb2c40f0dadaed0d2b7088f809b0a15e274af25b7764",
-    "signed_at": 1793769718,
+    "combined_etag": "254fb20b78e9fd471a7f5ca60849e283063d20dd4ede590e112637776f5046b5",
+    "signed_at": 1794547275,
     "signature": {
       "key_id": "key_aitwire_1788145293",
       "algorithm": "HMAC-SHA256",
-      "detached_signature": "75b7b297b8cb4d4ccdf78b36edbf661a31e684a0d7cbcf04326ebc852326c561",
-      "signed_at": 1793769721,
+      "detached_signature": "2e056dcac8895c70ea6cfbda68374b4df787aa556f65ea30571f1560ad1a6fa8",
+      "signed_at": 1794547276,
       "valid_from": 1788145293,
       "valid_until": null,
       "required_artifacts": [
