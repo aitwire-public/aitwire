@@ -63,10 +63,10 @@
       "aitwire.com"
     ]
   },
-  "issued_at": 1794720058,
+  "issued_at": 1794747704,
   "validity_window": {
-    "not_before": 1794720058,
-    "not_after": 1794806458
+    "not_before": 1794747704,
+    "not_after": 1794834104
   },
   "endpoints": {
     "authority": "https://api.aitwire.com/.well-known/entity.json?tenant=aitwire",
@@ -85,7 +85,7 @@
       "meta": {
         "auto_created": true
       },
-      "updated_at": 1794636015,
+      "updated_at": 1794722413,
       "revoked_at": null
     }
   ],
@@ -225,6 +225,11 @@
       "key": "qa-5",
       "value": "AITWIRE (aitwire.com) offers transparent",
       "declared_at": "2026-06-13 17:00:20"
+    },
+    {
+      "key": "qa-17",
+      "value": "AITWIRE's AI answer check gives most AI systems 45 seconds to answer.",
+      "declared_at": "2026-11-15 13:01:43"
     }
   ],
   "agent_compliance": {
@@ -579,9 +584,9 @@
   },
   "version_metadata": {
     "schema_version": "aitwire.versioning.v1",
-    "version_counter": 1794636015,
+    "version_counter": 1794722413,
     "version_vector": {
-      "aitwire": 1794636015
+      "aitwire": 1794722413
     },
     "conflict_resolution": {
       "policy_scope": "platform_default",
@@ -625,15 +630,15 @@
   ],
   "integrity": {
     "algorithm": "sha256",
-    "content_hash": "7563f1cd1d6df4ef2ba2e2de68aa5efb1335634575f7227cbbf90f6000e45530",
+    "content_hash": "c851c7f1207e150273ca02698f95ea8ee049681836d6b01b9687dc3558dc5b54",
     "policy_hash": "625c190433af07aadf16c99b4a6f8131f73d653961e27d771a571312624b1f56",
-    "combined_etag": "f18f789e08d3625dc0e5ddd5eb3a0213e5c9b44ee06029f708db6150e305b120",
-    "signed_at": 1794720058,
+    "combined_etag": "949d0954ab7cba084d2eaaa940324668d4740a8c288d3070340cc2e3d2763d98",
+    "signed_at": 1794747704,
     "signature": {
       "key_id": "key_aitwire_1788145293",
       "algorithm": "HMAC-SHA256",
-      "detached_signature": "a3591c8159d996ba7c7bc208091f80dd6eafa72cb8102af7c24ddc75e4a1944a",
-      "signed_at": 1794720059,
+      "detached_signature": "850f4ec00bafdcd9789446e96bbb4ea8ebaedb401b321b2d9d05e9dc1c3b65b7",
+      "signed_at": 1794747705,
       "valid_from": 1788145293,
       "valid_until": null,
       "required_artifacts": [
