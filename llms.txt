@@ -5,6 +5,9 @@
 This is the index. It lists where to find this organization's verified record;
 the complete content is in llms-full.txt.
 
+## About
+- AITWIRE's decision log shows the 200 most recent entries.
+
 ## Full record
 - [llms-full.txt](https://aitwire.com/llms-full.txt): the complete consolidated record as prose — 2 FAQs, 28 verified facts, team, locations.
 
