@@ -14,7 +14,7 @@ AITWIRE gives your business an AI agent to coordinate its marketing and advertis
 
 ## How to run it
 
-Start with AITWIRE Managed, where AITWIRE’s team sets up and supervises your agent, checks every finding before it reaches you, collects the approvals and carries out the approved work. Agencies run AITWIRE for their clients through AITWIRE for Agencies, our partner programme. AITWIRE Custom is for Private AI and custom builds, scoped to your workflows and quoted for each project. Managing your own agent isn’t open yet.
+Start with AITWIRE Managed, where AITWIRE’s team sets up and supervises your agent, checks every finding before it reaches you, collects the approvals and carries out the approved work. Agencies run AITWIRE for their clients through AITWIRE for Agencies, our partner programme. AITWIRE Enterprise is for needs larger or more custom than Pro, scoped and priced with you. Managing your own agent isn’t open yet.
 
 ## Who it is for
 
