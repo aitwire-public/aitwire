@@ -9,7 +9,7 @@ the complete content is in llms-full.txt.
 - AITWIRE's decision log shows the 200 most recent entries.
 
 ## Full record
-- [llms-full.txt](https://aitwire.com/llms-full.txt): the complete consolidated record as prose — 2 FAQs, 28 verified facts, team, locations.
+- [llms-full.txt](https://aitwire.com/llms-full.txt): the complete consolidated record as prose — 2 FAQs, 27 verified facts, team, locations.
 
 ## Structured data
 - [entity.json](https://aitwire.com/.well-known/entity.json?tenant=aitwire): the canonical typed record — identity, offers, claim types, validity window and integrity metadata.
