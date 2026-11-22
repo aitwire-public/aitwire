@@ -26,7 +26,7 @@ AITWIRE gives your business an AI agent to coordinate its marketing and advertis
 
 ## How to run it
 
-Start with AITWIRE Managed, where AITWIRE’s team sets up and supervises your agent, checks every finding before it reaches you, collects the approvals and carries out the approved work. Agencies run AITWIRE for their clients through AITWIRE for Agencies, our partner programme. AITWIRE Custom is for Private AI and custom builds, scoped to your workflows and quoted for each project. Managing your own agent isn’t open yet.
+Start with AITWIRE Managed, where AITWIRE’s team sets up and supervises your agent, checks every finding before it reaches you, collects the approvals and carries out the approved work. Agencies run AITWIRE for their clients through AITWIRE for Agencies, our partner programme. AITWIRE Enterprise is for needs larger or more custom than Pro, scoped and priced with you. Managing your own agent isn’t open yet.
 
 ## Who it is for
 
@@ -69,7 +69,6 @@ AITWIRE is built and operated by a private Canadian company in Ottawa, Ontario, 
 - attribute: https://aitwire.com
 - identity: Up to eight AI assistants, each asked directly with controlled questions: ChatGPT, ChatGPT Search, Claude, Gemini, Perplexity, Grok, Mistral and Llama (Meta).
 - identity: Discover. Operate. Optimize.
-- capability: AI Continuity is continuity testing for the AI your operations depend on. It is a separate capability from Private AI, which measures the AI systems you run against your approved information.
 - identity: entity.json, JSON-LD, /llms.txt and /llms-full.txt, /.well-known/ai.txt, FAQPage, sitemap-surfaced feeds, IndexNow ping
 - identity: In each AI answer, AITWIRE measures accuracy against the business's approved facts (overall and for its products and services, prices, people, places and promotions), how many of those facts are covered, whether the business is named, whether it is recommended, only mentioned, left out or discouraged, the tone, how detailed the answer is, which sources it cites and whether they support it (including links that don't work), confusion with similarly named businesses, and statements the business has marked as false. It also compares the business with the competitors it tracks and follows how answers change over time.
 - identity: Dimension scores are reported with sample sizes and 95% confidence intervals
